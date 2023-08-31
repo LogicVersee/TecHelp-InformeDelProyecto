@@ -17,10 +17,10 @@
 ## Integrantes:
 
 
-* ### Morales Quispe Brayan Smith   u20211f984 
+* ### Morales Quispe Brayan Smith       u20211f984 
 * ### Ramirez Mendez Sebastián André    u20191e575     
 * ### Lagos Aguilar Luis Eduardo        u202121975    
-* ### 
+* ### Ramos Calderon Giovanni Andres    u202122512
 * ### 
 -----
 ## Registro de Versiones Del Informe
