@@ -21,7 +21,7 @@
 * ### Ramirez Mendez Sebastián André    u20191e575     
 * ### Lagos Aguilar Luis Eduardo        u202121975    
 * ### Ramos Calderon Giovanni Andres    u202122512
-* ### 
+* ### Saldaña Vela, Janover Gonzalo     u20201b510
 -----
 ## Registro de Versiones Del Informe
 
@@ -116,6 +116,7 @@
 
 | Criterio Especifico | Acciones Realizadas | Conclusiones | 
 |----------|----------|----------|
+| Row 1    | Cell 2   | Cell 3   | 
 | Row 1    | Cell 2   | Cell 3   | 
 
 -----
