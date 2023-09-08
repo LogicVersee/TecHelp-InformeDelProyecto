@@ -116,7 +116,7 @@
 
 | Criterio Especifico | Acciones Realizadas | Conclusiones | 
 |----------|----------|----------|
-| Row 1    | Cell 2   | Cell 3   | 
-| Row 1    | Cell 2   | Cell 3   | 
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería..    | Cell 2   | Cell 3   | 
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.   | Cell 2   | Cell 3   | 
 
 -----
