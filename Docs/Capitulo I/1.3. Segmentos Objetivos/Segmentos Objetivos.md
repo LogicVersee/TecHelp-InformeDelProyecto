@@ -1,3 +1,5 @@
+## 1.3. Segmentos Objetivos
+
 Nuestro público objetivo abarca a técnicos que desean expandir su negocio de reparación de teléfonos móviles para aumentar sus ingresos a través de nuestra plataforma. También incluye a usuarios que buscan flexibilidad, confiabilidad y seguridad al buscar soluciones para sus dispositivos móviles. Este enfoque nos permite aumentar las ganancias, ya que la mayoría de las personas posee un teléfono móvil. Según el Instituto Nacional de Estadística e Informática (INEI), el mercado móvil experimentó un crecimiento del 9.6% a fines del año 2021.
 
 **¿Cuáles son las características distintivas de las personas interesadas en nuestro proyecto?**
