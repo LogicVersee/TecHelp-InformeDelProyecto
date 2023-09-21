@@ -602,7 +602,7 @@ A continuación presentamos el diagrama de contexto de nuestra arquitectura, el 
 ### 4.6.2. Software Architecture Container Diagrams.
 
 En esta sección indicamos los contenedores de nuestro diagrama de contexto. Donde se muestan los elementos tecnológicos de alto nivel.
-![imagen](Img/Chapter-IV/structurizr-85868-Container-001.png)
+![imagen](Img/Chapter-IV/structurizr-86231-Container-001.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
