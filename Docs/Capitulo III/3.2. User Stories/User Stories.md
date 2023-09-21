@@ -1,4 +1,4 @@
-### 3.2. User Stories
+## 3.2. User Stories
 
 | Epics ID | Titulo | Descripción |
 | -------- | ------ | ----------- |
