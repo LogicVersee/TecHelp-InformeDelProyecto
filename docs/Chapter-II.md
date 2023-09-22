@@ -642,3 +642,4 @@ El 100% de los técnicos no ha escuchado de una aplicación web que ofrezca servic
 El 100% de los técnicos cree que la aplicación podría solucionar problemas comunes, especialmente en relación con estafas.  
 El 50% de los técnicos sugiere la posibilidad de incluir una función de reseñas destacadas en los perfiles de técnicos.  
 El 50% de los técnicos sugiere la venta de celulares y accesorios en la aplicación como una función adicional.
+
