@@ -61,7 +61,7 @@ El Impact Map nos permite representar la meta, los impactos que queremos lograr 
 #### User: Cliente que busca reparar su celular
 ![texto_alternativo](/assets/img/clienteImpactMap.png)
 #### User: Técnico que busca aumentar la cantidad de sus clientes y mejorar su sistema de trabajo.
-![texto_alternativo](/assets/img/tecnicoImpactMap.png)
+![texto_alternativo](/assets/img/tecnicoImpacMap.png)
 
 ## 3.4. Product Backlog
 Al culminar las redacciones de los User Story,debemos priorizarlas. El product Backlog, genera un orden de priorizacion entre cada User Story. Además, para cada historia de usuario se generar un Story point, mediante una puntacion fibonacci el equipo le asigna el nivel de complejidad que se requiere para completar exitosemente ese user story.
