@@ -652,11 +652,11 @@ En este apartado se mostrarán los artefactos resultantes del proceso de recolecc
 En esta parte del documento, se presentan perfiles ficticios que personifican a los grupos de interés identificados y que han sido objeto de entrevistas. Los datos proporcionados abarcan información demográfica, características de personalidad, motivaciones, preferencias, objetivos, desafíos y patrones de conducta. Estos detalles están respaldados por las entrevistas realizadas anteriormente. Se han empleado herramientas disponibles en UXPressia para facilitar la creación de estos artefactos.
 
 #### User Empathy Mapping: Técnico
-![texto_alternativo](../assets/img/chapter-II/Tecnico.png)
+![User Empathy Mapping: Técnico](../assets/img/chapter-II/Tecnico.png)
 
 #### User Empathy Mapping: Cliente
 
-![texto_alternativo](../assets/img/chapter-II/Cliente.png)
+![User Empathy Mapping: Cliente](../assets/img/chapter-II/Cliente.png)
 
 
 ### 2.3.2. User Task Matrix
@@ -807,11 +807,11 @@ En esta sección, desarrollamos los User Journey Mapping para cada User Persona (
 
 #### User Journey Mapping: Cliente
 
-![texto_alternativo](../assets/img/chapter-II/cliente_journey_map.png)
+![User Journey Mapping: Cliente](../assets/img/chapter-II/cliente_journey_map.png)
 
 #### User Journey Mapping: Técnico
 
-![texto_alternativo](../assets/img/chapter-II/TecnicoJourneyMap.jpeg)
+![User Journey Mapping: Técnico](../assets/img/chapter-II/TecnicoJourneyMap.jpeg)
 
 
 ### 2.3.4. Empathy Mapping
@@ -820,11 +820,11 @@ En esta sección, se presenta el Empathy Mapping realizado para ambos segmentos (
 
 #### User Empathy Mapping: Cliente
 
-![texto_alternativo](ImgUsersPersonas/ClienteEmpathyMap.png)
+![User Empathy Mapping: Cliente](../assets/img/chapter-II/ClienteEmpathyMap.png)
 
 #### User Empathy Mapping: Técnico
 
-![texto_alternativo](ImgUsersPersonas/TecnicoEmpathyMap.png)
+![User Empathy Mapping: Técnico](../assets/img/chapter-II/TecnicoEmpathyMap.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
