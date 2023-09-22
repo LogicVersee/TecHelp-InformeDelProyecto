@@ -1,3 +1,5 @@
+# Capítulo IV: Product Design
+
 ## 4.1. StyleGuidelines
 
 ### 4.1.1. General Style Guidelines.
@@ -18,7 +20,7 @@ El nombre de nuestra solución es Techelp. Esto debido al notar la necesidad de 
 
 A continuación, se presenta el Logo:
 
-![](Img/Chapter-IV/CompletoLogo.png)
+![logo.png](../assets/img/chapter-IV/CompletoLogo.png)
 
 
 **Typography**
@@ -29,7 +31,7 @@ La tipografía nos ayuda a seccionar por niveles los distintos contenidos de las
 El tipo de letra que nuestro equipo eligió fue Montserrat debido a su legibilidad al momento de leerlo y escribirlo. La tipografía de Techelp se organiza en 4 niveles headings, body, button y link.
 
 
-![](Img/Chapter-IV/Montsrrat.png)
+![](../assets/img/chapter-IV/Montsrrat.png)
 
 **Colors**
 
@@ -40,13 +42,13 @@ La elección de colores es una parte importante del diseño. Una buena elección
 
 El color azul siempre hace alucion a dos cosas 	la tecnología y el bienestar. Con ese enfoque, 	damos entender al usuario de que será nuestra 	aplicación web. Además se sabe que el azul	genera serenidad y calma a las personas, 		lo cual queremos lograr con el usuario.
 
-![](Img/Chapter-IV/PrimaryColor.png)
+![](../assets/img/chapter-IV/PrimaryColor.png)
 
 **Color secundario azul-verdoso:**
 
 Se eligió por su impacto, su tranquilidad y paz que transmite a los usuarios, pero sobre todo	la confianza. Lo cual es primordial que desea 	mostrar nuestra aplicación.
 
-![](Img/Chapter-IV/SecndaryColor.png)
+![](../assets/img/chapter-IV/SecndaryColor.png)
 
 
 **Color estado: Rojo - (Acción inconclusa	o incorrecta)**
@@ -55,7 +57,7 @@ Se eligió por su impacto, su tranquilidad y paz que transmite a los usuarios, p
 
 Se usa el rojo para este estado debido 	a que el usuario identificará la acción		que comito de manera errónea 		rápidamente.
 
-![](Img/Chapter-IV/RedState.png)
+![](../assets/img/chapter-IV/RedState.png)
 
 
 
@@ -63,27 +65,27 @@ Se usa el rojo para este estado debido 	a que el usuario identificará la acció
 
 Se consideró el verde como color de	este estado debido a que el usuario			ya se siente familiarizado con este 			color y sabra que la acción fue exitosa		de manera inmediata.
 
-![](Img/Chapter-IV/GreenState.png)
+![](../assets/img/chapter-IV/GreenState.png)
 
 
 **Color estado: Amarillo (Advertencia de 		una acción)**
 
 Se eligió el color amarillo para este	estado debido a que siempre se ha 	usado para advertir al usuario si está 	cometiendo una acción que afectara 	a futuro las actividades que realice.
 
-![](Img/Chapter-IV/YellosState.png)
+![](../assets/img/chapter-IV/YellosState.png)
 
 
 **Color Estado: Gris (Botón o Acción deshabilitada)**
 
 Sé usa este color gris par mostrar al usuario que la acción o boton está 	deshabilitada, ya que deberá completar otras posteriormente para poder así 	habilitarlas.
 
-![](Img/Chapter-IV/GrayState.png)
+![](../assets/img/chapter-IV/GrayState.png)
 
 **Spacing**
 
 El espacio que usaremos para cada componente serán múltiplos de 8 pixeles.
 
-![](Img/Chapter-IV/Spacing.png)
+![](../assets/img/chapter-IV/Spacing.png)
 
 **Tono de lenguaje de comunicación y lenguaje aplicado**
 
@@ -94,11 +96,11 @@ El lenguaje que implementaremos será formal ,serio, calma, confiabilidad y entu
 
 Implementaremos un sitio web responsive, ose que se pueda adaptar a cualquier dispositivo sin arruinar la experiencia del usuario, siendo siempre comprensible y visualmente agradable. Teniendo en cuenta lo mencionado se tendrá que adaptar nuestra aplicación web a las resoluciones que hoy en día se usan en los diversos dispositivos.
 
-![](Img/Chapter-IV/Responsive.png)
+![](../assets/img/chapter-IV/Responsive.png)
 
 Se usará el patrón Z, ya que queremos que el usuario comience la navegación de nuestro landing page y aplicación web visualizando el logo para que  luego se ubique a la derecha donde verá las distintas opciones que le brindaremos.  Seguidamente de manera vertical hacia abajo el usuario verá el contenido general de nuestra landing page y aplicación web, Para que al final visualice de manera horizontal a la derecha la información de nuestro startup y cómo se puede contactar con nosotros.
 
-![](Img/Chapter-IV/Zmethod.png)
+![](../assets/img/chapter-IV/Zmethod.png)
 
 
 Cabe mencionar que el diseño presenta colores que atraigan al usuario, para que le generen paz, confianza y ganas de usar nuestra aplicación. Además, los espacios y efectos que se incluirán facilitará al usuario saber de qué se trata nuestro landing page y aplicación web.
@@ -267,9 +269,9 @@ En esta sección se mostrará el desarrollo final de los Wireframes de la Web Ap
 
 
 
-![1](/Img/Chapter-IV/LoginUsuarioWireframe.png)
+![1](../assets/img/chapter-IV/LoginUsuarioWireframe.png)
 
-![1](/Img/Chapter-IV/RegistroUsuarioWireframe.png)
+![1](../assets/img/chapter-IV/RegistroUsuarioWireframe.png)
 
 <br></br>
 
@@ -277,11 +279,11 @@ En esta sección se mostrará el desarrollo final de los Wireframes de la Web Ap
 
   En esta seccion se muestra las paginas de "Home" para el cliente donde se puede ver el progreso,tecnicos y se vera algunas reparaciones que se estan llevando acabo o ya finalizaron. La siguiente pagina "Tecnicos "mostrara a los tecnicos cercanos,donde ademas podemos filtrarlos y buscar por nombre.En la pagina "Progreso" se mostrara el estado de la reparacion que sera representada por un grafico. La pagina "Favorita" mostrara los tecnicos guardados como favoritos por el usuario y  el "Inbox" se podra ver notificaciones de aceptacion de reparacion de los tecnicos ademas de brindar al usuario el contacto con el tecnico.
 
-![3](Img/Chapter-IV/InterfazHomeClienteWireframe.png)
-![3](Img/Chapter-IV/InterfazTechnicalClienteWireframe.png)
-![3](Img/Chapter-IV/InterfazProgressClienteWireframe.png)
-![3](Img/Chapter-IV/InterfazFavoriteClienteWireframe.png)
-![3](Img/Chapter-IV/InterfazInboxClienteWireframe.png)
+![3](../assets/img/chapter-IV/InterfazHomeClienteWireframe.png)
+![3](../assets/img/chapter-IV/InterfazTechnicalClienteWireframe.png)
+![3](../assets/img/chapter-IV/InterfazProgressClienteWireframe.png)
+![3](../assets/img/chapter-IV/InterfazFavoriteClienteWireframe.png)
+![3](../assets/img/chapter-IV/InterfazInboxClienteWireframe.png)
 
 <br></br>
 
@@ -315,74 +317,74 @@ En esta sección se mostrará el desarrollo final de los Wireframes de la Web Ap
 
   En esta seccion se muestra la compra de una membresia mostrando los beneficios de esta,para luego de aceptar mostrara el formulario para rellenar la tarjeta de credito o debito.Ademas de mostrar una ventana emergente que muestre la finalizacion correcta y regrese al inicio.
 
-![11](Img/Chapter-IV/SeleccionBeamemberTecnicoWireframe.png)
-![11](Img/Chapter-IV/SeleccionPaqueteTecnicoWireframe.png)
-![11](Img/Chapter-IV/RellenarFormulariodeTarjetaWireframe.png)
-![11](Img/Chapter-IV/RetornarHomeBeamember.png)
-![11](Img/Chapter-IV/VisualizacionInsigniaTecnicoWireframe.png)
+![11](../assets/img/chapter-IV/SeleccionBeamemberTecnicoWireframe.png)
+![11](../assets/img/chapter-IV/SeleccionPaqueteTecnicoWireframe.png)
+![11](../assets/img/chapter-IV/RellenarFormulariodeTarjetaWireframe.png)
+![11](../assets/img/chapter-IV/RetornarHomeBeamember.png)
+![11](../assets/img/chapter-IV/VisualizacionInsigniaTecnicoWireframe.png)
 
 * __Agregar una nueva tarea__
 
   En esta seccion se mostrará la forma de agregar una nueva tarea al apartado "task", en el proceso podra usar su inventario de componentes previamente establecidos por usted.
 
-![12](Img/Chapter-IV/CrearNuevoTaskTecnicoWireframe.png)
-![12](Img/Chapter-IV/SeleccionInventoyTecnicoWireframe.png)
-![12](Img/Chapter-IV/IncluirComponentesTecnicoWireframe.png)
-![12](Img/Chapter-IV/GuardarNuevoTaskTecnicoWireframe.png)
-![12](Img/Chapter-IV/RetornarHomeTecnicoTask.png)
+![12](../assets/img/chapter-IV/CrearNuevoTaskTecnicoWireframe.png)
+![12](../assets/img/chapter-IV/SeleccionInventoyTecnicoWireframe.png)
+![12](../assets/img/chapter-IV/IncluirComponentesTecnicoWireframe.png)
+![12](../assets/img/chapter-IV/GuardarNuevoTaskTecnicoWireframe.png)
+![12](../assets/img/chapter-IV/RetornarHomeTecnicoTask.png)
 
 * __Inventario__
 
   En esta seccion se muestra el menu del inventario donde se podra agregar componentes para la reparacio de los equipos ademas de poder mostrar los costos a los clientes de una formas mas rapida.
-  ![14](Img/Chapter-IV/CrearNuevoInventoryTecnicoWireFrame.png)
-  ![14](Img/Chapter-IV/AgregarComponentesTecnicoWireframe.png)
-  ![14](Img/Chapter-IV/VisualizarInventoryTecnicoWireframe.png)
+  ![14](../assets/img/chapter-IV/CrearNuevoInventoryTecnicoWireFrame.png)
+  ![14](../assets/img/chapter-IV/AgregarComponentesTecnicoWireframe.png)
+  ![14](../assets/img/chapter-IV/VisualizarInventoryTecnicoWireframe.png)
 
 ### 4.4.2. Web Application Wireflow Diagrams
 #### Usuarios
 
 * __User Goal:__ Como usuario deseo registrarse dentro de la aplicación web.
 
-![img](Img/Chapter-IV/DigramaRegistroUsurio.png)
+![img](../assets/img/chapter-IV/DigramaRegistroUsurio.png)
 
 El usuario comienza su interacción con la aplicación rellenando los siguientes datos para la creación de su cuenta: Nombre completo, email, contraseña , confirme su contraseña y fecha de nacimiento, seleccionando qué es  un usuario que desea un servicio.
 
 * __User Goal:__ Como usuario deseo iniciar mi sesion para acceder al contenido de la aplicación web
 
-![img](Img/Chapter-IV/DiagramaInicioSesionUsuario.png)
+![img](../assets/img/chapter-IV/DiagramaInicioSesionUsuario.png)
 
 El usuario rellena los datos que le pide el inicio de sesión los cuales son: correo electrónico y su contraseña. De esta manera podrá ingresar a su cuenta.
 
 * __User Goal:__ Como usuario deseo solicitar una cita con el servicio de un técnico
 
-![img](Img/Chapter-IV/DiagramaSolicitarServicioUsuario.png)
+![img](../assets/img/chapter-IV/DiagramaSolicitarServicioUsuario.png)
 
 El usuario se dirige al apartado de "Technical", luego selecciona la opción para solicitar el servicio del técnico, luego rellena los datos que se pide la solicitud, depues envia la solicitud y regresa al inicio.
 
 * __User Goal:__  Como usuario deseo ver cuanto tiempo le falta a mi equipo para ser reparado.
 
-![img](Img/Chapter-IV/DiagramaVisualizarProgresoUsuario.png)
+![img](../assets/img/chapter-IV/DiagramaVisualizarProgresoUsuario.png)
 
 El usuario se dirige al apartado de "Progress", luego selección el equipo el cual el técnico esta reparando y visualiza los detalles y el tiempo que le queda al equipo en ser reparado.
 
 * __User Goal:__  Como usuario deseo comentar y calificar el servicio que me proporcionaron
-  ![img](Img/Chapter-IV/DiagramaComentarYCalificarUsuario.png)
+  ![img](../assets/img/chapter-IV/DiagramaComentarYCalificarUsuario.png)
 
 El usuario se dirige a la opción progress, luego al visualizer que su servicio ha concluido selecciona "Finalizar y comentar", después califica y comenta el servicio, como último paso envia la resaña y retorna a la página de inicio.
 
 * __User Goal:__ Como usuario deseo guardar a mis técnicos favoritos
-  ![img](Img/Chapter-IV/DiagramaElegirFavoritoUsuario.png)
+  ![img](../assets/img/chapter-IV/DiagramaElegirFavoritoUsuario.png)
 
 El usuario se dirige a la opción Technical y elige la el técnico que desea enviar a favoritos, luego le da a la "estrella" para poder enviarlo.
 
 * __User Goal:__ Como usuario deseo saber si el técnico acepto mi petición.
-  ![img](Img/Chapter-IV/DiagramaVerPeticionesUsuario.png)
+  ![img](../assets/img/chapter-IV/DiagramaVerPeticionesUsuario.png)
 
 El usuario se dirige a la opción inbox y visualiza el comentario que le mando el técnico que acepto su cita. Ver los detallles del mismo.
 
 * __User Goal:__ Como usuario deseo buscar a un técnico por su nombre
 
-![img](Img/Chapter-IV/DiagramaBuscarTecnicoporNombreUsuario.png)
+![img](../assets/img/chapter-IV/DiagramaBuscarTecnicoporNombreUsuario.png)
 
 El usuario se dirige a la opción Technical, sucesivamente selecciona la barra de búsqueda y escribe el nombre de cualquier técnico.
 
@@ -390,7 +392,7 @@ El usuario se dirige a la opción Technical, sucesivamente selecciona la barra d
 * __User Goal:__ Como usuario deseo buscar a un técnico por un filtro.
 
 
-![img](Img/Chapter-IV/DiagramaBuscarporFiltroUsuario.png)
+![img](../assets/img/chapter-IV/DiagramaBuscarporFiltroUsuario.png)
 
 El usuario se dirige a la opción Technical, sucesivamente selecciona la sección de filtro, filtra a un  técnico ya sea por sus estrellas o experiencia.
 
@@ -398,54 +400,54 @@ El usuario se dirige a la opción Technical, sucesivamente selecciona la secció
 #### Tecnicos
 * __User Goal:__ Como Tecnico, deseo crear una cuenta para poder usar la aplicacion.
 
-![img](Img/Chapter-IV/DiagramaRegistroTecnico.png)
+![img](../assets/img/chapter-IV/DiagramaRegistroTecnico.png)
 
 En tecnico ingresa a rellenar el formulario con los siguientes datos "Nombre","Ocupacion","Email","Contraseña" y "Cumpleaños" para poder crear su cuenta y poder usar las herramientas que dispone la aplicacion.
 
 * __User Goal:__ Como Tecnico, deseo poder iniciar sesion en mi cuenta.
 
-![img](Img/Chapter-IV/DiagramaInicioSesionTecnico.png)
+![img](../assets/img/chapter-IV/DiagramaInicioSesionTecnico.png)
 
 El tecnico esta en la pagina de inicio de sesion donde procede a rellenar con sus datos "email" y "Contraseña" par luego ir a su pagina de inicio.
 
 * __User Goal:__ Como Tecnico, deseo completar mi perfil para poder destacar sobre los demas tecnicos.
 
-![img](Img/Chapter-IV/DiagramaEditarPerfilTecnico.png)
+![img](../assets/img/chapter-IV/DiagramaEditarPerfilTecnico.png)
 
 El tecnico esta en su pagina de inicio, este quiere configurar su perfil, para eso va a la barra lateral y busca la opcion "Perfil" donde procede a rellenar los datos para tener un perfil mas relevante en la app.
 
 * __User Goal:__ Como Tecnico, deseo comprar la membresia de la aplicacion.
-  ![img](Img/Chapter-IV/DiagramaComprarMembresiaTecnico.png)
+  ![img](../assets/img/chapter-IV/DiagramaComprarMembresiaTecnico.png)
 
 El tecnico esta en su pagina de inicio, este quiere comprar la membresia para esto se va a la barra lateral donde selecciona la opcion "Perfil", para luego comprar la memebresia poniendo los datos de su tarjeta bancaria para luego esta confirmarse y redirigir al inicio.
 
 * __User Goal:__ Como Tecnico, deseo generar una nueva tarea acomplandome a los datos y servicios que pide el cliente.
-  ![img](Img/Chapter-IV/DiagramaGenerarNuevaTarea.png)
+  ![img](../assets/img/chapter-IV/DiagramaGenerarNuevaTarea.png)
 
 El tecnico esta en su pagina de inicio, este quiere ver sus tareas, para esto se va a la barra lateral donde selecciona la opcion "Task" donde puede administar la peticiones de reparacion que le llegan podiendo ver detalles.
 
 * __User Goal:__ Como Tecnico, deseo poder ver los detalles de las tareas del celular que estoy reparando
-  ![img](Img/Chapter-IV/DiagramaVisualizarTarea.png)
+  ![img](../assets/img/chapter-IV/DiagramaVisualizarTarea.png)
 
 El tecnico esta en su pagina de inicio, este quiere ver sus tareas, para esto se va a la barra lateral donde selecciona la opcion "Task" donde puedo ver los detalles del equipo que ayudaran en la reparacion del equipo.
 
 * __User Goal:__ Como Tecnico, deseo poder crear un nuevo inventario.
-  ![img](Img/Chapter-IV/DiagramaCrearNuevoInventario.png)
+  ![img](../assets/img/chapter-IV/DiagramaCrearNuevoInventario.png)
 
 El tecnico esta en su pagina de inicio, este quiere ver sus inventario, para esto se va a la barra lateral donde selecciona la opcion "Dashboard" donde esete le dirige al dashboard y le da la opcion de empezar agregar componentes en su inventario,para que luego estos se vean en el inicio del dashboard.
 
 * __User Goal:__ Como Tecnico, deseo poder ver mis ingresos semanales.
-  ![img](Img/Chapter-IV/DiagramaVisualizarIngresos.png)
+  ![img](../assets/img/chapter-IV/DiagramaVisualizarIngresos.png)
 
 El tecnico esta en su pagina de inicio, este quiere ver sus centas semanales, para esto se va a la barra lateral donde selecciona la opcion "Dashboard", donde se aprecia una grafica semanal permitiendole ver sus ventas
 * __User Goal:__ Como tecnico, deseo poder ingresar a ver los consejos.
-  ![img](Img/Chapter-IV/DiagramaVisualizarConsejosTecnico.png)
+  ![img](../assets/img/chapter-IV/DiagramaVisualizarConsejosTecnico.png)
 
 El tecnico esta en su pagina de inicio, este quiere ver sus consejos, para esto se va a la barra lateral donde selecciona la opcion "Dashboard", donde este seleciona los consejos  parpoder ver muchos consejos sobre la aplicacion.
 
 * __User Goal:__  Como tecnico deseo poder mandar un mensaje comunicándole al cliente cualquier cambio en su equipo
 
-![img](Img/Chapter-IV/DiagramaCrearMensajeTecnico.png)
+![img](../assets/img/chapter-IV/DiagramaCrearMensajeTecnico.png)
 
 El tecnico esta en su pagina de inicio, este quiere enviar un mensaje que ayuden a la comunicacion entre el usuario y el, para esto se va a la barra lateral donde selecciona la opcion "Inbox" que le permitira enviar un mensaje automatizado al cliente proporcionandole comunicacion entre ellos por otros medios como Whatsapp.
 
@@ -460,9 +462,9 @@ En esta seccion se mostrara el desarrollo final de los Mock-ups de la Web Applic
 
 
 
-![1](Img/Chapter-IV/LoginUsuarioMockup.png)
+![1](../assets/img/chapter-IV/LoginUsuarioMockup.png)
 
-![1](Img/Chapter-IV/RegistroUsuarioMockup.png)
+![1](../assets/img/chapter-IV/RegistroUsuarioMockup.png)
 
 <br></br>
 
@@ -470,11 +472,11 @@ En esta seccion se mostrara el desarrollo final de los Mock-ups de la Web Applic
 
   En esta seccion se muestra las paginas de "Home" para el cliente donde se puede ver el progreso,tecnicos y se vera algunas reparaciones que se estan llevando acabo o ya finalizaron. La siguiente pagina "Tecnicos "mostrara a los tecnicos cercanos,donde ademas podemos filtrarlos y buscar por nombre.En la pagina "Progreso" se mostrara el estado de la reparacion que sera representada por un grafico. La pagina "Favorita" mostrara los tecnicos guardados como favoritos por el usuario y  el "Inbox" se podra ver notificaciones de aceptacion de reparacion de los tecnicos ademas de brindar al usuario el contacto con el tecnico.
 
-![3](Img/Chapter-IV/InterfazHomeClienteMockup.png)
-![3](Img/Chapter-IV/InterfazTechnicalClienteMockup.png)
-![3](Img/Chapter-IV/InterfazProgressClienteMockup.png)
-![3](Img/Chapter-IV/InterfazFavoriteClienteMockup.png)
-![3](Img/Chapter-IV/InterfazInboxClienteMockup.png)
+![3](../assets/img/chapter-IV/InterfazHomeClienteMockup.png)
+![3](../assets/img/chapter-IV/InterfazTechnicalClienteMockup.png)
+![3](../assets/img/chapter-IV/InterfazProgressClienteMockup.png)
+![3](../assets/img/chapter-IV/InterfazFavoriteClienteMockup.png)
+![3](../assets/img/chapter-IV/InterfazInboxClienteMockup.png)
 
 <br></br>
 
@@ -482,11 +484,11 @@ En esta seccion se mostrara el desarrollo final de los Mock-ups de la Web Applic
 
   En esta seccion se puede ver la forma que al momento de pedir una reparacion a un tecnico determinado escogido de la pagina "Tecnicos".
 
-![5](Img/Chapter-IV/BuscarTecnicoUsuarioMockup.png)
-![5](Img/Chapter-IV/SeleccionarTecnicoUsuarioMockup.png)
-![5](Img/Chapter-IV/SolicitarServicioUsuarioMockup.png)
-![5](Img/Chapter-IV/CompletarSolicitudUsuarioMockup.png)
-![5](Img/Chapter-IV/RetornarHomeMockup.png)
+![5](../assets/img/chapter-IV/BuscarTecnicoUsuarioMockup.png)
+![5](../assets/img/chapter-IV/SeleccionarTecnicoUsuarioMockup.png)
+![5](../assets/img/chapter-IV/SolicitarServicioUsuarioMockup.png)
+![5](../assets/img/chapter-IV/CompletarSolicitudUsuarioMockup.png)
+![5](../assets/img/chapter-IV/RetornarHomeMockup.png)
 
 
 <br></br>
@@ -495,11 +497,11 @@ En esta seccion se mostrara el desarrollo final de los Mock-ups de la Web Applic
 
   En esta seccion se muestra las paginas de "Home" que muestra un resumen de tareas,dashboard y peticiones recientes.El "DashBoard" que es exclusivo para los tecnicos. La pagina "Peticion" que permite mostrar al tecnico las peticiones de reparacion.El "perfil" que permitira administar al tecnico su propia informacion, comprar membresia o cancelarla y el "Task" que permite al tecnico visualizar las tareas aceptadas y en proceso.
 
-![2](Img/Chapter-IV/InterfazHomeTecnicoMockup.png)
-![2](Img/Chapter-IV/InterfazProfileTecnicoMockup.png)
-![2](Img/Chapter-IV/InterfazTaskTecnicoMockup.png)
-![2](Img/Chapter-IV/InterfazDashboardTecnicoMockup.png)
-![2](Img/Chapter-IV/InterfazHomePetitionMockup.png)
+![2](../assets/img/chapter-IV/InterfazHomeTecnicoMockup.png)
+![2](../assets/img/chapter-IV/InterfazProfileTecnicoMockup.png)
+![2](../assets/img/chapter-IV/InterfazTaskTecnicoMockup.png)
+![2](../assets/img/chapter-IV/InterfazDashboardTecnicoMockup.png)
+![2](../assets/img/chapter-IV/InterfazHomePetitionMockup.png)
 
 
 <br></br>
@@ -507,27 +509,27 @@ En esta seccion se mostrara el desarrollo final de los Mock-ups de la Web Applic
 * __Conseguir o Cancelar Menbresia__
 
   En esta seccion se muestra la compra de una membresia mostrando los beneficios de esta,para luego de aceptar mostrara el formulario para rellenar la tarjeta de credito o debito.Ademas de mostrar una ventana emerfente que muestre la finalizacion correcta y regrese al inicio.
-  ![11](Img/Chapter-IV/SeleccionBeamemberTecnicoMockup.png)
-  ![11](Img/Chapter-IV/SeleccionPaqueteTecnicoMockup.png)
-  ![11](Img/Chapter-IV/RellenarFormulariodeTarjetaMockup.png)
-  ![11](Img/Chapter-IV/RetornarProfile.png)
-  ![11](Img/Chapter-IV/VisualizacionInsigniaTecnicoMockup.png)
+  ![11](../assets/img/chapter-IV/SeleccionBeamemberTecnicoMockup.png)
+  ![11](../assets/img/chapter-IV/SeleccionPaqueteTecnicoMockup.png)
+  ![11](../assets/img/chapter-IV/RellenarFormulariodeTarjetaMockup.png)
+  ![11](../assets/img/chapter-IV/RetornarProfile.png)
+  ![11](../assets/img/chapter-IV/VisualizacionInsigniaTecnicoMockup.png)
 
 * __Agregar una nueva tarea__
 
   En esta seccion se mostrará la forma de agregar una nueva tarea al apartado "task", en el proceso podra usar su inventario de componentes previamente establecidos por usted.
-  ![12](Img/Chapter-IV/CrearNuevoTaskTecnicoMockup.png)
-  ![12](Img/Chapter-IV/RellenarDatosTaskTecnicoMockup.png)
-  ![12](Img/Chapter-IV/IncluirComponentesTecnicoMockup.png)
-  ![12](Img/Chapter-IV/GuardarNuevoTaskTecnicoMockup.png)
-  ![12](Img/Chapter-IV/RetornarHomeTecnicoTaskMockup.png)
+  ![12](../assets/img/chapter-IV/CrearNuevoTaskTecnicoMockup.png)
+  ![12](../assets/img/chapter-IV/RellenarDatosTaskTecnicoMockup.png)
+  ![12](../assets/img/chapter-IV/IncluirComponentesTecnicoMockup.png)
+  ![12](../assets/img/chapter-IV/GuardarNuevoTaskTecnicoMockup.png)
+  ![12](../assets/img/chapter-IV/RetornarHomeTecnicoTaskMockup.png)
 
 * __Inventario__
 
   En esta seccion se muestra el menu del inventario donde se podra agregar componentes para la reparacion de los equipos ademas de poder mostrar los costos a los clientes de una formas mas rapida.
-  ![14](Img/Chapter-IV/CrearNuevoInventoryTecnicoMockup.png)
-  ![14](Img/Chapter-IV/VisualizarInventoryTecnicoMockup.png)
-  ![14](Img/Chapter-IV/AgregarComponentesTecnicoMockup.png)
+  ![14](../assets/img/chapter-IV/CrearNuevoInventoryTecnicoMockup.png)
+  ![14](../assets/img/chapter-IV/VisualizarInventoryTecnicoMockup.png)
+  ![14](../assets/img/chapter-IV/AgregarComponentesTecnicoMockup.png)
 
 ### 4.4.3. Web Application User Flow Diagram
 
@@ -539,55 +541,55 @@ En este apartado se presenta los user flows diagrams de nuestro mockup, el usuar
 
 Como usuario deseo registrarse dentro de la aplicación web.
 
-![img](Img/Chapter-IV/DiagramaFlujoRegistro.png)
+![img](../assets/img/chapter-IV/DiagramaFlujoRegistro.png)
 
 *__USER GOAL__
 
 Como usuario deseo iniciar mi sesion para acceder al contenido de la aplicación web
 
-![img](Img/Chapter-IV/DiagramaFlujoIniciarSesion.png)
+![img](../assets/img/chapter-IV/DiagramaFlujoIniciarSesion.png)
 
 *__USER GOAL__
 
 Como usuario deseo buscar a un técnico por su nombre
 
-![img](Img/Chapter-IV/DiagramaFlujoBusquedaNombre.png)
+![img](../assets/img/chapter-IV/DiagramaFlujoBusquedaNombre.png)
 
 *__USER GOAL__
 
 Como usuario deseo buscar a un técnico por un filtro
 
-![img](Img/Chapter-IV/DiagramaFlujoBusquedaFiltro.png)
+![img](../assets/img/chapter-IV/DiagramaFlujoBusquedaFiltro.png)
 
 *__USER GOAL__
 
 Como usuario deseo solicitar una cita con el servicio de un técnico
 
-![img](Img/Chapter-IV/Chapter-IV/DiagramaFlujoSolicitarServicio.png)
+![img](../assets/img/chapter-IV/DiagramaFlujoSolicitarServicio.png)
 
 *__USER GOAL__
 
 Como usuario deseo ver cuanto tiempo le falta a mi equipo para ser reparado.
 
-![img](Img/Chapter-IV/DiagramaFlujoVisualizarProgreso.png)
+![img](../assets/img/chapter-IV/DiagramaFlujoVisualizarProgreso.png)
 
 *__USER GOAL__
 
 Como usuario deseo comentar y calificar el servicio que me proporcionaron
 
-![img](Img/Chapter-IV/DiagramaFlujoCalificarYComentar.png)
+![img](../assets/img/chapter-IV/DiagramaFlujoCalificarYComentar.png)
 
 *__USER GOAL__
 
 Como usuario deseo ver el comentario del tecnico
 
-![img](Img/Chapter-IV/DiagramaFlujoVisualizarInbox.png)
+![img](../assets/img/chapter-IV/DiagramaFlujoVisualizarInbox.png)
 
 ## 4.5. Web Applications Prototyping
 En esta seccion se mostrara el prototipo de la aplicacion web desarrollado en figma siguiendo los estilos establecidos en los anteriores puntos.
 [Link: Visualizar Prototipo en Figma](https://www.figma.com/proto/9U0r61ZoDHjQf7Ck7zotUL/Prototype-TecHelp-APP?type=design&node-id=1-3234&t=HruT40GoBdMnazGq-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A3234&show-proto-sidebar=1&mode=design )
 
-![captura](Img/Chapter-IV/CapturaDelPrototipo.png)
+![captura](../assets/img/chapter-IV/CapturaDelPrototipo.png)
 
 ## 4.6 Domain-Driven Software Architecture
 
@@ -597,31 +599,31 @@ Los diagramas de arquitectura de software nos ayudan a plantear el sistema de nu
 
 A continuación presentamos el diagrama de contexto de nuestra arquitectura, el cual muestra como encaja en el mundo con los usuarios que lo usa y con los sistemas de software externo que interactúa.
 
-![imagen](Img/Chapter-IV/structurizr-85868-SystemContext-001.png)
+![imagen](../assets/img/chapter-IV/structurizr-85868-SystemContext-001.png)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
 En esta sección indicamos los contenedores de nuestro diagrama de contexto. Donde se muestan los elementos tecnológicos de alto nivel.
-![imagen](Img/Chapter-IV/structurizr-86231-Container-001.png)
+![imagen](../assets/img/chapter-IV/structurizr-86231-Container-001.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
 En este apartado se presenta el diagrama de componentes, donde se detallan los componentes que pertencen a cada uno de nuestros contenedores relacionados a los bounded context de nuestro proyecto.
 
 #### Reparación Component Diagram
-![imagen](Img/Chapter-IV/structurizr-85868-Component-001.png)
+![imagen](../assets/img/chapter-IV/structurizr-85868-Component-001.png)
 #### Monitoreo Component Diagram
-![imagen](Img/Chapter-IV/structurizr-85868-Component-002.png)
+![imagen](../assets/img/chapter-IV/structurizr-85868-Component-002.png)
 #### Seguridad Component Diagram
-![imagen](Img/Chapter-IV/structurizr-85868-Component-003.png)
+![imagen](../assets/img/chapter-IV/structurizr-85868-Component-003.png)
 #### Calificación Component Diagram
-![imagen](Img/Chapter-IV/structurizr-85868-Component-004.png)
+![imagen](../assets/img/chapter-IV/structurizr-85868-Component-004.png)
 
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1. Class Diagrams.
 Para el desarrollo del diagrama de clases se uso diferentes patrones entre creacionales (Factory y Builder) y de comportamiento (State).Ademas del uso de lucip.app
 
-![imagen](Img/Chapter-IV/DiagramadeClases.png)
+![imagen](../assets/img/chapter-IV/DiagramadeClases.png)
 <center>
 
 [Link de lucid del diagrama de clases](https://lucid.app/lucidchart/667477fb-235b-4eb3-9565-e1784ea10efa/edit?viewport_loc=-1946%2C-1960%2C5713%2C2716%2C0_0&invitationId=inv_a6dd4c01-7a29-4da7-8688-209bb0e06f14)
@@ -666,6 +668,6 @@ En esta seccion se mostrara el diccionario de las clases usado para el desarroll
 
 En este punto se presentará nuestro Physical data model  desarrollado en veratbelo, con sus respectivas relaciones y entidades.
 
-![Diagrama Base de datos](Img/Chapter-IV/DataBaseTecHelp.png)
+![Diagrama Base de datos](../assets/img/chapter-IV/DataBaseTecHelp.png)
 
 [Link para visualizar el diagrama de base de datos](https://my.vertabelo.com/doc/fO4P0j8AMrEflYiQRGERtsJAMCOcbVjB)
