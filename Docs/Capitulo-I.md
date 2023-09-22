@@ -248,8 +248,8 @@ Dentro de nuestros usuarios, encontramos dos perfiles distintos:
 
 **1\. Usuarios Finales:** Aquellos que utilizan constantemente teléfonos móviles y que, en algunos casos, han experimentado robos o estafas relacionadas con la reparación de sus dispositivos. Estos usuarios buscan soluciones confiables y seguras.
 
-![](assets/../../assets/img/usuario-celular-roto.jpg)
+![](../assets/img/chapter-I/usuario-celular-roto.jpg)
 
 **2\. Centros técnicos:** Estos usuarios son profesionales con centros de reparación y están altamente especializados en la identificación y el uso de herramientas, suministros y equipos necesarios para reparar dispositivos móviles. Nuestra plataforma les proporcionará la flexibilidad necesaria para gestionar eficazmente sus órdenes de trabajo, brindando atención tanto en tiendas físicas como en línea.
 
-![](assets/../../assets/img/usuario-tecnico-celular.jpg)
+![](../assets/img/chapter-I/usuario-tecnico-celular.jpg)
