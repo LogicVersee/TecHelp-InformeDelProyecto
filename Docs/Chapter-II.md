@@ -825,3 +825,24 @@ En esta sección, se presenta el Empathy Mapping realizado para ambos segmentos (
 #### User Empathy Mapping: Técnico
 
 ![texto_alternativo](ImgUsersPersonas/TecnicoEmpathyMap.png)
+
+### 2.3.5. As-is Scenario Mapping
+
+En el escenario actual (As-Is), el mapeo de la experiencia del usuario comienza cuando el cliente busca a un técnico para reparar su celular, lo que puede resultar en una tarea agotadora. El usuario busca comentarios en diversas fuentes, como recomendaciones de familiares o aplicaciones de mapas, lo que a menudo añade a su carga de trabajo. Posteriormente, cuando el usuario confía su dispositivo al técnico, lo hace con cierta desconfianza e inseguridad acerca de si el técnico llevará a cabo un buen trabajo.
+
+<center>
+
+__As-is Scenario Mapping: Usuario__ </center>
+
+![As Is Scenario Mapping Usuario](../assets/img/chapter-II/As-is_1.jpg)
+
+<br>
+
+En el escenario actual (As-Is) del mapeo de la experiencia del técnico, comienza con la forma en que intenta destacarse en el mercado de reparación de celulares, a menudo utilizando métodos poco eficaces o lentos, lo que genera preocupación sobre si sus ventas aumentarán. Cuando el técnico recibe una consulta de reparación, siente preocupación acerca de si logrará convencer al cliente de confiarle su dispositivo. Si el técnico logra persuadir al cliente para que deje su celular, la posibilidad de que el usuario recomiende sus servicios es bastante incierta.  
+
+<center> 
+
+__As-is Scenario Mapping: Tecnicos__ </center>
+
+![As Is Scenario Mapping Tecnicos](../assets/img/chapter-II/As-is_2.jpg)
+
