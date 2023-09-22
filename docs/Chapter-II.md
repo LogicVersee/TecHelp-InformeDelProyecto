@@ -643,3 +643,17 @@ El 100% de los técnicos cree que la aplicación podría solucionar problemas comun
 El 50% de los técnicos sugiere la posibilidad de incluir una función de reseñas destacadas en los perfiles de técnicos.  
 El 50% de los técnicos sugiere la venta de celulares y accesorios en la aplicación como una función adicional.
 
+## 2.3. Needfinding
+
+En este apartado se mostrarán los artefactos resultantes del proceso de recolección que se realizó en los segmentos objetivos y que concluye con la construcción del User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
+
+### 2.3.1. User Persona
+
+En esta parte del documento, se presentan perfiles ficticios que personifican a los grupos de interés identificados y que han sido objeto de entrevistas. Los datos proporcionados abarcan información demográfica, características de personalidad, motivaciones, preferencias, objetivos, desafíos y patrones de conducta. Estos detalles están respaldados por las entrevistas realizadas anteriormente. Se han empleado herramientas disponibles en UXPressia para facilitar la creación de estos artefactos.
+
+#### User Empathy Mapping: Técnico
+![texto_alternativo](ImgUsersPersonas/Tecnico.png)
+
+#### User Empathy Mapping: Cliente
+
+![texto_alternativo](ImgUsersPersonas/Cliente.png)
