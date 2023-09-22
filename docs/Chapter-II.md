@@ -652,7 +652,7 @@ En este apartado se mostrarán los artefactos resultantes del proceso de recolecc
 En esta parte del documento, se presentan perfiles ficticios que personifican a los grupos de interés identificados y que han sido objeto de entrevistas. Los datos proporcionados abarcan información demográfica, características de personalidad, motivaciones, preferencias, objetivos, desafíos y patrones de conducta. Estos detalles están respaldados por las entrevistas realizadas anteriormente. Se han empleado herramientas disponibles en UXPressia para facilitar la creación de estos artefactos.
 
 #### User Empathy Mapping: Técnico
-![texto_alternativo](ImgUsersPersonas/Tecnico.png)
+![texto_alternativo](../assets/img/chapter-II/Tecnico.png)
 
 #### User Empathy Mapping: Cliente
 
