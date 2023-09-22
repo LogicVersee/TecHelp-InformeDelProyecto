@@ -205,35 +205,29 @@ Las funcionalidades clave de nuestra aplicación son las siguientes: Compatibili
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-Creemos que la aplicación web propuesta contribuirá a que las personas que requieren de los servicios de algún centro técnico se sientan más seguras y tengan una mayor confianza al momento de contratar un servicio de reparación o mantenimiento de sus teléfonos inteligentes.
+1. **Creemos** que la recomendación de centros técnicoscercanos según la ubicación de consulta, contribuirán a que las personasahorren tiempo al momento de buscar y solicitar un servicio de reparación dedispositivos móviles
 
-Sabremos que esto es cierto
+    **Sabremos** que hemos tenido éxito,
 
-Cuando el flujo de nuevos usuarios, calificaciones y comentarios positivos aumenten en un 40%.
+    **Cuando** el flujo de nuevos usuarios y las consultas de centros técnicos cercanos aumente en un 15% mensualmente.
 
-Creemos que la aplicación web ayudará a que los técnicos tengan un mejor manejo de su inventario y entrega de dispositivos reparados a sus clientes.
+2. **Creemos** que el dashboard implementado en la aplicación para los usuarios con rol de técnico contribuirá a que estos tengan un mejor control de su inventario de repuestos y tener una mejor visión de cómo está el flujo de ganancias de su negocio
 
-Sabremos que esto es cierto
+    **Sabremos** que hemos tenido éxito,
 
-Cuando la cantidad de suscripciones de nuevos técnicos que formaran parte de la aplicación aumente en un 35% trimestralmente.
+    **Cuando** la cantidad de suscripciones de nuevos técnicos que formaran parte de la aplicación aumente en un 40% trimestralmente.
 
-Creemos que el sistema de tracking administrada por el centro técnico ayudará a que el técnico brinde una mejor experiencia en sus servicios y mantendrá de informado a sus clientes de manera oportuna sobre el proceso de reparación.
+3. **Creemos** que el sistema de tracking administrada por el centro técnico ayudará a que el técnico brinde una mejor experiencia en sus servicios y mantendrá de informado a sus clientes de manera oportuna sobre el proceso de reparación.
 
-Sabremos que esto es cierto
+    **Sabremos** que hemos tenido éxito,
 
-Cuando la cantidad de reclamos disminuya en un 20% y el flujo de actividad en este aumente en un 45%.
+    **Cuando** la cantidad de reclamos disminuya en un 20% y el flujo de actividad en este aumente en un 45%.
 
-Creemos la implementación de la aplicación web permitirá ala empresa escalar sus operaciones y expandirse a nuevos mercados geográficos
+4. **Creemos** que darles la posibilidad a los usuarios de poder calificar y comentar los perfiles de los centros técnicos asociados a la aplicación contribuirá a que nuestros futuros usuarios tomen decisiones informadas y se sientan seguros de contratar un servicio en algún centro técnico.
 
-Sabremos que esto es cierto
+    **Sabremos** hemos tenido éxito,
 
-Cuando la empresa crezca en un 20% más rápido en comparación con el enfoque tradicional
-
-Creemos que la implementación de un programa de fidelización de clientes a través de la aplicación web aumentará la retención de clientes
-
-Sabremos que esto es cierto
-
-Cuando la tasa de retención de clientes de los centros técnicos aumente en un 15% anual.
+    **Cuando** en el centro técnico crezca un 20% más rápido en comparación con el enfoque tradicional.
 
 #### 1.2.2.4. Lean UX Canvas
 
