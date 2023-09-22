@@ -801,3 +801,14 @@ Estos datos indican la importancia que el técnico le otorga a las tareas rutinar
 #### Diferencias:  
 Al realizar un análisis entre ambos segmentos objetivo, es evidente que el cliente busca reparar su celular mientras que el técnico se enfoca en llevar a cabo dicha reparación. Aunque siguen diferentes roles y procesos, comparten un objetivo común: lograr una reparación efectiva, en un tiempo razonable y a un precio justo. Mientras el cliente busca confianza en el servicio, el técnico busca perfeccionar su calidad de trabajo y su experiencia en la atención al usuario.  
 
+### 2.3.3. User Journey Mapping
+
+En esta sección, desarrollamos los User Journey Mapping para cada User Persona (cliente y técnico). El flujo comienza desde que el cliente busca un técnico para reparar su dispositivo móvil, elige un técnico, solicita información sobre la reparación, espera el proceso de la reparación y finalmente recoge el producto reparado. Esta secuencia nos muestra metas, desafíos, oportunidades y procesos clave. Por otro lado, desde la perspectiva del técnico, se busca atraer a personas que requieran sus servicios de reparación, diagnosticar el problema, proporcionar el servicio y concluir la atención con éxito, brindando una experiencia positiva para que el cliente pueda recomendar el lugar y convertirlo en un sitio confiable para la reparación de celulares.
+
+#### User Journey Mapping: Cliente
+
+![texto_alternativo](../assets/img/chapter-II/cliente_journey_map.png)
+
+#### User Journey Mapping: Técnico
+
+![texto_alternativo](../assets/img/chapter-II/TecnicoJourneyMap.jpeg)
