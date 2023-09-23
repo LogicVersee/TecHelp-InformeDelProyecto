@@ -118,76 +118,29 @@ Preguntas demográficas:
 
 </div>
 
+Datos Demográficos:  
+ 
+- Nombre: Abelardo Huañec Chirinos  
+- Edad: 20 años  
+- Ocupación: Estudiante de Ingeniería Industrial  
+- Distrito de Residencia: San Juan de Miraflores  
 
-##### Preguntas demográficas:
 
-__¿Cual es tu nombre?__
+Duración de la entrevista: [00:00:00 - 00:10:57]
 
-Su nombre es Abelardo Huañec Chirinos
-
-__¿Qué edad tienes?__
-
-El tiene 20 años
-
-__¿Tienes una ocupación?__
-
-El es estudiante de ing.industrial
-
-__¿De qué distrito resides ?__
-
-El reside en San Juan de Miraflores
 
 #### Preguntas principales:
 
-1. __¿En algún momento usted ha acudido a los servicios de un técnico para reparar su celular?¿Qué problema tenía su celular?¿El técnico pudo reparar su celular?¿Se sintió satisfecho con la atención que le brindó?__
+Abelardo es un estudiante de 20 años que reside en San Juan de Miraflores. Ha acudido a un técnico para reparar su celular en el pasado debido a problemas en la pantalla. El técnico pudo reparar el celular, pero la reparación no duró mucho, por lo que no se sintió satisfecho con la atención. Ha enfrentado el mismo problema con su celular nuevamente pero no ha vuelto a enviarlo al mismo técnico y solo ha recurrido a un técnico en una ocasión.  
 
-Si acudio a un tecnico, su celular tenia un problema en la pantalla,el tecnico si pudo reparar su celular,el dijo que no porque la reparacion no duro nada
+Abelardo no ha intentado solucionar problemas en su celular por su cuenta debido a su falta de conocimiento en reparaciones de dispositivos. La atención que ha recibido de los técnicos no cumplió con sus expectativas, aunque no ha tenido que hacer filas para ser atendido.  
 
-2. __¿Ha vuelto a tener ese mismo fallo con su celular u otro fallo distinto? ¿Lo ha vuelto a enviar al mismo técnico? ¿Cuántas veces ha tenido que acudir a un técnico por el mismo fallo u otro?__
+En cuanto al tiempo de reparación, el técnico le pidió que dejara su celular por unas horas y cumplió con el tiempo estimado. El costo promedio de una reparación fue de aproximadamente 130 soles, y Abelardo consideró que este precio era justo.  
 
-Si volvio apresentar el mismo fallo,no volvio a enviar su celular a ese tecnico,solo esa acudio al tecnico
+No le brindaron garantía después de la reparación, y no conoce a ningún familiar que haya tenido problemas con su equipo después de ser reparado por un técnico.  
 
-3. __¿Trataste de solucionar el problema por tu propia cuenta?__
+En relación con el proyecto de la aplicación web, Abelardo no ha escuchado de una aplicación similar y cree que podría ayudar a mejorar sus malas experiencias con técnicos. Le gustaría ver en la aplicación una funcionalidad que muestre la ubicación de los técnicos en un mapa interactivo.  
 
-El no trato de solucionar el problema porque desconoce como abrir un celular
-
-4. __La atención general de los técnicos que ha acudido ¿Fue la que esperaba?¿Ha tenido que realizar filas para poder ser atendida?__
-
-La atencion recibida no fue la esperada pero no realizo colas para ser atendido
-
-5. __¿Alguna vez el técnico le dijo que tenía que dejar su celular por una cierta cantidad de días?¿Cuántos días dejó su celular a un técnico ?¿El técnico cumplió con el tiempo establecido? Si no fue así ¿Cuántos días tuvo que esperar para que le devolvieran su celular?__
-
-El dijo que no espero dias solo horas, el tecnico si cumplio el tiempo que le dijo
-
-6. __Por experiencia,¿Cuál es el costo promedio por reparación de tu equipo? ¿Te parece justo ese precio?__
-
-El sosto promedio de su reparacion fue de 130 soles aproximado a el le parecio justo ese precio
-
-7. __¿Se te ha brindado garantía luego de la reparación de tu celular? ¿Qué tipo de garantía?__
-
-No le brindo ninguna garantia
-
-8. __¿Conoce algún familiar que ha sufrido un accidente con su equipo luego de ser reparado por un técnico?__
-
-Solo a el se le malogró su celular
-
-9. __Por su experiencia, ¿Que toma en cuenta a la hora de elegir un técnico?__
-
-Él tomaría en cuenta la recomendación de familia, amigos o personas desconocidas que conozcan el tema
-
-#### Preguntas sobre el proyecto:
-
-1. __¿Ha escuchado de una aplicación web que brinde los mismos servicios que ofrece nuestro proyecto?__
-
-Él no escucho ninguna aplicación similar, las apps más parecidas que escucho fue de google maps.
-
-2. __¿Cree que nuestra aplicación solucionara las malas experiencias que ha tenido al acudir los servicios de un técnico?__
-
-Él dijo que en cierta medida si ayudaría a solucionar las malas experiencias con técnicos
-
-3. __Al escuchar nuestra aplicación ¿Qué otras funcionalidades le gustaría ver en nuestra aplicación?__
-
-La funcionalidad que él agregaría sería la implementación de vista de técnicos en un mapa interactivo
 
 <div style="text-align: center;">
 
@@ -197,75 +150,38 @@ La funcionalidad que él agregaría sería la implementación de vista de técnicos e
 
 </div>
 
-#### Preguntas demográficas:
 
-__¿Cual es tu nombre?__
+Datos Demográficos:  
 
-Su nombre es Kevin Abarca.
+- Nombre: Kevin Abarca  
+- Edad: 19 años  
+- Ocupación: Estudiante en la UPC (5to ciclo)  
+- Distrito de Residencia: San Juan de Lurigancho  
 
-__¿Qué edad tienes?__
 
-Él tiene 19 años.
+Duración de la entrevista: [00:10:57 - 00:20:10]
 
-__¿Tienes una ocupación?__
 
-Él es estudiante en la UPC y cursa el quinto ciclo.
+#### Preguntas principales:  
 
-__¿De qué distrito resides ?__
 
-Él reside en San Juan de Lurigancho.
+Kevin Abarca es un estudiante de 19 años que reside en San Juan de Lurigancho. Ha acudido a servicios de técnicos para reparar su celular en varias ocasiones. La primera vez, fue por un problema en la cámara, y el técnico pudo reparar su celular. Sin embargo, no se sintió satisfecho debido a la demora en la entrega del dispositivo (5 días).  
 
-#### Preguntas principales:
+En otras ocasiones, tuvo fallos en la batería y acudió a otro técnico conocido por su servicio a través de redes sociales. En general, ha tenido que recurrir a técnicos tres o cuatro veces por diferentes problemas en su celular.  
 
-1. __¿En algún momento usted ha acudido a los servicios de un técnico para reparar su celular?¿Qué problema tenía su celular?¿El técnico pudo reparar su celular?¿Se sintió satisfecho con la atención que le brindó?__
+Kevin intentó solucionar problemas en su celular por su cuenta, pero empeoró la situación debido a la falta de conocimientos y materiales adecuados.  
 
-Si acudió al servicio de un técnico para reparar la cámara de su celular. El técnico sí pudo reparar su celular. Kevin no se sintió satisfecho por la demora de la entrega de su celular.
+En cuanto a la atención de los técnicos, la primera experiencia no cumplió con sus expectativas, aunque el técnico fue amable. La segunda experiencia fue mejor debido a la reputación del técnico en redes sociales. No tuvo que hacer filas para ser atendido.  
 
-2. __¿Ha vuelto a tener ese mismo fallo con su celular u otro fallo distinto? ¿Lo ha vuelto a enviar al mismo técnico? ¿Cuántas veces ha tenido que acudir a un técnico por el mismo fallo u otro?__
+Uno de los técnicos le pidió que dejara su celular por un día, pero no cumplió con el tiempo establecido y Kevin tuvo que esperar 5 días para recuperarlo.  
 
-Sí, tuvo un fallo con la batería de su celular, acudió con otro técnico conocido en redes sociales por su servicio. En general tuvo que acudir a un técnico tres a cuatro veces por fallos en su celular.
+El costo promedio de reparación de su celular es de 150 soles, y considera que este precio es justo, especialmente cuando el técnico en Polvos Azules pudo devolverle el celular el mismo día.  
 
-3. __¿Trataste de solucionar el problema por tu propia cuenta?__
+Kevin conoce a un amigo que tuvo problemas con la reparación de la pantalla de su celular debido a que el técnico la colocó incorrectamente y le cobró extra por corregirlo.  
 
-Sí trato de solucionar el problema por su cuenta, pero agravó la situación de su celular por la falta de conocimientos y materiales.
+A la hora de elegir un técnico, Kevin toma en cuenta la reputación del técnico, el tiempo estimado de reparación y las recomendaciones de amigos.  
 
-4. __La atención general de los técnicos que ha acudido ¿Fue la que esperaba?¿Ha tenido que realizar filas para poder ser atendida?__
-
-La primera experiencia contada no esperó que el servicio del técnico fuera malo por la amabilidad de su atención; sin embargo, el segundo técnico cumplió con sus expectativas por su reputación en redes sociales. No tuvo que realizar filas, pero el primer técnico demoró cinco días en devolverle el celular.
-
-5. __¿Alguna vez el técnico le dijo que tenía que dejar su celular por una cierta cantidad de días? ¿Cuántos días dejó su celular a un técnico ?¿El técnico cumplió con el tiempo establecido? Si no fue así ¿Cuántos días tuvo que esperar para que le devolvieran su celular?__
-
-El técnico que reparó la cámara de su celular le pidió que se lo deje por un día. El técnico no cumplió con el tiempo establecido y tuvo que esperar cinco días para recuperar su celular.
-
-6. __Por experiencia,¿Cuál es el costo promedio por reparación de tu equipo? ¿Te parece justo ese precio?__
-
-El costo promedio de reparación es de 150 soles, le pareció justo el precio, ya que el técnico en Polvos Azules le devolvió el celular el mismo día.
-
-7. __¿Se te ha brindado garantía luego de la reparación de tu celular? ¿Qué tipo de garantía?__
-
-No le brindaron garantías, solo promesas.
-
-8. __¿Conoce algún familiar que ha sufrido un accidente con su equipo luego de ser reparado por un técnico?__
-
-Un amigo cercano a Kevin pidió la reparación de la pantalla de su celular; sin embargo, el técnico puso de manera incorrecta la nueva pantalla y ante el reclamo del amigo de Kevin, el técnico le hizo un cobro extra por poner en la posición correcta la nueva pantalla.
-
-9. __Por su experiencia, ¿Que toma en cuenta a la hora de elegir un técnico?__
-
-Toma en cuenta la reputación del técnico, el tiempo que va a demorar, así mismo acude a ciertos técnicos por recomendación de amigos.
-
-#### Preguntas sobre el proyecto:
-
-1. __¿Ha escuchado de una aplicación web que brinde los mismos servicios que ofrece nuestro proyecto?__
-
-No ha escuchado sobre aplicaciones similares.
-
-2. __¿Cree que nuestra aplicación solucionara las malas experiencias que ha tenido al acudir los servicios de un técnico?__
-
-Sí cree que solucionaría las malas experiencias, ya que la aplicación tendría técnicos con excelente servicio.
-
-3. __Al escuchar nuestra aplicación ¿Qué otras funcionalidades le gustaría ver en nuestra aplicación?__
-
-Le gustaría que la aplicación brinda una forma de comunicación entre el cliente y el técnico, así mismo cree que el técnico debe ofrecer sus propios precios y el tiempo que va a demorar.
+En relación con el proyecto de la aplicación web, Kevin no ha escuchado de aplicaciones similares. Cree que la aplicación podría solucionar las malas experiencias con técnicos si los técnicos ofrecen un excelente servicio. Le gustaría que la aplicación incluyera una forma de comunicación entre el cliente y el técnico, así como la posibilidad de que los técnicos establezcan sus propios precios y tiempos de reparación.  
 
 <div style="text-align: center;">
 
@@ -275,75 +191,40 @@ Le gustaría que la aplicación brinda una forma de comunicación entre el cliente 
 
 </div>
 
-#### Preguntas demográficas:
+Datos Demográficos:  
 
-__¿Cual es tu nombre?__
+- Nombre: Brenda Lluyacc  
+- Edad: 19 años  
+- Ocupación: Estudiante de Marketing y asistente de ventas en Ripley  
+- Distrito de Residencia: San Juan de Miraflores  
 
-Su nombre es Brenda LLiuyacc.
 
-__¿Qué edad tienes?__
+Duración de la entrevista: [00:10:57 - 00:33:25]
 
-Ella tiene 19 años.
-
-__¿Tienes una ocupación?__
-
-Actualmente, estudia la carrera de Marketing y trabaja como asistente de ventas en Ripley.
-
-__¿De qué distrito resides ?__
-
-Ella reside en San Juan de Miraflores.
 
 #### Preguntas principales:
 
-1. __¿En algún momento usted ha acudido a los servicios de un técnico para reparar su celular? ¿Qué problema tenía su celular? ¿El técnico pudo reparar su celular? ¿Se sintió satisfecho con la atención que le brindó?__
+Brenda Lluyacc es una estudiante de 19 años que reside en San Juan de Miraflores y trabaja como asistente de ventas en Ripley. Ha acudido una vez a los servicios de un técnico para reparar su celular debido a un fallo en los botones de volumen y apagado. En esa ocasión, el técnico pudo reparar su celular, y Brenda se sintió satisfecha con la atención recibida.  
 
-Sí, ella ha acudido una vez a los servicios de un técnico. El problema que presentaba su celular era un fallo con sus botones de volumen y de apagado. Sabiendo el problema, el técnico pudo reparar su celular y para ese momento ella se sentía satisfecha con la atención que le brindaron.
+Aunque no ha tenido el mismo problema nuevamente, menciona que si ocurriera volvería a acudir a un técnico. No ha intentado solucionar problemas por su cuenta debido a la falta de conocimiento.  
 
-2. __¿Ha vuelto a tener ese mismo fallo con su celular u otro fallo distinto? ¿Lo ha vuelto a enviar al mismo técnico? ¿Cuántas veces ha tenido que acudir a un técnico por el mismo fallo u otro?__
+La atención que ha recibido de los técnicos ha sido la que esperaba, y nunca tuvo que hacer fila, ya que la atención fue inmediata.  
 
-Ella menciona que luego de un año ha vuelto a tener un fallo similar en el cual su boton de bajar volumen dejo de funcionar. Desde que acurrio el fallo,no ha recurrido al mismo tecnico ni tampoco ha ido a otro. Aunque si el fallo fuera mayor, ella acudiría las veces que fueran necesarias para que se repare dicho fallo.
+En cuanto a los plazos de reparación, menciona que en su caso el problema se solucionó en cuestión de minutos. Sin embargo, estaría dispuesta a dejar su celular por un máximo de dos días en caso de que fuera necesario. Si el técnico no cumpliera con el tiempo acordado, se sentiría insatisfecha y perdería confianza en ese técnico.  
 
-3. __¿Trataste de solucionar el problema por tu propia cuenta?__
+El costo promedio de reparación de su celular fue de 20 soles, y le pareció justo, especialmente en comparación con lo que otros familiares han pagado por problemas similares.  
 
-Ella no trato de solucionar el problema por su propia cuenta debido a que no tiene el conocimiento suficiente para realizar la reparación.
+No le brindaron garantía después de la reparación de su celular.  
 
-4. __La atención general de los técnicos que ha acudido ¿Fue la que esperaba? ¿Ha tenido que realizar filas para poder ser atendida?__
+Brenda no conoce a ningún familiar que haya tenido problemas con su equipo después de que un técnico lo haya reparado.  
 
-Ella menciona que en ese mismo instante la atencion que le brindaron si fue la que esperada. Además, menciona que no tuvo que realizar ninguna fila y la atencion inmedita.
+A la hora de elegir un técnico, Brenda se basa en las experiencias de sus familiares, especialmente en las de sus padres, quienes le mencionan qué lugar y técnico es el mejor para ellos.  
 
-5. __¿Alguna vez el técnico le dijo que tenía que dejar su celular por una cierta cantidad de días? ¿Cuántos días dejó su celular a un técnico? ¿El técnico cumplió con el tiempo establecido? Si no fue así ¿Cuántos días tuvo que esperar para que le devolvieran su celular?__
+Respecto al proyecto de la aplicación web, Brenda no ha escuchado de ninguna aplicación que ofrezca los mismos beneficios para usuarios y técnicos.  
 
-Ella menciona que no tuvo que dejar su celular debido a que el problema que presentaba se solucionaba en cuestión de minutos. Sin embargo, si el técnico se tardara ya sea porque el fallo es mayor o por la cantidad de pedidos que tiene en ese momento, ella si dejaría su celular. Además, menciona que llegaria a un acuerdo con el tecnico para  el tiempo maximo que dejaría su celular sea de dos días y si el técnico no cumpliera con el tiempo se sentiría insatisfecha con el servicio y perdería confianza con ese técnico.
+Cree que la aplicación podría solucionar sus malas experiencias anteriores, especialmente por la falta de garantía en las reparaciones. Usaría la aplicación debido a la mayor confianza que tendría al acudir a un técnico a través de ella.  
 
-6. __Por experiencia, ¿Cuál es el costo promedio por reparación de tu equipo? ¿Te parece justo ese precio?__
-
-El costo reparación del equipo fue 20 soles. Ella menciona que le pareció justo el precio, pues tenía entendido que a un familiar le habían cobrado más por el mismo problema.
-
-7. __¿Se te ha brindado garantía luego de la reparación de tu celular? ¿Qué tipo de garantía?__
-
-Ella comenta que no se le brindo  ningún tipo de garantía a la hora de reparar su celular.
-
-8. __¿Conoce algún familiar que ha sufrido un accidente con su equipo luego de ser reparado por un técnico?__
-
-Ella menciona que no ha conocido ninguna familiar que ha sufrido un accidente luego de que un técnico repare su equipo.
-
-9. __Por su experiencia,¿Que toma en cuenta a la hora de elegir un técnico?__
-
-Por la experiencia que ella ha tenido, ella elige a un técnico por las experiencias de sus familiares mas que todo por las experiencias de sus padres los cuales le mencionan en que lugar y que técnico es el mejor para ellos.
-
-#### Preguntas sobre el proyecto:
-
-1. __¿Ha escuchado de una aplicación web que brinde los  mismos servicios que ofrece nuestro proyecto?__
-
-Ella no ha escuchado ninguna aplicación en la cual se le brinden esos beneficios al usuario y al técnico
-
-2. __¿Cree que nuestra aplicación solucionara las malas experiencias que ha tenido  al acudir los  servicios de un técnico  ?__
-
-En el caso de ella, si solucionaría su mala experiencia por el hecho que no le brindaron una garantía. Menciona que ella si  usaria la aplicaion debio a que tendria mas confianza a la hora de acudir un tecnico.
-
-3. __Al escuchar nuestra aplicación ¿Qué otras funcionalidades le gustaría ver en nuestra aplicación?__
-
-La función que ella agregaría sería en el apartado de comentarios donde además de comentar puedas publicar una foto para que asi otras personas que desean el servicio de ese técnico vean como él ha realizado el trabajo.
+Brenda sugiere que la aplicación permita agregar fotos en el apartado de comentarios para que otros usuarios puedan ver el trabajo realizado por el técnico.  
 
 
 #### Entrevista de técnico
@@ -358,95 +239,51 @@ La función que ella agregaría sería en el apartado de comentarios donde además d
 
 </div>
 
+Datos Demográficos:  
 
-#### Preguntas demográficas:
+- Nombre: George Galvan  
+- Edad: 20 años  
+- Distrito de Residencia: Surco  
 
-__¿Cual es tu nombre?__  
 
-Su nombre es George Galvan.  
+Duración de la entrevista: [00:33:25 - 00:44:05]
 
-__¿Qué edad tienes?__  
 
-Él tiene 20 años de edad.  
-
-__¿De qué distrito resides?__  
-
-Actualmente reside en el distrito de Surco.  
 
 #### Preguntas principales:
 
-1. __Aproximadamente ¿Cuántas personas al día han solicitado sus servicios?__  
+George Galvan, de 20 años y residente de Surco, es un técnico en reparación de celulares que trabaja junto a un compañero. Atienden a aproximadamente 60 personas al día y gestionan su tiempo para atender a los clientes de manera efectiva, especialmente durante campañas.  
 
-Aproximadamente 60 personas al día solicitan sus servicios.  
+George organiza las piezas de los celulares en una bandeja para diferenciar los diferentes tipos de accesorios y facilitar su trabajo.  
 
-2. __¿Trabaja solo o tiene algún personal que lo apoye ? si tiene personal ¿Cuántos?__   
+Los problemas más comunes que encuentra en los celulares de los clientes están relacionados con la batería y la suciedad en la entrada del dispositivo.  
 
-Trabaja con un compañero, ambos gestionan su tiempo para atender a diferentes clientes en su jornada de trabajo.  
+Los trabajos más complicados y tediosos involucran desarmar completamente la arquitectura del celular y sacar cada componente.  
 
-3. __¿Ha tenido dificultad a la hora de gestionar su tiempo para atender a los clientes? ¿Se organiza para poder gestionar bien su negocio?__  
+Gestiona el tiempo de reparación según la dificultad, con reparaciones fáciles tomando entre 15 y 20 minutos, y cambios más exhaustivos, como el reemplazo de baterías y pantallas, que pueden llevar hasta 1 hora.  
 
-En campaña es donde generalmente se complica por la gente que visita su tienda. Vienen personas recomendadas por la calidad del servicio que brinda.  
+Los precios de reparación varían según la dificultad de la tarea, comenzando desde 10 nuevos soles para problemas básicos y llegando a alrededor de 100 nuevos soles para reparaciones más complicadas.  
 
-4. __¿De qué manera usted gestiona las piezas que recibe para poder reparar los celulares?__  
+Acepta métodos de pago como carteras digitales, tarjetas de débito/crédito y efectivo.  
 
-Siempre gestiona sus piezas de celulares en una bandeja donde diferencia los diferentes tipos de accesorios.  
+George se esfuerza por brindar la mejor atención posible a cada cliente, adaptando su trato según las necesidades y actitudes de los clientes.  
 
-5. __¿Cuál es el problema que se presenta constantemente en los celulares de los clientes?__  
+Cuando un cliente no está satisfecho, se esfuerza por resolver el problema de manera inmediata y, en casos de error técnico, devuelve la mitad del dinero de la reparación.  
 
-Normalmente presenta el problema de la batería, que muchas veces es porque la entrada del dispositivo se encuentra sucia.  
+La confianza de los clientes se basa en recomendaciones y la calidad del servicio en el centro de Lima.  
 
-6. __De todos los problemas que ha solucionado¿Cuáles son los problemas más complicados y tediosos que ha encontrado a la hora de reparar un celular?__  
+Los factores que considera clave para que un técnico sea más solicitado que otro incluyen la comunicación efectiva y la capacidad de explicar las reparaciones de manera práctica.  
 
-El trabajo más complicado viene a ser cuando debe de desarmar toda la arquitectura del celular, y sacar cada componente que integra el dispositivo móvil.  
+En su experiencia, ser un técnico honesto y ofrecer buenos precios y calidad de servicio es rentable.  
 
-7. __¿De qué manera usted gestiona el tiempo para poder reparar un equipo?__  
+George disfruta su trabajo y se siente feliz haciendo lo que hace.  
 
-Normalmente lo gestiona en niveles de dificultad, entre períodos de 15 y 20 minutos si son fáciles. Y cambios más exhaustivos como cambio de baterías y pantalla entre 30 minutos y 1 hora máximo.  
+En cuanto al proyecto de la aplicación web, George ha escuchado que los servicios se comparten en páginas de Facebook, pero no ha escuchado de una aplicación web que ofrezca servicios similares.  
 
-8. __¿Cómo usted maneja los precios de reparación? ¿El precio que ofrece a los clientes es justo para usted?__  
+Cree que la aplicación podría solucionar las malas experiencias relacionadas con estafas en el servicio de reparación de celulares.  
 
-Lo más básico vendría a ser 10 nuevos soles, y problemas intermedios 30 nuevos soles. Y cuando ya son reparaciones más complicadas vienen a ser alrededor de los 100 soles por arriba. Principalmente por el tiempo que toma realizar cada una de estas tareas.  
+George sugiere agregar una función de reseñas para los técnicos en la aplicación y destacarlas en el perfil del técnico.  
 
-9. __¿Cuáles son los métodos de pago con los que trabaja?__  
-
-Mayormente carteras digitales, tarjetas de débito/crédito y efectivo.  
-
-10. __¿Siente que da la mejor atención posible a cada cliente que se presente para acudir a sus servicios?__  
-
-Siempre trata de dar la mejor atención posible a cada cliente y cambia su forma de trato por si el cliente se torna tóxico o en algunas ocasiones quiere lo más barato.  
-
-11. __¿Qué acciones realiza cuando un cliente no se siente satisfecho por los servicios que le ha brindado?__  
-
-No pasa en su mayoría de veces, pero cuando existe un error por el técnico se le devuelve la mitad del dinero de la reparación y se repara en el instante la falla para no malograr la experiencia con el usuario.  
-
-12. __¿Cómo le garantiza al cliente que su equipo está en buenas manos?__   
-
-Nos comenta que la mayoría de personas confía en ellos por las recomendaciones que tienen en el centro de Lima. Y que las primeras personas fueron en base a su presentación y calidad en la reparación de su celular.  
-
-13. __En su opinión ¿Cuáles son los factores para que un técnico pueda ser solicitado más que otro?__  
-
-Lo principal para él es la buena comunicación con las personas que vienen, explicando de una forma práctica las cosas que le van a realizar a su celular.
-
-14. __En su experiencia como técnico¿Es rentable actualmente acudir a uno?__  
-
-Si es un técnico que trabaja de forma honesta, es muy rentable porque todo se debe a través del buen precio y calidad de servicio.  
-
-15. __¿Usted disfruta su trabajo?__  
-
-Nos comenta que es feliz haciendo lo que hace.  
-
-#### Preguntas sobre el proyecto:  
-1. __¿Ha escuchado de una aplicación web que brinde los mismos servicios que ofrece nuestro proyecto?__  
-
-Mayormente ha escuchado que los servicios se comparten por páginas de Facebook pero jamás ha escuchado una aplicación web que brinde lo que desarrollamos.  
-
-2. __¿Cree que nuestra aplicación solucionara las malas experiencias que ha tenido al acudir los servicios de un técnico?__  
-
-Cree que en la mayor parte pueda solucionar las malas experiencias por el tema de las estafas.  
-
-3. __Al escuchar nuestra aplicación ¿ Qué otras funcionalidades le gustaría ver en nuestra aplicación?__  
-
-Le gustaría que se aumente una reseña para el técnico y que esta pueda ser resaltada en el perfil del técnico.  
 
 <div style="text-align: center;">
 
@@ -458,95 +295,49 @@ Le gustaría que se aumente una reseña para el técnico y que esta pueda ser resal
 
 </div>
 
-#### Preguntas demográficas:  
+Datos Demográficos:  
 
-¿Cual es tu nombre?  
+Nombre: Luis Ramos  
+Edad: 24 años   
+Distrito de Residencia: La Victoria  
 
-Su nombre es Luis Ramos  
+Duración de la entrevista: [00:44:05 - 00:52:09]
 
-¿Qué edad tienes?  
-
-Él tiene 24 años  
-
-¿De qué distrito resides?  
-
-Reside en el distrito de La Victoria  
 
 ### Preguntas principales:  
-1. __Aproximadamente ¿Cuántas personas al día han solicitado sus servicios?__  
+Luis Ramos, de 24 años y residente en La Victoria, es un técnico en reparación de celulares que trabaja solo en su negocio, atendiendo aproximadamente de 15 a 20 personas al día.  
 
-Aproximadamente 15 o 20 personas diarias dependiendo el día de la semana.  
+Luis menciona que a veces tiene dificultades para gestionar su tiempo ya que es el único trabajador, y muchas personas vienen a su tienda.  
 
-2. __¿Trabaja solo o tiene algún personal que lo apoye ? si tiene personal ¿Cuántos?__  
+Para gestionar las piezas de repuesto, intercambia accesorios con otros técnicos que también tienen tiendas en la misma área.  
 
-Trabaja por el momento solo porque recién ha iniciado en su negocio.  
+Los problemas más comunes que enfrenta en los celulares de los clientes son la ruptura de pantallas y el desgaste físico de las baterías.  
 
-3. __¿Ha tenido dificultad a la hora de gestionar su tiempo para atender a los clientes? ¿Se organiza para poder gestionar bien su negocio?__  
+Considera que el cambio de pantalla es una de las reparaciones más tediosas, ya que a menudo surgen problemas adicionales que no son visibles a simple vista.  
 
-Como es el único trabajador no gestiona bien sus tiempos de cliente a cliente porque vienen a atenderse muchas personas y no puede con tantas.  
+Gestiona el tiempo de reparación según la complejidad del trabajo, variando entre 15 minutos y 1 hora en casos extremos.  
 
-4. __¿De qué manera usted gestiona las piezas que recibe para poder reparar los celulares?__  
+Los precios de reparación dependen de las piezas de repuesto utilizadas y Luis se esfuerza por ofrecer precios justos para atraer a los clientes.  
 
-Existen diferentes tipos de accesorios para celulares y estos en muchas veces son intercambiados con técnicos que también tienen sus tiendas en el lugar.  
+Acepta varios métodos de pago, incluyendo carteras digitales, tarjetas de crédito/débito y efectivo.  
 
-5. __¿Cuál es el problema que se presenta constantemente en los celulares de los clientes?__  
+Siempre trata de brindar una buena atención a sus clientes, siendo amable y transparente sobre los problemas de reparación.  
 
-Nos comenta que el principal problema es la ruptura de pantallas o el desgaste físico de las baterías de celular.  
+Cuando un cliente no está satisfecho, prioriza la empatía y trata de resolver cualquier problema que se presente.  
 
-6. __De todos los problemas que ha solucionado¿Cuáles son los problemas más complicados y tediosos que ha encontrado a la hora de reparar un celular?__  
+Luis garantiza la seguridad de los equipos entregando una tarjeta de recomendación y manteniendo su puesto de trabajo físico y permanente.  
 
-El cambio de pantalla viene a ser tedioso para él porque muchas veces suele acompañar más problemas que no son notorios a simple vista.  
+Considera que los factores clave para que un técnico sea solicitado son los precios bajos y las recomendaciones entre clientes.  
 
-7. __¿De qué manera usted gestiona el tiempo para poder reparar un equipo?__  
+En su experiencia, ser un técnico es rentable, incluso como una sola persona ejerciendo esta profesión.  
 
-Dependiendo de la reparación del equipo, le toma entre 15 minutos a 1 hora en el peor de los casos.  
+Luis disfruta de su trabajo, especialmente las reparaciones en dispositivos móviles.  
 
-8. __¿Cómo usted maneja los precios de reparación? ¿El precio que ofrece a los clientes es justo para usted?__  
+En cuanto al proyecto de la aplicación web, no ha escuchado de ninguna aplicación similar a la propuesta.  
 
-Los precios dependen del repuesto que brinde a la solución y siempre trata de tener los precios justos para que los clientes vuelvan por el cómodo precio.  
+Cree que la aplicación podría solucionar las malas experiencias de los usuarios al proporcionar opiniones y recomendaciones.  
 
-9. __¿Cuáles son los métodos de pago con los que trabaja?__  
-
-Trabaja con carteras digitales, tarjetas de crédito/débito y efectivo.  
-
-10. __¿Siente que da la mejor atención posible a cada cliente que se presente para acudir a sus servicios?__
-
-Siempre trata de ser amable con sus clientes y transparente con el problema que presentan.  
-
-11. __¿Qué acciones realiza cuando un cliente no se siente satisfecho por los servicios que le ha brindado?__  
-
-Siempre trata de empatizar con el cliente y los problemas que presenten en contra del técnico. Pero siempre priorizando la empatía.  
-
-12. __¿Cómo le garantiza al cliente que su equipo está en buenas manos?__  
-
-Al finalizar su trabajo entrega su tarjeta de recomendación y siempre ayuda que el puesto sea físico y siempre esté de forma permanente. Esto ayuda a que el cliente no piense que se irá con su celular y no lo volverá a ver.  
-
-13. __En su opinión ¿Cuáles son los factores para que un técnico pueda ser solicitado más que otro?__  
-
-La mayoría de personas que llegan es por el bajo precio y por las recomendaciones entre clientes y clientes.  
-
-14. __En su experiencia como técnico¿Es rentable actualmente acudir a uno?__  
-
-Le es rentable aún siendo una persona ejerciendo este trabajo.  
-
-15. __¿Usted disfruta su trabajo?__  
-
-Disfruta de su trabajo realizando este tipo de reparaciones en dispositivos móviles.  
-
-
-#### Preguntas sobre el proyecto:  
-
-1. __¿Ha escuchado de una aplicación web que brinde los mismos servicios que ofrece nuestro proyecto?__
-
-No ha escuchado ninguna aplicación semejante a la nuestra.  
-
-2. __¿Cree que nuestra aplicación solucionara las malas experiencias que ha tenido al acudir los servicios de un técnico?__  
-
-Piensa que sí, porque las opiniones dentro de una aplicación ayuda bastante en la recomendación y aceptación por parte del usuario.  
-
-3. __Al escuchar nuestra aplicación ¿ Qué otras funcionalidades le gustaría ver en nuestra aplicación?__  
-
-Luis recomienda implementar la venta de celulares y accesorios para que otros técnicos que también venden celulares puedan verse beneficiados.   
+Luis recomienda implementar la venta de celulares y accesorios en la aplicación para beneficiar a otros técnicos que también venden estos productos.  
 
 ### 2.2.3. Análisis de entrevistas
 
