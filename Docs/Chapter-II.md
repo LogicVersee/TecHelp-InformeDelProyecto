@@ -118,6 +118,7 @@ Preguntas demográficas:
 
 </div>
 
+Duración de la entrevista: [00:00:00 - 00:10:57]
 
 ##### Preguntas demográficas:
 
@@ -197,6 +198,8 @@ La funcionalidad que él agregaría sería la implementación de vista de técnicos e
 
 </div>
 
+Duración de la entrevista: [00:10:57 - 00:20:10]
+
 #### Preguntas demográficas:
 
 __¿Cual es tu nombre?__
@@ -274,6 +277,8 @@ Le gustaría que la aplicación brinda una forma de comunicación entre el cliente 
 [![Ver entrevista](../assets/img/chapter-II/interview3.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EaUio6iZZUdCnW4X7Qq_uh0BaS9_Qu8-4Bw-d21mnGRjYA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=bO8ZhM)
 
 </div>
+
+Duración de la entrevista: [00:10:57 - 00:33:25]
 
 #### Preguntas demográficas:
 
@@ -357,6 +362,8 @@ La función que ella agregaría sería en el apartado de comentarios donde además d
 
 
 </div>
+
+Duración de la entrevista: [00:33:25 - 00:44:05]
 
 
 #### Preguntas demográficas:
@@ -457,6 +464,8 @@ Le gustaría que se aumente una reseña para el técnico y que esta pueda ser resal
 
 
 </div>
+
+Duración de la entrevista: [00:44:05 - 00:52:09]
 
 #### Preguntas demográficas:  
 
