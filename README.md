@@ -9,9 +9,9 @@
 
 <center>
 
-# **Informe TB1**
+# **Informe TF**
 ## **LogicVerse - TecHelp**
-## Profesor: Angel Agusto Velasquez Nuñes
+## Profesor: Angel Augusto Velasquez Nuñez
 
 </center>
 
@@ -29,8 +29,8 @@
 
 | **Version** | **Fecha** | **Autor** |   **Descripcion de modificacion**   |
 |----------|----------|----------|----------|
-| 0.1   | 22/08/23 | LogicVerse | Se agrego el primer capitulo al trabajo  |
- 0.2   | 22/08/23 | LogicVerse | Se agrego el segundo capitulo al trabajo  | 
+| 0.1   | 22/08/23 | Gonzalo | Se agrego el primer capitulo al trabajo  |
+ 0.2   | 22/08/23 | Brayan | Se agrego el segundo capitulo al trabajo  | 
 
 ## Project Report Collaboration Insights 
 
@@ -117,8 +117,8 @@
 
 | **Criterio Especifico** | **Acciones Realizadas** | **Conclusiones** | 
 |----------|----------|----------|
-| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.**    | Cell 2   | Cell 3   | 
-| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.**   | Cell 2   | Cell 3   | 
+| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.**    | Morales Quispe Brayan  Smith <br/>__TB1__<br/>* __Remplazar__<br/>__TB2__<br/>* __Remplazar__<br/> Ramirez Mendez Sebastián André <br/>__TB1__<br/>* __Remplazar__<br/>__TB2__<br/>* __Remplazar__<br/>Lagos Aguilar Luis Eduardo<br/>__TB1__<br/>__* Remplazar__ <br/>__TB2__<br/>* __Remplazar__<br/> Ramos Calderon Giovanni Andres<br/>__TB1__<br/>* __Remplazar__<br/>__TB2__<br/>* __Remplazar__<br/> Saldaña Vela, Janover Gonzalo <br/>__TB1__<br/>* __Remplazar__<br/>__TB2__<br/>* __Remplazar__<br/>   | Cell 3   | 
+| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.**   | Morales Quispe Brayan  Smith <br/>__TB1__<br/>* __Remplazar__<br/>__TB2__<br/>* __Remplazar__<br/> Ramirez Mendez Sebastián André <br/>__TB1__<br/>* __Remplazar__<br/>__TB2__<br/>* __Remplazar__<br/>Lagos Aguilar Luis Eduardo<br/>__TB1__<br/>__* Remplazar__ <br/>__TB2__<br/>* __Remplazar__<br/> Ramos Calderon Giovanni Andres<br/>__TB1__<br/>* __Remplazar__<br/>__TB2__<br/>* __Remplazar__<br/> Saldaña Vela, Janover Gonzalo <br/>__TB1__<br/>* __Remplazar__<br/>__TB2__<br/>* __Remplazar__<br/>   | Cell 3   | 
 
 -----
 
