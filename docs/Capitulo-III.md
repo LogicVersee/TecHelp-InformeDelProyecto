@@ -93,4 +93,4 @@ Imagen de Product Backlog en Pivotal Tracker:
 ![texto_alternativo](/assets/img/chapter-III/ProductBackLogPT.png)
 
 
-![Link del Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2677710)
+[Link del Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2677710)
