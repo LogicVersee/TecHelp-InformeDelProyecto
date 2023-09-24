@@ -810,160 +810,148 @@ A continuación, compartimos imágenes que demuestran cómo gestionamos las tare
 
 ##### 5.2.1.3. Development Evidence for Sprint Review.
 
+<!-->
+| **Repository** | **Branch** | **Commit ID** | **Commit message**  | **Commit Masagge body** | **Commit on (date)** |
+| --- | --- | --- | --- | --- | --- |
+| **Repository** | **Branch** | **Commit ID** | **Commit message**  | **Commit Masagge body** | **Commit on (date)** | 
+| **Repository** | **Branch** | **Commit ID** | **Commit message**  | **Commit Masagge body** | **Commit on (date)** |
+-->
+
+
+
+
+
 <table>
   <tr>
-    <td> <strong>Sprint #</strong></td>
-    <td> <strong>Branch #</strong></td>
-    <td> <strong>Commit ID #</strong></td>
-    <td> <strong>Commit message #</strong></td>
-    <td> <strong>Commit Masagge body #</strong></td>
-    <td> <strong>Commit on (date) #</strong></td>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
   </tr>
 
   <tr>
-    <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
-    <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
-    <td align="center"> <strong>Description<strong></td>
-    <td align="center"> <strong>Estimation (Hours)<strong></td> 
-  </tr>
-  <!---------------------------------------------------------------------- -->
-  <tr>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
+    <td rowspan="16" align="center"> https://github.com/LogicVersee/LandingPageTecHelp </td>
+    <td align="center"> main</td>
+    <td align="center"> 8bd0d4f30e77a3be35b7af58773bc12944e073dc</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
+    <td align="center"> main</td>
+    <td align="center" > ca8a2540c8796fc2b32f8718539448faa82c3ae9</td>
+    <td align="center"> chore: added multimedia material, style documents and scripts</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
+    <td align="center"> feature/header</td>
+    <td align="center"> f69c7dbc27c7a4f515a9b5a23b1472cb084c96b5</td>
+    <td align="center"> chore(Directory): Added the assests folder and its components</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
+    <td align="center"> feature/header</td>
+    <td align="center"> 2ec418f0a5fbda0e26c7aa2d650bd306ae7f4541</td>
+    <td align="center"> feat(Header): Added section Header</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
- 
+    <td align="center"> feature/header</td>
+    <td align="center"> 0e688ffbef8d6b73ffad101e1a6d5dab191575d1</td>
+    <td align="center"> feat(Style): Added Header´s styles</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
+    <td align="center"> feature/header</td>
+    <td align="center"> 2210435613199de5ec9d66a689ae7decae31a1f7</td>
+    <td align="center"> feat(Header): Added english header</td>
+    <td align="center"> ---</td>
+    <td align="center"> 19/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
+    <td align="center"> feature/hero</td>
+    <td align="center"> 1537977c0bc20e4712ec12aa07aee20aac52d2a6</td>
+    <td align="center"> Merge remote-tracking branch 'origin/feature/header' into developer</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
+    <td align="center"> feature/hero</td>
+    <td align="center"> 91cbbc1c6c47845a46293492ec728657a6eedf06</td>
+    <td align="center"> feat(hero): add hero section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-  </tr>
-
-   <tr>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
+    <td align="center"> feature/hero</td>
+    <td align="center"> 20f00eaec38c4eb4b3b7feede2c73c5025e5a44c</td>
+    <td align="center"> feat(hero): add styles</td>
+    <td align="center"> ---</td>
+    <td align="center"> 19/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
+    <td align="center"> feature/benefits</td>
+    <td align="center"> d4be1d819cccada6d2d8f4773fc1f12db82af7ab</td>
+    <td align="center"> feat(benefits): Added and fixed benefits and hero sections.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 22/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
+    <td align="center"> feature/membreship</td>
+    <td align="center"> 8047ff4ebd05ac2ab5bb65db1f762baa589929a0</td>
+    <td align="center"> feat(membreship): Added section membreship.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 22/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> 404 </td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
+    <td align="center"> feature/contact </td>
+    <td align="center"> d71ef61879d966483fbbf4ebaf69d2a2f457e47b</td>
+    <td align="center"> feat(contact-us): added section contact-us.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 22/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
+    <td align="center"> feature/about-us-footer</td>
+    <td align="center"> 7cf0543b50c76a55325d9d3049d95dc3746f4e73</td>
+    <td align="center"> feat(about us): added about us section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
-    <td align="center"> 404</td>
+    <td align="center"> feature/about-us-footer</td>
+    <td align="center"> ffb6ebeb40c7e98b9cd410c1f51471979306c1f5</td>
+    <td align="center"> feat(footer): added footer section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/09/2023</td>
   </tr>
+
+  <tr>
+    <td align="center"> feature/release-1.0</td>
+    <td align="center"> b1dd6d99a64e19f441f89cb542e2123ccf06ce2d</td>
+    <td align="center"> feat: merge developer into release-1.0</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/09/2023</td>
+  </tr>
+
 </table>
 
 
