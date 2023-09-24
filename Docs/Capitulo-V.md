@@ -37,11 +37,11 @@ Esta herramienta facilita la creación digital de modelos que se integran en la 
 
 Para lograrlo, utilizamos varias herramientas de diseño y colaboración, que incluyen:
 
-**1. Uxpressia:** Uxpressia es una plataforma en línea especializada en el mapeo de la trayectoria del cliente. Nos ayuda a crear mapas de impacto y perfiles de usuario, como User Personas, Empathy Maps y Journey Maps. Puedes encontrar más información sobre Uxpressia en [este enlace](https://uxpressia.com/).
-**2. MIRO:** MIRO es una pizarra digital colaborativa en línea que se adapta a diversas actividades colaborativas, como investigación, ideación, creación de lluvias de ideas y mapas mentales. Es una herramienta versátil que facilita el trabajo en equipo. Descubre más sobre MIRO en [su sitio web](https://miro.com/app/dashboard/).
-**3. Figma:** Figma es una herramienta de prototipado web y un editor de gráficos vectoriales. A diferencia de otras herramientas, Figma se ejecuta en línea, lo que permite crear modelos que funcionan tanto en navegadores web como en navegadores móviles. Puedes explorar Figma en [este enlace](https://www.figma.com/design/).
-**4. Lucid Chart:** Esta es una aplicación de diagramación en línea que permite a los usuarios colaborar y trabajar juntos en tiempo real para crear una variedad de diseños, incluidos diagramas UML, mapas mentales, prototipos de software y otros tipos de diagramas. Puedes conocer más acerca de Lucid Chart en [este enlace](https://lucid.app/lucidchart/).
-**5. Overflow:** Overflow es una herramienta de diagramación que ofrece la posibilidad de colaborar en tiempo real. Utilizamos esta herramienta para crear diagramas de Userflows. Si deseas obtener más información sobre Overflow, visita [su sitio web](https://userflow.com/app/).
+**1\. Uxpressia:** Uxpressia es una plataforma en línea especializada en el mapeo de la trayectoria del cliente. Nos ayuda a crear mapas de impacto y perfiles de usuario, como User Personas, Empathy Maps y Journey Maps. Puedes encontrar más información sobre Uxpressia en [este enlace](https://uxpressia.com/).
+**2\. MIRO:** MIRO es una pizarra digital colaborativa en línea que se adapta a diversas actividades colaborativas, como investigación, ideación, creación de lluvias de ideas y mapas mentales. Es una herramienta versátil que facilita el trabajo en equipo. Descubre más sobre MIRO en [su sitio web](https://miro.com/app/dashboard/).
+**3\. Figma:** Figma es una herramienta de prototipado web y un editor de gráficos vectoriales. A diferencia de otras herramientas, Figma se ejecuta en línea, lo que permite crear modelos que funcionan tanto en navegadores web como en navegadores móviles. Puedes explorar Figma en [este enlace](https://www.figma.com/design/).
+**4\. Lucid Chart:** Esta es una aplicación de diagramación en línea que permite a los usuarios colaborar y trabajar juntos en tiempo real para crear una variedad de diseños, incluidos diagramas UML, mapas mentales, prototipos de software y otros tipos de diagramas. Puedes conocer más acerca de Lucid Chart en [este enlace](https://lucid.app/lucidchart/).
+**5\. Overflow:** Overflow es una herramienta de diagramación que ofrece la posibilidad de colaborar en tiempo real. Utilizamos esta herramienta para crear diagramas de Userflows. Si deseas obtener más información sobre Overflow, visita [su sitio web](https://userflow.com/app/).
 
 Estas herramientas nos ayudan a dar vida a nuestros diseños digitales y a garantizar que nuestros productos sean accesibles y atractivos en diferentes plataformas.
 
@@ -51,11 +51,11 @@ El desarrollo de software es una metodología aplicada en la creación de produc
 
 Aquí te presentamos algunas herramientas y tecnologías clave que utilizaremos en el proyecto:
 
-**1. GitHub:** GitHub es una plataforma de repositorio comunitario que se utiliza para almacenar y gestionar los avances de proyectos realizados por grupos de personas. Puedes acceder al repositorio del proyecto en [este enlace](https://github.com/LogicVersee).
-**2. Webstorm:** Webstorm es un entorno de desarrollo de JetBrains, una empresa especializada en software, orientado al desarrollo web en JavaScript. Esta herramienta proporciona facilidades para probar sitios web en navegadores como Google Chrome. En nuestro proyecto, utilizaremos webstorm para trabajar con lenguajes como HTML, CSS y JavaScript. Obtén más información sobre WebStorm [aquí](https://www.jetbrains.com/webstorm/).
-**3. HTML:** HTML es un lenguaje de marcado que se utiliza en el desarrollo de sitios web para crear hipertextos y enlazar a otros documentos. Este lenguaje proporciona herramientas para diseñar sitios web y se puede combinar eficazmente con CSS y JavaScript. En nuestro proyecto, utilizaremos HTML para implementar la documentación de la página web. Obtén más información sobre la edición de archivos HTML en WebStorm [aquí](https://www.jetbrains.com/help/idea/editing-html-files.html).
-**4. CSS:** CSS es un lenguaje de diseño destinado al entorno web, que posibilita la mejora de la interfaz de usuario previamente diseñada al añadir elementos como colores y tamaños, entre otros. Además, es posible crear un estilo en CSS y compartirlo en el sitio web creado en HTML. Este lenguaje será empleado en la implementación del diseño de nuestra plataforma web. Puedes obtener más información sobre CSS en [enlace](https://www.jetbrains.com/help/idea/style-sheets.html).
-**5. JavaScript:** Es un lenguaje de programación que es interpretado por otros programas. Funciona bajo el paradigma de programación orientada a objetos (POO), utilizando prototipos en lugar de clases para la implementación. Este lenguaje permite crear dinámicas para los usuarios a través de la lógica de programación y será utilizado en la creación de las interacciones dinámicas en la plataforma web. Puedes encontrar más detalles sobre JavaScript en [enlace](https://www.jetbrains.com/help/idea/javascript-specific-guidelines.html).
+**1\. GitHub:** GitHub es una plataforma de repositorio comunitario que se utiliza para almacenar y gestionar los avances de proyectos realizados por grupos de personas. Puedes acceder al repositorio del proyecto en [este enlace](https://github.com/LogicVersee).
+**2\. Webstorm:** Webstorm es un entorno de desarrollo de JetBrains, una empresa especializada en software, orientado al desarrollo web en JavaScript. Esta herramienta proporciona facilidades para probar sitios web en navegadores como Google Chrome. En nuestro proyecto, utilizaremos webstorm para trabajar con lenguajes como HTML, CSS y JavaScript. Obtén más información sobre WebStorm [aquí](https://www.jetbrains.com/webstorm/).
+**3\. HTML:** HTML es un lenguaje de marcado que se utiliza en el desarrollo de sitios web para crear hipertextos y enlazar a otros documentos. Este lenguaje proporciona herramientas para diseñar sitios web y se puede combinar eficazmente con CSS y JavaScript. En nuestro proyecto, utilizaremos HTML para implementar la documentación de la página web. Obtén más información sobre la edición de archivos HTML en WebStorm [aquí](https://www.jetbrains.com/help/idea/editing-html-files.html).
+**4\. CSS:** CSS es un lenguaje de diseño destinado al entorno web, que posibilita la mejora de la interfaz de usuario previamente diseñada al añadir elementos como colores y tamaños, entre otros. Además, es posible crear un estilo en CSS y compartirlo en el sitio web creado en HTML. Este lenguaje será empleado en la implementación del diseño de nuestra plataforma web. Puedes obtener más información sobre CSS en [enlace](https://www.jetbrains.com/help/idea/style-sheets.html).
+**5\. JavaScript:** Es un lenguaje de programación que es interpretado por otros programas. Funciona bajo el paradigma de programación orientada a objetos (POO), utilizando prototipos en lugar de clases para la implementación. Este lenguaje permite crear dinámicas para los usuarios a través de la lógica de programación y será utilizado en la creación de las interacciones dinámicas en la plataforma web. Puedes encontrar más detalles sobre JavaScript en [enlace](https://www.jetbrains.com/help/idea/javascript-specific-guidelines.html).
 
 Estas herramientas y tecnologías desempeñarán un papel fundamental en la creación exitosa de nuestro producto de software.
 
@@ -74,7 +74,7 @@ Se refiere a textos escritos o ilustraciones que acompañan al software de compu
 A continuación, se describe la gestión del código fuente, también conocida por sus siglas en inglés como SCM (Source Code Management). Su función principal consiste en rastrear las modificaciones que el equipo llevará a cabo durante el desarrollo de sus proyectos en los repositorios de código fuente. Se utilizará como un sistema de control de versiones que permite seguir los cambios realizados por cada miembro o desarrollador en el proyecto. Además, es importante destacar que utilizaremos **GitHub** como nuestro sistema de control de versiones.
 
 * URL de la organización: [LogicVersee](https://github.com/LogicVersee) - *https://github.com/LogicVersee*
-* URL del repositorio de la Landing Page: [Landing Page TecHelp](https://github.com/LogicVersee/TecHelp-LandingPage) - *https://github.com/LogicVersee/TecHelp-LandingPage*
+* URL del repositorio de la Landing Page: [LandingPageTecHelp](https://github.com/LogicVersee/LandingPageTecHelp) - *https://github.com/LogicVersee/LandingPageTecHelp*
 * URL del repositorio del Front-End: [Front-End TecHelp](https://github.com/LogicVersee/TecHelp-FronEnd) - *https://github.com/LogicVersee/TecHelp-FronEnd*
 * URL del repositorio del Back-End: [Back-End TecHelp](https://github.com/LogicVersee/TecHelp-Backend) - *https://github.com/LogicVersee/TecHelp-Backend*
 
@@ -166,11 +166,11 @@ Una vez que hayas establecido el sistema de control de versiones que se vincular
 * **Guardar el progreso en GitHub**
 Con todo configurado en WebStorm, ahora puedes subir tu código a GitHub sin problemas. Simplemente dirígete a la opción 'GitHub' que se encuentra en la pestaña 'Git' y comparte el proyecto.
 
-![compartir-GitHub.png](../assets/img/chapter-v/compartir-GitHub.png) 
+![compartir-GitHub.png](../assets/img/chapter-v/compartir-GitHub.png)
 
 A continuación, debes ingresar el nombre del repositorio y, si lo deseas, proporcionar una breve descripción. Una vez realizado esto, podrás transferir o copiar el código a un repositorio en GitHub.
 
-![ingresar-nombre-repositorio.png](../assets/img/chapter-v/ingresar-nombre-repositorio.png)  
+![ingresar-nombre-repositorio.png](../assets/img/chapter-v/ingresar-nombre-repositorio.png)
 
 * **Configurar la propiedad del repositorio en GitHub**
 Ahora, solo necesitas configurar la ubicación del repositorio. El código ya debería estar guardado en GitHub, pero solo estará presente en tu propia cuenta. Para cambiar la propiedad y transferirla a la organización deseada, sigue estos pasos:
@@ -182,7 +182,7 @@ Ahora, solo necesitas configurar la ubicación del repositorio. El código ya de
 
 ![Imagen ingresar-repositorio-creado.png](../assets/img/chapter-v/ingresar-repositorio-creado.png)
 
-![pestaña-settings.png](../assets/img/chapter-v/pestaña-settings.png)
+![pestaña-settings.png](../assets/img/chapter-v/pesta%C3%B1a-settings.png)
 
 ![apartado-danger-zone.png](../assets/img/chapter-v/apartado-danger-zone.png)
 
@@ -300,7 +300,6 @@ Cada vez que comiences un nuevo bloque, lista o tabla de gran longitud, es recom
 
 Esta práctica de dejar una línea en blanco mejora la estructura y legibilidad del código HTML.
 
-
 * **Quote attribute Values**
 Para los valores de los atributos, es común utilizar comillas dobles alrededor de ellos, aunque esta característica no sea obligatoria. Según W3Schools (sin fecha), esto mejora la legibilidad del código y es una práctica común entre los desarrolladores. Aquí tienes un ejemplo:
 
@@ -318,7 +317,6 @@ El elemento `<title>` permite que las páginas aparezcan en la lista de resultad
 ```
 
 Este elemento es esencial para mejorar la identificación y accesibilidad de una página web.
-
 
 * **HTML Line-Wrapping**
 A pesar de que en un documento HTML no exista un límite estricto en la cantidad de palabras por línea, no se recomienda generar líneas de código excesivamente largas. De hecho, hacerlo dificulta la legibilidad del código. Para continuar en la siguiente línea, se deben utilizar al menos cuatro espacios para distinguir elementos secundarios. Aquí tienes un ejemplo basado en las recomendaciones de Google (sin fecha):
@@ -347,7 +345,6 @@ padding: 0 1em 0;
 
 Siguiendo estas recomendaciones, se puede lograr un código CSS más conciso y fácil de entender.
 
-
 * **Declaration Stops**
 Es importante incluir un punto y coma al final de cada declaración en CSS, al igual que en la mayoría de los lenguajes de programación. Siguiendo las pautas de Google (sin fecha), esta práctica contribuye a mantener la coherencia en el código. A continuación, se muestra un ejemplo:
 
@@ -359,6 +356,7 @@ html {
 ```
 
 El uso consistente de puntos y comas al final de las declaraciones CSS ayuda a prevenir errores y mejora la claridad del código.
+
 * **Property Name Stops**
 Es necesario incluir un espacio entre los dos puntos que siguen al nombre de una propiedad y el valor correspondiente. Siempre se debe colocar un solo espacio después de los dos puntos, pero no antes. A continuación, se muestra un ejemplo siguiendo esta convención estándar de Google (s.f):
 
@@ -409,7 +407,6 @@ const myArray = ['Volvo', 'Saab', 'Fiat'];
 
 El uso consistente de espacios alrededor de operadores y comas mejora la legibilidad del código JavaScript.
 
-
 * **Simple Statement's End**
 Es fundamental que una instrucción simple finalice con un punto y coma, tal como es el caso en muchos otros lenguajes de programación. A continuación, se muestra un ejemplo que cumple con la convención estándar de W3Schools (sin fecha):
 
@@ -419,7 +416,6 @@ const myArray = ['Volvo', 'Saab', 'Fiat'];
 ```
 
 El uso de punto y coma al final de cada instrucción ayuda a garantizar la estructura correcta del código JavaScript y a evitar posibles errores.
-
 
 * **Beginning and End of Function**
 Un bloque de función debe incluir una llave al final de la primera línea, de modo que el cierre de la función esté en la última línea, sin necesidad de un punto y coma. Este mismo principio se aplica a las estructuras condicionales y los bucles. A continuación, se muestra un ejemplo que cumple con la convención estándar de W3Schools (sin fecha):
@@ -431,7 +427,6 @@ function toCelsius(fahrenheit) {
 ```
 
 En este ejemplo, la función `toCelsius` está formateada de acuerdo con estas pautas, con la llave de apertura en la misma línea que la declaración de la función y la llave de cierre en la última línea. Esto ayuda a mantener la estructura y la legibilidad del código JavaScript.
-
 
 * **Object Rules**
 Para la creación de un objeto, al igual que en una función, se comienza con una llave al final de la primera línea. Sin embargo, en este caso, la llave de cierre debe ir seguida de un punto y coma. Para definir las propiedades del objeto, se utilizan dos puntos y un espacio para separar el nombre de la propiedad de su valor. Si el valor es un string, se debe encerrar entre comillas dobles. A continuación, se muestra un ejemplo siguiendo la convención estándar de W3Schools (sin fecha):
@@ -465,7 +460,6 @@ Scenario: Ingreso de requisitos con claridad
 
 En este ejemplo, se ha aplicado la sangría de manera adecuada para resaltar los pasos del escenario, y se ha utilizado una sangría adicional para los pasos que comienzan con "And". Esto mejora la legibilidad y la comprensión de los escenarios escritos en Gherkin.
 
-
 * **Step with Tables**
 Conforme a la recomendación de Keiblinger (2021), cuando sea necesario introducir valores en partes del escenario, se debe emplear una tabla o crear un formulario que refleje esa parte del escenario. Antes de esta representación, se deben colocar dos puntos. Aquí tienes un ejemplo:
 
@@ -477,7 +471,6 @@ Then se mostrará el mensaje:
 
 Este enfoque permite una representación clara y estructurada de los valores relacionados con una parte específica del escenario.
 
-
 * **Reducing Noise**
 Para evitar la acumulación de demasiadas líneas de código en un escenario, es recomendable incluir valores por defecto dentro de los pasos para campos que no sean muy relevantes para ese escenario en particular. Los valores "estándar" que se coloquen deben estar entre comillas simples. Siguiendo el consejo de Keiblinger (2021), esta práctica contribuye significativamente a la reducción del tamaño del código. A continuación, se muestra un ejemplo:
 
@@ -486,7 +479,6 @@ When escribo claramente los requisitos 'dominio en C'
 ```
 
 En este ejemplo, se ha incluido un valor por defecto ('dominio en C') entre comillas simples dentro del paso para representar un campo que no es esencial en ese escenario. Esto ayuda a mantener el escenario más conciso y legible.
-
 
 * **Scenarios Separator**
 Para separar dos escenarios, se debe insertar un salto de línea y, según la sugerencia de Keiblinger (2021), si es posible, agregar una línea de comentario para facilitar la visualización de estos. De esta manera, se identifica rápidamente el inicio y el fin de un escenario. A continuación, se presenta un ejemplo:
@@ -525,7 +517,6 @@ class Football implements Sport
 
 En este ejemplo, se han seguido las pautas para nombrar clases e interfaces de manera clara y legible.
 
-
 * **Métodos en Java**
 Los métodos deben seguir una convención de nombres que utilice verbos y mantenga la combinación de mayúsculas y minúsculas, con la primera letra de cada palabra interna (a partir de la segunda) en mayúscula. A continuación, se presenta un ejemplo:
 
@@ -537,7 +528,6 @@ void applyBrakes(int decrement);
 
 En este ejemplo, los nombres de los métodos siguen la convención recomendada, lo que los hace descriptivos y legibles.
 
-
 * **Variables en Java**
 Los nombres de las variables deben ser concisos pero significativos, evitando comenzar con un guión bajo (\_) o caracteres especiales como el signo de dólar ($). Deben ser mnemotécnicos, es decir, diseñados de manera que indiquen claramente su propósito a un observador casual. Generalmente, se deben evitar los nombres de una sola letra para las variables, a menos que se utilicen como variables temporales. Los nombres comunes para variables temporales son: i, j, k, m y n para enteros, y c, d y e para caracteres. A continuación, se muestra un ejemplo:
 
@@ -548,7 +538,6 @@ int gear = 1;
 ```
 
 En este ejemplo, se han utilizado nombres de variables significativos y legibles, lo que facilita la comprensión de su propósito en el contexto de la clase MountainBike.
-
 
 * **Excepciones**
 A menos que se justifique en un comentario, es extremadamente raro que sea apropiado no realizar ninguna acción en respuesta a una excepción detectada. En el caso en que no sea necesario realizar ninguna acción en un bloque catch, la razón debe explicarse de manera clara en un comentario. A continuación, se presenta un ejemplo:
@@ -640,34 +629,352 @@ lading page.
 
 ### 5.2.1. Sprint 1
 
+En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implementación del diseño de nuestra Landing Page utilizando WebStorm como entorno de desarrollo. Esto implica que al concluir el Sprint, todas las secciones, ya sea Home, Services, Pricing, Testimonials o About Us, deben estar completadas. A continuación, adjuntamos imágenes que ilustran cómo gestionamos las tareas en Pivotal Tracker.
 
+**Repositorio:** [LandingPageTecHelp](https://github.com/LogicVersee/LandingPageTecHelp) https://github.com/LogicVersee/LandingPageTecHelp
+
+**LandingPageDeployed:**
 
 #### 5.2.1.1. Sprint Planning 1.
 
-
-
 #### 5.2.1.2. Sprint Backlog 1.
 
+A continuación, compartimos imágenes que demuestran cómo gestionamos las tareas en Pivotal Tracker. Posteriormente, presentamos la tabla de control de estado del Sprint.
 
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US14: Navegar libremente por la Landing Page </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Añadir lista de etiquetas</td>
+    <td align="justify"> Se añadirán las etiquetas de home, services, membreship, contac-us, about-us.</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Luis Lagos</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Vincular las secciones </td>
+    <td align="center"> se determina la esturctura e IDs de las secciones y se vincula las etiquetas a estas para luego comenzar a codificar estas</td>
+    <td align="center"> 1</td>
+    <td align="center"> Luis Lagos</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Añadir Logo y estilos del nav</td>
+    <td align="center"> Se añede el logo de la solución planteada y se implementa los estilos del toolbar </td>
+    <td align="center"> 3</td>
+    <td align="center"> Luis Lagos</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Añadir botones de modo oscuro e idioma.</td>
+    <td align="center"> Se añeden los botones de cambio de idioma y boton de modo oscuro para hacerlo mas agaradable al posible usuario</td>
+    <td align="center"> 2</td>
+    <td align="center"> Luis Lagos</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US 15: Apartado de contacto con el Startup</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Añadir título y descripción</td>
+    <td align="justify"> Se añadirá el tiítulo correspodniente a la sección a realizar y redactar una oración inivitando a las personas a escribirnos</td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Saldaña</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Añadir formulario</td>
+    <td align="justify"> Se añadirá un formulario donde los usuarios objetivos deben ingresas sus nombres, medio de contacto y una descripción sobre la duda que tienen</td>
+    <td align="center"> 1</td>
+    <td align="center"> Gonzalo Saldaña</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Añadir botón de enviar, imagen y estilos</td>
+    <td align="justify"> Se añadirá una imagen llamativa sobre lo que ofrece nuestro software, se implementará un botón para enviar el contenido del formulario y se agregarán los estilos correspondientes. </td>
+    <td align="center"> 3 </td>
+    <td align="center"> Gonzalo Saldaña</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US 16: Beneficios de la aplicación</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Se añadirá el titulo y descripción de la sección</td>
+    <td align="center"> Se añadirá una pregunta a modo de título (¿Por qué TecHelp?), descripciónes incitando a que usen nuestra solucón y lo que ofrece para cada tipo de posible usuario</td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastián Ramirez</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Organizar las beneficios en dos card</td>
+    <td align="center"> Se organizará el contenido de la seccion de beneficios mediante cards para cada segmento objetivo</td>
+    <td align="center"> 2</td>
+    <td align="center"> Sebastián Ramirez</td>
+    <td align="center"> Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US 19: Mostrar los planes disponibles</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Añadir título y decripción</td>
+    <td align="center"> Se añade el título a manera de pregunta para captar la atención de nuestros posibles usuarios e invitamos a suscribirce a a nuestros planes </td>
+    <td align="center"> 3</td>
+    <td align="center"> Brayan Morales</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Cards para organizar las membresias</td>
+    <td align="center"> Se agregarán cards para organizar la información de las membreisas e invitar a que sean parte de nostros con botones para suscribirse</td>
+    <td align="center"> 2</td>
+    <td align="center"> Brayan Morales</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Botones de suscripciones y estilos de seccion</td>
+    <td align="center"> Se añadirán las botones correspondientes a cada tipo de membresia y además se ñadirán los estilos correspondientes para que la sección sea más consistente</td>
+    <td align="center"> 2</td>
+    <td align="center"> Brayan Morales</td>
+    <td align="center"> Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center">  US 18: Información del startup</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Titulo y descripción</td>
+    <td align="center"> Se agregará un título para diferenciar la sección y los estilos corresponidentes para distinguir una sección de la otra.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Giovanni Ramos</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Descripción de integrantes</td>
+    <td align="center"> Se agregará una descripción breve de los integrante del equipo que se está dedicando al proceso de desarrollo de la solución </td>
+    <td align="center"> 2</td>
+    <td align="center"> Giovanni Ramos</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Organizar el contenido en cards</td>
+    <td align="center"> Se agregarán los estilos correspondientes para separar cada integrante en cards para tener una mejor organización y cisualización de las mismas</td>
+    <td align="center"> 3</td>
+    <td align="center"> Giovanni Ramos</td>
+    <td align="center"> Done</td>
+  </tr>
+</table>
 
 ##### 5.2.1.3. Development Evidence for Sprint Review.
 
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td> <strong>Branch #</strong></td>
+    <td> <strong>Commit ID #</strong></td>
+    <td> <strong>Commit message #</strong></td>
+    <td> <strong>Commit Masagge body #</strong></td>
+    <td> <strong>Commit on (date) #</strong></td>
+  </tr>
+
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td> 
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+  </tr>
+
+  <tr>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+  </tr>
+
+  <tr>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+  </tr>
+
+  <tr>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+  </tr>
+
+  <tr>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+ 
+  </tr>
+
+  <tr>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+  </tr>
+
+  <tr>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+  </tr>
+
+  <tr>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+  </tr>
+
+  <tr>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+  </tr>
+
+   <tr>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+  </tr>
+
+  <tr>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+  </tr>
+
+  <tr>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+  </tr>
+
+  <tr>
+    <td align="center"> 404 </td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+  </tr>
+
+  <tr>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+  </tr>
+
+  <tr>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+    <td align="center"> 404</td>
+  </tr>
+</table>
 
 
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
-
+En el Sprint 1, se completaron únicamente las características relacionadas con el sitio web estático, sin que se llevara a cabo la implementación de los Web Services.
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review.
 
-
-
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-
-
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-
-
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint.
