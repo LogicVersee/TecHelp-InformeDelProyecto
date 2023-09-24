@@ -87,3 +87,10 @@ Al culminar las redacciones de los User Story,debemos priorizarlas. El product B
 | 17     | US06          | Gestion de Ingresos                 | Como técnico, quiero visualizar en una gráfica el crecimiento de mis ventas semanales para tener un análisis de rentabilidad de mis servicios                                                | 8                        | 
 | 18     | US04          | Administrar inventario              | Como técnico, quiero tener un inventario de los componentes que tengo, para gestionar de manera mas eficiente mi negocio.	                                                                   | 8                        | 
 | 19     | US05          | Administrar Tareas                  | Como técnico, quiero administrar un historial de tareas en el cual se detalle el servicio que le estoy brindando a mi cliente para tener un mejor orden a la hora de brindar mis servicios.	 | 8                        |
+
+Imagen de Product Backlog en Pivotal Tracker:
+
+![texto_alternativo](/assets/img/chapter-III/ProductBackLogPT.png)
+
+
+![Link del Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2677710)
