@@ -810,17 +810,6 @@ A continuación, compartimos imágenes que demuestran cómo gestionamos las tare
 
 ##### 5.2.1.3. Development Evidence for Sprint Review.
 
-<!-->
-| **Repository** | **Branch** | **Commit ID** | **Commit message**  | **Commit Masagge body** | **Commit on (date)** |
-| --- | --- | --- | --- | --- | --- |
-| **Repository** | **Branch** | **Commit ID** | **Commit message**  | **Commit Masagge body** | **Commit on (date)** | 
-| **Repository** | **Branch** | **Commit ID** | **Commit message**  | **Commit Masagge body** | **Commit on (date)** |
--->
-
-
-
-
-
 <table>
   <tr>
     <td align ="center" > <strong>Repository</strong></td>
@@ -961,8 +950,67 @@ En el Sprint 1, se completaron únicamente las características relacionadas con
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review.
 
+Después de completar el Sprint 1, logramos implementar todas las secciones de nuestro Landing Page para garantizar una visualización perfecta. Además, le dimos un formato atractivo que captura la atención del usuario hacia sus diferentes componentes. También agregamos métodos de navegación en la página, como botones ubicados al principio y al final, que te permiten moverte fácilmente de una sección a otra. A continuación, te mostraremos los avances a través de imágenes del resultado obtenido.
+
+Es importante destacar que el objetivo principal del Landing Page es convertir a los visitantes en futuros clientes o usuarios habituales de nuestro servicio. Para lograrlo, utilizamos llamados a la acción (Call To Action) que los guían hacia la aplicación web.
+
+A continuación, te presentamos capturas de pantalla del desarrollo del Landing Page:
+
+En la parte superior, se encuentra el encabezado (Header) que incluye botones de inicio (Home), servicios (Service), membresias (membership), cantacto (Contact-Us), información sobre nosotros (About Us), un botón para cambiar el idioma entre inglés y español y un botón para cambiar el entorno a modo oscuro. Estos elementos permiten a los visitantes desplazarse fácilmente a la sección que deseen visualizar.
+
+![header.png](../assets/img/chapter-v/header.png)
+**Imagen 1:** Encabezado y botones de desplazamiento.
+
+Se presenta la sección "Hero", que incluye una breve descripción y una frase representativa de TecHelp. Además, permite iniciar el uso del servicio web y proporciona una imagen relacionada con el mismo.
+
+![hero.png](../assets/img/chapter-v/hero.png)
+**Imagen 2:** Sección Hero.
+
+Se presenta la sección de beneficios del servicio para cada segmento objetivo identificado por el equipo.
+
+![servis.png](../assets/img/chapter-v/servis.png)
+**Imagen 3:** Sección benefits ó service.
+
+Se presenta la sección membership de la landing page, en esta sección nuestros posibles usuarios podrán ver los tipos de membresias y sus costos.
+
+![membership.png](../assets/img/chapter-v/membership.png)
+**Imagen 4:** Sección membership.
+
+A continuación se presenta la sección de contacto, aquí nuestros posibles usuarios pueden realizarnos preguntas personalizadas acerca de la aplicación que se está presentando.
+
+![contac-us.png](../assets/img/chapter-v/contac-us.png)
+**Imagen 5:** Sección contact-us.
+
+
+Seguidamente, se presenta la sección sobre nosotros (about-us). En este apartado se muestra información a menra de resumen sobre las personas que están desarrollando la salución de software.
+![about-us.png](../assets/img/chapter-v/about-us.png)
+**Imagen 5:** Sección abot-us.
+
+Por último, se exhibe la sección del pie de página, donde encontrará nuestros enlaces a redes sociales y botones que le facilitarán regresar a las secciones que desee el usuario.
+
+![footer.png](../assets/img/chapter-v/footer.png)
+**Imagen 5:** Sección footer.
+
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
+En el primer sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "Theraphy". En esta página de inicio, encontrarás varias secciones creadas por el equipo Digitalholic, cada una a cargo de un miembro del grupo.
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://logicversee.github.io/LandingPageTecHelp/</td>
+    <td> Desplegar Landing Page de TecHelp</td>
+  </tr>
+</table>
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para la implementación de nuestra página, optamos por utilizar GitHub Pages. En este proceso, creamos un repositorio en GitHub donde gestionamos el control de versiones. En la sección de Configuración, publicamos el proyecto almacenado en la rama "main" que previamente se encontrba en la rama release-1.0.
+
+**Link de la Landing Page desplegada:** [TecHelp](https://logicversee.github.io/LandingPageTecHelp/) **-** https://logicversee.github.io/LandingPageTecHelp/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint.
