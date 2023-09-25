@@ -1014,3 +1014,19 @@ Para la implementación de nuestra página, optamos por utilizar GitHub Pages. E
 **Link de la Landing Page desplegada:** [TecHelp](https://logicversee.github.io/LandingPageTecHelp/) **-** https://logicversee.github.io/LandingPageTecHelp/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+En esta entrega, nuestra meta principal fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
+
+![commits-colaboration.png](../assets/img/chapter-v/commits-colaboration.png)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo. 
+
+![commits.png](../assets/img/chapter-v/commits.png)
+
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra Landing Page, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
+
+![git-clones.png](../assets/img/chapter-v/git-clones.png)
+
+Estos gráficos ofrecen una representación visual de las clonaciones registradas en nuestro repositorio, junto con la fecha en que cada una de estas acciones se llevó a cabo. Además, se presenta información sobre la cantidad de visitantes que ha tenido el repositorio de nuestro equipo a lo largo del tiempo.
+
+![network.png](../assets/img/chapter-v/network.png)
