@@ -247,7 +247,7 @@ En resumen, estas etiquetas y meta tags se utilizan para mejorar la optimizaci�
 ### 4.3.1. Landing Page Wireframe
 En esta sección se mostrará el desarrollo final de los Wireframes del Landing Page. [Link del Wireframe](https://www.figma.com/file/qSyCbAqHOXsX1mVh4EX8yy/Open-Source?type=design&node-id=508%3A838&mode=design&t=c0yzJ4yiEgVpak2m-1)
 
-![Wireframes](Img/Chapter-IV/Lading%20Page%20Wireframe.png)
+![Wireframes](../assets/img/chapter-IV/Lading%20Page%20Wireframe.png)
 
 En este capítulo se desarrolló lo wireframes que es una representación de bajo nivel a una escala de grises que permite tener una idea temprana de nuestro diseño del landing page.
 
@@ -255,12 +255,14 @@ En este capítulo se desarrolló lo wireframes que es una representación de baj
 En esta sección se mostrará el desarrollo final de los Mockup del Landing Page. [Link del Mockup](https://www.figma.com/file/qSyCbAqHOXsX1mVh4EX8yy/Open-Source?type=design&node-id=508%3A838&mode=design&t=c0yzJ4yiEgVpak2m-1)
 
 
-![Mockup](Img/Chapter-IV/Landing%20mockup.PNG)
+![Mockup](../assets/img/chapter-IV/LadingPageMockup.png)
 
 En este capítulo se desarrolló el mockup, diseñado con tonalidades de azul, con el tipo de letra Montserrat e implementando las imagenes necesarias.
 
 ### 4.4.1. Web Application Wireframes
-En esta sección se mostrará el desarrollo final de los Wireframes de la Web Application, que es una representacion de baja fidelidad en una escala de grises. [Link](https://www.figma.com/file/qSyCbAqHOXsX1mVh4EX8yy/Open-Source?type=design&node-id=508%3A838&mode=design&t=c0yzJ4yiEgVpak2m-1)
+En esta sección se mostrará el desarrollo final de los Wireframes de la Web Application, que es una representacion de baja fidelidad en una escala de grises. 
+<b>
+[Link](https://www.figma.com/file/qSyCbAqHOXsX1mVh4EX8yy/Open-Source?type=design&node-id=508%3A838&mode=design&t=c0yzJ4yiEgVpak2m-1)
 
 * __Interfaz para nuevos usuarios y antiguos usuarios__
 
@@ -277,7 +279,7 @@ En esta sección se mostrará el desarrollo final de los Wireframes de la Web Ap
 
 * __Interfaz de Personas__
 
-  En esta seccion se muestra las paginas de "Home" para el cliente donde se puede ver el progreso,tecnicos y se vera algunas reparaciones que se estan llevando acabo o ya finalizaron. La siguiente pagina "Tecnicos "mostrara a los tecnicos cercanos,donde ademas podemos filtrarlos y buscar por nombre.En la pagina "Progreso" se mostrara el estado de la reparacion que sera representada por un grafico. La pagina "Favorita" mostrara los tecnicos guardados como favoritos por el usuario y  el "Inbox" se podra ver notificaciones de aceptacion de reparacion de los tecnicos ademas de brindar al usuario el contacto con el tecnico.
+  En esta seccion se muestra las páginas de "Home" para el cliente donde se puede ver el progreso,tecnicos y se vera algunas reparaciones que se estan llevando acabo o ya finalizaron. La siguiente pagina "Tecnicos "mostrara a los tecnicos cercanos,donde ademas podemos filtrarlos y buscar por nombre.En la pagina "Progreso" se mostrara el estado de la reparacion que sera representada por un grafico. La pagina "Favorita" mostrara los tecnicos guardados como favoritos por el usuario y  el "Inbox" se podra ver notificaciones de aceptacion de reparacion de los tecnicos ademas de brindar al usuario el contacto con el tecnico.
 
 ![3](../assets/img/chapter-IV/InterfazHomeClienteWireframe.png)
 ![3](../assets/img/chapter-IV/InterfazTechnicalClienteWireframe.png)
@@ -290,11 +292,12 @@ En esta sección se mostrará el desarrollo final de los Wireframes de la Web Ap
 * __Pedir una reparacion al tecnico__
 
   En esta seccion se puede ver la forma que al momento de pedir una reparacion a un tecnico determinado escogido de la pagina "Tecnicos".
-  ![3](Img/Chapter-IV/InterfazHomeClienteWireframe.png)
-  ![5](Img/Chapter-IV/SeleccionTechnicalClienteWireframe.png)
-  ![](Img/ChapterIV/SeleccionarServicioTechnicalClienteWireframe.png)
-  ![5](Img/Chapter-IV/CompletarServicioTechnicalClienteWireframe.png)
-  ![](Img/Chapter-IV/RetornarHomeClienteWireframe.png)
+  
+![3](../assets/img/chapter-IV/InterfazHomeClienteWireframe.png)
+![5](../assets/img/chapter-IV/SeleccionTechnicalClienteWireframe.png)
+![](../assets/img/chapter-IV/SeleccionarServicioTechnicalClienteWireframe.png)
+![5](../assets/img/chapter-IV/CompletarServicioTechnicalClienteWireframe.png)
+![](../assets/img/chapter-IV/RetornarHomeClienteWireframe.png)
 
 
 
@@ -304,11 +307,11 @@ En esta sección se mostrará el desarrollo final de los Wireframes de la Web Ap
 
   En esta seccion se muestra las paginas de "Home" que muestra un resumen de tareas,dashboard y peticiones recientes.El "DashBoard" que es exclusivo para los tecnicos. La pagina "Peticion" que permite mostrar al tecnico las peticiones de reparacion.El "perfil" que permitira administar al tecnico su propia informacion, comprar membresia o cancelarla y el "Task" que permite al tecnico visualizar las tareas aceptadas y en proceso.
 
-![2](Img/Chapter-IV/InterfazHomeTecnicoWireframe.png)
-![2](Img/Chapter-IV/InterfazDashboardTecnicoWireframe.png)
-![2](Img/Chapter-IV/InterfazPetitionTecnicoWireframe.png)
-![2](Img/Chapter-IV/InterfazProfileTecnicoWireframe.png)
-![2](Img/Chapter-IV/InterfazTaskTecnicoWireframe.png)
+![2](../assets/img/chapter-IV/InterfazHomeTecnicoWireframe.png)
+![2](../assets/img/chapter-IV/InterfazDashboardTecnicoWireframe.png)
+![2](../assets/img/chapter-IV/InterfazPetitionTecnicoWireframe.png)
+![2](../assets/img/chapter-IV/InterfazProfileTecnicoWireframe.png)
+![2](../assets/img/chapter-IV/InterfazTaskTecnicoWireframe.png)
 
 
 <br></br>
