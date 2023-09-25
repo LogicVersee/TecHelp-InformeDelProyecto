@@ -31,6 +31,14 @@
 |----------|----------|----------|----------|
 | 0.1   | 22/08/23 | Gonzalo | Se agrego el primer capitulo al trabajo  |
  0.2   | 22/08/23 | Brayan | Se agrego el segundo capitulo al trabajo  | 
+ | 0.3   | 22/08/23 | Sebastián | Se agregó las entrevistas al trabajo  |
+ | 0.4   | 22/08/23 | Sebastián | Se agregó Needfinding al trabajo |
+ | 0.5   | 22/08/23 | Sebastián | Se arreglaron los assets del documento  |
+ | 0.6   | 22/08/23 | Sebastián | Se agregó User Task Matrix al trabajo  |
+ | 0.7   | 22/08/23 | Sebastián | Se agregó User Journey Mapping al trabajo  |
+ | 0.8   | 22/08/23 | Sebastián | Se agregó Empathy mapping al trabajo  |
+ | 0.9   | 22/08/23 | Sebastián | Se agregó As-Is scenario mapping al trabajo  |
+ | 1.0   | 22/08/23 | Sebastián | Se agregó Meta Tags al trabajo  |
 
 ## Project Report Collaboration Insights 
 
