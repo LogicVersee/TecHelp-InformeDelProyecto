@@ -220,15 +220,15 @@ A continuación  el equipo de trabajo mostrará el etiquetado que tendrá nuestr
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/ZcF0Twz/image.png" alt="image" border="0"></a>
 
-Esta etiqueta se utiliza para especificar la codificaci�n de caracteres del documento HTML. Ayuda a los motores de b�squeda y navegadores a interpretar correctamente los caracteres especiales y asegura la correcta representaci�n de texto en diferentes idiomas.
+Esta etiqueta se utiliza para especificar la codificación de caracteres del documento HTML. Ayuda a los motores de búsqueda y navegadores a interpretar correctamente los caracteres especiales y asegura la correcta representación de texto en diferentes idiomas.
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/w4Qd1q5/image.png" alt="image" border="0"></a>
 
-Esta etiqueta indica al navegador que utilice la �ltima versi�n de Internet Explorer (o el modo de emulaci�n Edge) para representar la p�gina. Ayuda a garantizar la compatibilidad y la representaci�n adecuada en navegadores antiguos de Internet Explorer.
+Esta etiqueta indica al navegador que utilice la última versión de Internet Explorer (o el modo de emulación Edge) para representar la página. Ayuda a garantizar la compatibilidad y la representación adecuada en navegadores antiguos de Internet Explorer.
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/zh0z7bV/image.png" alt="image" border="0"></a>
 
-Esta etiqueta es esencial para el dise�o web receptivo (responsive design). Espec�ficamente, indica que el ancho del viewport debe ser igual al ancho del dispositivo y que la escala inicial debe ser 1.0, lo que ayuda a optimizar la visualizaci�n en dispositivos m�viles.
+Esta etiqueta es esencial para el diseño web receptivo (responsive design). Específicamente, indica que el ancho del viewport debe ser igual al ancho del dispositivo y que la escala inicial debe ser 1.0, lo que ayuda a optimizar la visualización en dispositivos móviles.
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/KjctZyg/image.png" alt="image" border="0"></a>
 
@@ -236,13 +236,13 @@ Esta etiqueta meta se utiliza para especificar palabras clave relacionadas con e
 
 <a href="https://ibb.co/Pms8pMc"><img src="https://i.ibb.co/Gxfjw9W/image.png" alt="image" border="0"></a>
 
-Esta etiqueta meta proporciona una breve descripci�n del contenido de la p�gina. La descripci�n meta se muestra en los resultados de b�squeda de Google y otros motores de b�squeda.
+Esta etiqueta meta proporciona una breve descripción del contenido de la página. La descripción meta se muestra en los resultados de búsqueda de Google y otros motores de búsqueda.
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/QQtK8kz/image.png" alt="image" border="0"></a>
 
-La etiqueta title se utiliza para definir el t�tulo de la p�gina, que es crucial para el SEO. El t�tulo aparece en la barra de t�tulo del navegador y es uno de los factores m�s importantes para el posicionamiento en motores de b�squeda.
+La etiqueta title se utiliza para definir el título de la página, que es crucial para el SEO. El título aparece en la barra de título del navegador y es uno de los factores más importantes para el posicionamiento en motores de búsqueda.
 
-En resumen, estas etiquetas y meta tags se utilizan para mejorar la optimizaci�n de motores de b�squeda y la experiencia del usuario en el sitio web TecHelp al definir la codificaci�n, la compatibilidad del navegador, el dise�o receptivo, el t�tulo de la p�gina, las palabras clave y la descripci�n del contenido.  
+En resumen, estas etiquetas y meta tags se utilizan para mejorar la optimización de motores de búsqueda y la experiencia del usuario en el sitio web TecHelp al definir la codificación, la compatibilidad del navegador, el diseño receptivo, el título de la página, las palabras clave y la descripción del contenido.  
 
 ### 4.3.1. Landing Page Wireframe
 En esta sección se mostrará el desarrollo final de los Wireframes del Landing Page. [Link del Wireframe](https://www.figma.com/file/qSyCbAqHOXsX1mVh4EX8yy/Open-Source?type=design&node-id=508%3A838&mode=design&t=c0yzJ4yiEgVpak2m-1)
