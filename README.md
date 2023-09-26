@@ -101,7 +101,7 @@
 ### [4.7. Software Object-Oriented Design](/Docs/Chapter-IV.md/#47-software-object-oriented-design)
 * #### [4.7.1 Class Diagrams](/Docs/Chapter-IV.md/#471-class-diagrams)
 * #### [4.7.2. Class Dictionary](/Docs/Chapter-IV.md/#472-class-dictionary)
-* ### [4.8. Database Design](/Docs/Chapter-IV.md/#48-database-design)
+### [4.8. Database Design](/Docs/Chapter-IV.md/#48-database-design)
 * #### [4.8.1. Databse Diagram](/Docs/Chapter-IV.md/#481-database-diagram)
 ## Capitulo V: Product Implementation, Validation & Deployment
 ### [5.1. Software Configuration Management](/Docs/Chapter-V.md/#51-software-configuration-management)
