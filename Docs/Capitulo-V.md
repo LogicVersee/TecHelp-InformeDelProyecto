@@ -1417,39 +1417,27 @@ Después de completar el Sprint 2, logramos implementar y desplegar la sección 
 **Evidencia:**
 * **NOMBRE DE LA SECCIÓN:** 
   
+![home.png](../assets/img/chapter-v/HomeAngular.png)
 
-![busqueda-servicio.png](../assets/img/chapter-v/busqueda-servicio.png)
-**Imagen 1:** Encabezado y botones de desplazamiento.
+**Imagen 1:** Home
 
-Se presenta la sección "Hero", que incluye una breve descripción y una frase representativa de TecHelp. Además, permite iniciar el uso del servicio web y proporciona una imagen relacionada con el mismo.
+Se presenta la sección "Home", que incluye el navbar con el cual el usuario puede navegar por la pagina.
 
-![hero.png](../assets/img/chapter-v/hero.png)
-**Imagen 2:** Sección Hero.
+![tecnicos.png](../assets/img/chapter-v/VISUALIZARTECNICOS.png)
+**Imagen 2:** Busqueda de Tecnico.
 
-Se presenta la sección de beneficios del servicio para cada segmento objetivo identificado por el equipo.
+Se presenta la sección donde se visualizaran todos los tecnicos de la pagina web.
 
-![servis.png](../assets/img/chapter-v/servis.png)
-**Imagen 3:** Sección benefits ó service.
+![perfiles.png](../assets/img/chapter-v/JOSEPEREZANGULAR.png)
+**Imagen 3:** Visualizar perfil.
 
-Se presenta la sección membership de la landing page, en esta sección nuestros posibles usuarios podrán ver los tipos de membresias y sus costos.
+Se presenta la sección donde el usuario puede visualizar el perfil del tecnico con una reseña y su ubicación.
 
-![membership.png](../assets/img/chapter-v/membership.png)
-**Imagen 4:** Sección membership.
+![request.png](../assets/img/chapter-v/REQUESTSERVICEANGULAR.png)
+**Imagen 4:** Solicitar servicio.
 
-A continuación se presenta la sección de contacto, aquí nuestros posibles usuarios pueden realizarnos preguntas personalizadas acerca de la aplicación que se está presentando.
+Se presanta la opcion  la cual el cliente puede solicitar el servicio a un tecnico y rellenar la información pedida de la peticion.
 
-![contac-us.png](../assets/img/chapter-v/contac-us.png)
-**Imagen 5:** Sección contact-us.
-
-
-Seguidamente, se presenta la sección sobre nosotros (about-us). En este apartado se muestra información a menra de resumen sobre las personas que están desarrollando la salución de software.
-![about-us.png](../assets/img/chapter-v/about-us.png)
-**Imagen 5:** Sección abot-us.
-
-Por último, se exhibe la sección del pie de página, donde encontrará nuestros enlaces a redes sociales y botones que le facilitarán regresar a las secciones que desee el usuario.
-
-![footer.png](../assets/img/chapter-v/footer.png)
-**Imagen 5:** Sección footer.
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
