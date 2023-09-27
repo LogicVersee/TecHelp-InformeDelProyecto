@@ -1192,7 +1192,7 @@ A continuación, compartimos imágenes que demuestran cómo gestionamos las tare
   </tr>
 
   <tr>
-    <td rowspan="16" align="center"> https://github.com/LogicVersee/LandingPageTecHelp </td>
+    <td rowspan="27" align="center"> https://github.com/LogicVersee/LandingPageTecHelp </td>
     <td align="center"> main</td>
     <td align="center"> id commit</td>
     <td align="center"> chore: initial commit</td>
@@ -1209,108 +1209,205 @@ A continuación, compartimos imágenes que demuestran cómo gestionamos las tare
   </tr>
 
   <tr>
-    <td align="center"> feature/rama</td>
-    <td align="center"> id commit</td>
-    <td align="center"> chore(Directory): Added the assests folder and its components</td>
+    <td align="center"> feature/home</td>
+    <td align="center"> 64b097668eff10e74c80b19e9a5fdf0bb0859eb7</td>
+    <td align="center"> feat (home): added components of home</td>
     <td align="center"> ---</td>
-    <td align="center"> 18/09/2023</td>
+    <td align="center"> 24/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> feature/rama</td>
-    <td align="center"> id commit</td>
-    <td align="center"> feat(Header): Added section Header</td>
+    <td align="center"> feature/home</td>
+    <td align="center"> ce8a91b547cf00ec32f5bfa81ba77bc0eb502c1f</td>
+    <td align="center"> chore(database): added fake data for technicals</td>
     <td align="center"> ---</td>
-    <td align="center"> 18/09/2023</td>
+    <td align="center"> 24/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> feature/rama</td>
-    <td align="center"> id commit</td>
-    <td align="center"> feat(Style): Added Header´s styles</td>
+    <td align="center"> feature/requestservice</td>
+    <td align="center"> ce8a91b547cf00ec32f5bfa81ba77bc0eb502c1f</td>
+    <td align="center"> chore(database): added fake data for technicals</td>
     <td align="center"> ---</td>
-    <td align="center"> 18/09/2023</td>
+    <td align="center"> 24/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> feature/rama</td>
-    <td align="center"> id commit</td>
-    <td align="center"> feat(Header): Added english header</td>
+    <td align="center"> feature/requestservice</td>
+    <td align="center"> d390fec1b3f05a459d9ed9ff48ae5f1807a5b8f0</td>
+    <td align="center"> feat (request): added form</td>
     <td align="center"> ---</td>
-    <td align="center"> 19/09/2023</td>
+    <td align="center"> 26/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> feature/rama</td>
-    <td align="center"> id commit</td>
-    <td align="center"> Merge remote-tracking branch 'origin/feature/header' into developer</td>
+    <td align="center"> feature/requestservice</td>
+    <td align="center"> 87b24fa5aeb8c82c9583707a9f00b80f92acc440</td>
+    <td align="center"> feat (request): added form</td>
     <td align="center"> ---</td>
-    <td align="center"> 18/09/2023</td>
+    <td align="center"> 26/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> feature/rama</td>
-    <td align="center"> id commit</td>
-    <td align="center"> feat(hero): add hero section</td>
+    <td align="center"> feature/requestservice</td>
+    <td align="center"> fa6113dfc746047b636fbf78809fde29e3988208</td>
+    <td align="center"> ffeat (request): added formrequest</td>
     <td align="center"> ---</td>
-    <td align="center"> 18/09/2023</td>
+    <td align="center"> 26/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> feature/rama</td>
-    <td align="center"> id commit</td>
-    <td align="center"> feat(hero): add styles</td>
+    <td align="center"> feature/requestservice</td>
+    <td align="center"> e7d71246a32e5f0275751e06740ebed6b3cfc2a0</td>
+    <td align="center"> feat (form): added css of form</td>
     <td align="center"> ---</td>
-    <td align="center"> 19/09/2023</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+  <tr>
+    <td align="center"> feature/searchTechnicals</td>
+    <td align="center"> 7215b7cd555910dc6f93007801205749b3073a98</td>
+    <td align="center"> chore: added needed dependecies.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> feature/rama</td>
-    <td align="center"> id commit</td>
-    <td align="center"> feat(benefits): Added and fixed benefits and hero sections.</td>
+    <td align="center"> feature/searchTechnicals</td>
+    <td align="center"> ce8a91b547cf00ec32f5bfa81ba77bc0eb502c1f</td>
+    <td align="center"> chore(database): added fake data for technicals</td>
     <td align="center"> ---</td>
-    <td align="center"> 22/09/2023</td>
+    <td align="center"> 24/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> feature/rama</td>
-    <td align="center"> id commit</td>
-    <td align="center"> feat(membreship): Added section membreship.</td>
+    <td align="center"> feature/searchTechnicals</td>
+    <td align="center"> 1f6a70df2d07ae96d40b5b0335a61951350427c4</td>
+    <td align="center"> feat(searchTechnical): added dependencies for component</td>
     <td align="center"> ---</td>
-    <td align="center"> 22/09/2023</td>
+    <td align="center"> 24/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> feature/rama </td>
-    <td align="center"> id commit</td>
-    <td align="center"> feat(contact-us): added section contact-us.</td>
+    <td align="center"> feature/searchTechnicals</td>
+    <td align="center"> 6903d342a9abdcf1304dfe904199ceb151f82f2a</td>
+    <td align="center"> feat(searchTechnical): fixed dependencies modules on sidenav</td>
     <td align="center"> ---</td>
-    <td align="center"> 22/09/2023</td>
+    <td align="center"> 24/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> feature/rama</td>
-    <td align="center"> id commit</td>
-    <td align="center"> feat(about us): added about us section</td>
+    <td align="center"> feature/searchTechnicals</td>
+    <td align="center"> 6a074c4f620a5135f99947028e7a29e69201ec8b</td>
+    <td align="center"> feat(searchTechnical): view to search technicals added</td>
     <td align="center"> ---</td>
-    <td align="center"> 23/09/2023</td>
+    <td align="center"> 25/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> feature/rama</td>
-    <td align="center"> id commit</td>
-    <td align="center"> feat(footer): added footer section</td>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> ce8a91b547cf00ec32f5bfa81ba77bc0eb502c1f</td>
+    <td align="center"> chore(database): added fake data for technicals</td>
     <td align="center"> ---</td>
-    <td align="center"> 23/09/2023</td>
+    <td align="center"> 24/09/2023</td>
   </tr>
 
   <tr>
-    <td align="center"> feature/rama</td>
-    <td align="center"> id commit</td>
-    <td align="center"> feat: merge developer into release-1.0</td>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 1f6a70df2d07ae96d40b5b0335a61951350427c4</td>
+    <td align="center"> feat(searchTechnical): added dependencies for component</td>
     <td align="center"> ---</td>
-    <td align="center"> 23/09/2023</td>
+    <td align="center"> 24/09/2023</td>
   </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 6903d342a9abdcf1304dfe904199ceb151f82f2a</td>
+    <td align="center"> feat(searchTechnical): fixed dependencies modules on sidenav</td>
+    <td align="center"> ---</td>
+    <td align="center"> 24/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 6a074c4f620a5135f99947028e7a29e69201ec8b</td>
+    <td align="center"> feat(searchTechnical): view to search technicals added</td>
+    <td align="center"> ---</td>
+    <td align="center"> 25/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 1d40787636006704d9070552f097a50c9dd54ddf</td>
+    <td align="center"> feat(searchTechnical): implemented facade service for technicals list</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> b1e9b9eb62f3252608724f4c2fba7132dcf5c008</td>
+    <td align="center"> feat(searchTechnical): implemented material icon resources</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 50a02291eb792950c227eb8979fce6ad9450555f</td>
+    <td align="center"> feat(sidenav-toolbar): added sidenav-toolbar component</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 529093aa07e2dacb8f7bf6993269590c36116e11</td>
+    <td align="center"> feat(searchTechnical): merge searchTechnical branch into developer</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 6754abaf5993b6bec139f2717b1ca52992ea16e6</td>
+    <td align="center"> feat(techProfile): added tech profile component dependencies</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 90785382aff9e4335ea5c81ae3875c1503d4f954</td>
+    <td align="center"> feat(techProfile): added tech profile component functionalities.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+
+  <tr>
+    <td align="center"> developers </td>
+    <td align="center"> 21ca339152d3370a90d5e6aff112667e7578d707</td>
+    <td align="center"> Merge remote-tracking branch 'origin/feature/requestservice' into developers</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> developers </td>
+    <td align="center"> b7f79e23138866327ee1984e313e77f2db63c563</td>
+    <td align="center"> fMerge remote-tracking branch 'origin/developers' into developers</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> developers</td>
+    <td align="center"> 399f2827591b236879279c60ecdc59882052bb4e</td>
+    <td align="center"> Merge remote-tracking branch 'origin/feature/home' into developers</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
 </table>
 
 ##### 5.2.2.4. Execution Evidence for Sprint Review.
