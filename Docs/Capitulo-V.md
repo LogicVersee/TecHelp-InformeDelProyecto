@@ -637,9 +637,9 @@ En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implemen
 
 #### 5.2.1.1. Sprint Planning 1.
 
-Para el desarrollo de este sprint el equipo ah considerado en total -- puntos de hsitorias de usuario:
+Para el desarrollo de este sprint el equipo ha considerado en total 29 horas :
 
-![sprint1.png](../assets/img/chapter-v/sprint1.png)
+![sprint1.png](../assets/img/chapter-v/sprint1.jpg)
 #### 5.2.1.2. Sprint Backlog 1.
 
 A continuación, compartimos imágenes que demuestran cómo gestionamos las tareas en Pivotal Tracker. Posteriormente, presentamos la tabla de control de estado del Sprint.
@@ -996,7 +996,7 @@ Por último, se exhibe la sección del pie de página, donde encontrará nuestro
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-En el primer sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "Theraphy". En esta página de inicio, encontrarás varias secciones creadas por el equipo Digitalholic, cada una a cargo de un miembro del grupo.
+En el primer sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "Techelp". En esta página de inicio, encontrarás varias secciones creadas por el equipo LogicVerse, cada una a cargo de un miembro del grupo.
 
 <table> 
   <tr>
@@ -1046,7 +1046,14 @@ En el segundo sprint, comenzamos a desarrollar nuestra aplicación web avanzando
 
 **Repositorio:** [TecHelp-FronEnd](https://github.com/LogicVersee/TecHelp-FronEnd) - https://github.com/LogicVersee/TecHelp-FronEnd
 
-**FrontEnd Deployed:** 
+**FrontEnd Deployed:** [TecHelp-FronEnd-Deployment](https://techhelp-webapp-v1.web.app/) - https://techhelp-webapp-v1.web.app/
+
+#### 5.2.2.1. Sprint Planning 2.
+
+Para el desarrollo de este sprint el equipo ha considerado en total 29 horas:
+
+![sprint1.png](../assets/img/chapter-v/sprint2.jpg)
+
 
 #### 5.2.2.2. Sprint Backlog 2.
 
@@ -1441,40 +1448,43 @@ Se presanta la opcion  la cual el cliente puede solicitar el servicio a un tecni
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
-En el primer sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "Theraphy". En esta página de inicio, encontrarás varias secciones creadas por el equipo Digitalholic, cada una a cargo de un miembro del grupo.
+En el segundo sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "Techelp". En esta página de inicio, encontrarás varias secciones creadas por el equipo LogicVerse, cada una a cargo de un miembro del grupo.
 
 <table> 
   <tr>
     <td> <strong>End Point </strong></td>
     <td align="center"> <strong>Funciones</strong> </td>
   </tr>
-
   <tr>
-    <td> https://logicversee.github.io/LandingPageTecHelp/</td>
-    <td> Desplegar Landing Page de TecHelp</td>
+    <td> https://www.npmjs.com/package/json-server</td>
+    <td> Fake API  del Frontend de TecHelp</td>
+  </tr>
+  <tr>
+    <td> https://techhelp-webapp-v1.web.app/</td>
+    <td> Desplegar  Frontend de TecHelp</td>
   </tr>
 </table>
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
-Para la implementación de nuestra página, optamos por utilizar GitHub Pages. En este proceso, creamos un repositorio en GitHub donde gestionamos el control de versiones. En la sección de Configuración, publicamos el proyecto almacenado en la rama "main" que previamente se encontrba en la rama release-1.0.
+Para la implementación de nuestra página, optamos por utilizar Firebase. En este proceso, se creo un proyecto en Firebase y se vinculo atravez de Angular Firebase, para acceder a los datos se necesita el json de manera local.
 
-**Link de la Landing Page desplegada:** [TecHelp](https://logicversee.github.io/LandingPageTecHelp/) **-** https://logicversee.github.io/LandingPageTecHelp/
+**Link de la aplicacion web desplegada:** [TecHelp](https://techhelp-webapp-v1.web.app/) **-** https://techhelp-webapp-v1.web.app/
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint.
 
-En esta entrega, nuestra meta principal fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
+En esta entrega, nuestra meta principal fue la implementación de las funciones de request y visualizacion de tecnicos. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
 
-![commits-colaboration.png](../assets/img/chapter-v/commits-colaboration.png)
+![commits-colaborationsprint2.png](../assets/img/chapter-v/commits-colaborationsprint2.PNG)
 
 En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo. 
 
-![commits.png](../assets/img/chapter-v/commits.png)
+![commits.png](../assets/img/chapter-v/commitssprint.PNG)
 
-En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra Landing Page, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra segundo sprint, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
 
-![git-clones.png](../assets/img/chapter-v/git-clones.png)
+![git-clones.png](../assets/img/chapter-v/git-clonessprint2.PNG)
 
 Estos gráficos ofrecen una representación visual de las clonaciones registradas en nuestro repositorio, junto con la fecha en que cada una de estas acciones se llevó a cabo. Además, se presenta información sobre la cantidad de visitantes que ha tenido el repositorio de nuestro equipo a lo largo del tiempo.
 
-![network.png](../assets/img/chapter-v/network.png)
+![network.png](../assets/img/chapter-v/networksprint2.PNG)
