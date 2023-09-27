@@ -1098,7 +1098,7 @@ A continuación, compartimos imágenes que demuestran cómo gestionamos las tare
     <td align="center"> Rutas de acceso</td>
     <td align="center"> Se definen las rutas de acceso desde el componente Búsqueda de técnicos </td>
     <td align="center"> 1</td>
-    <td align="center"> Luis Lagos</td>
+    <td align="center"> Sebastian Ramirez</td>
     <td align="center">Done</td>
   </tr>
 
@@ -1107,7 +1107,7 @@ A continuación, compartimos imágenes que demuestran cómo gestionamos las tare
     <td align="center"> Rutas de salida.</td>
     <td align="center"> Se define las rutas de salida hacia el request de los datos del cliente y agendar una solicitud de reparación.</td>
     <td align="center"> 1</td>
-    <td align="center"> Luis Lagos</td>
+    <td align="center"> Brayan Morales</td>
     <td align="center">Done</td>
   </tr>
 
@@ -1118,7 +1118,7 @@ A continuación, compartimos imágenes que demuestran cómo gestionamos las tare
     <td align="center"> Definir componente para la búsqueda de técnicos</td>
     <td align="justify"> Se definirá el template del componente y los estilos que requiera para tener similitud con el mock up</td>
     <td align="center"> 4</td>
-    <td align="center"> Giovanni Ramos</td>
+    <td align="center"> Gonzalo Saldaña</td>
     <td align="center"> Done</td>
   </tr>
 
