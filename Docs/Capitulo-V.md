@@ -623,7 +623,7 @@ integrantes con respecto al desarrollo del Landing Page.
 Git Hub Pages: Servicio de Github que nos permitió alojar nuestra
 lading page.
 
-![github-pages.png](../assets/img/chapter-v//github-pages.png)
+![github-pages.png](../assets/img/chapter-v/github-pages.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
@@ -631,12 +631,15 @@ lading page.
 
 En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implementación del diseño de nuestra Landing Page utilizando WebStorm como entorno de desarrollo. Esto implica que al concluir el Sprint, todas las secciones, ya sea Home, Services, Pricing, Testimonials o About Us, deben estar completadas. A continuación, adjuntamos imágenes que ilustran cómo gestionamos las tareas en Pivotal Tracker.
 
-**Repositorio:** [LandingPageTecHelp](https://github.com/LogicVersee/LandingPageTecHelp) https://github.com/LogicVersee/LandingPageTecHelp
+**Repositorio:** [LandingPageTecHelp](https://github.com/LogicVersee/LandingPageTecHelp) - https://github.com/LogicVersee/LandingPageTecHelp
 
-**LandingPageDeployed:**
+**LandingPageDeployed:** [TecHelp](https://logicversee.github.io/LandingPageTecHelp/) - https://logicversee.github.io/LandingPageTecHelp/
 
 #### 5.2.1.1. Sprint Planning 1.
 
+Para el desarrollo de este sprint el equipo ah considerado en total -- puntos de hsitorias de usuario:
+
+![sprint1.png](../assets/img/chapter-v/sprint1.png)
 #### 5.2.1.2. Sprint Backlog 1.
 
 A continuación, compartimos imágenes que demuestran cómo gestionamos las tareas en Pivotal Tracker. Posteriormente, presentamos la tabla de control de estado del Sprint.
@@ -1014,6 +1017,366 @@ Para la implementación de nuestra página, optamos por utilizar GitHub Pages. E
 **Link de la Landing Page desplegada:** [TecHelp](https://logicversee.github.io/LandingPageTecHelp/) **-** https://logicversee.github.io/LandingPageTecHelp/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+En esta entrega, nuestra meta principal fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
+
+![commits-colaboration.png](../assets/img/chapter-v/commits-colaboration.png)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo. 
+
+![commits.png](../assets/img/chapter-v/commits.png)
+
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra Landing Page, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
+
+![git-clones.png](../assets/img/chapter-v/git-clones.png)
+
+Estos gráficos ofrecen una representación visual de las clonaciones registradas en nuestro repositorio, junto con la fecha en que cada una de estas acciones se llevó a cabo. Además, se presenta información sobre la cantidad de visitantes que ha tenido el repositorio de nuestro equipo a lo largo del tiempo.
+
+![network.png](../assets/img/chapter-v/network.png)
+
+
+
+
+
+
+
+### 5.2.2. Sprint 2
+
+En el segundo sprint, comenzamos a desarrollar nuestra aplicación web avanzando a través de las historias de usuario, siguiendo la secuencia definida en el backlog del producto. El total de puntos de historia de estas historias de usuario es de 21 puntos.
+
+**Repositorio:** [TecHelp-FronEnd](https://github.com/LogicVersee/TecHelp-FronEnd) - https://github.com/LogicVersee/TecHelp-FronEnd
+
+**FrontEnd Deployed:** 
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+A continuación, compartimos imágenes que demuestran cómo gestionamos las tareas y presentamos la tabla de control de estado del Sprint.
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US12	Visualiza  perfil </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Añadir lista de etiquetas</td>
+    <td align="justify"> Se añadirán las etiquetas de home, services, membreship, contac-us, about-us.</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Luis Lagos</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Vincular las secciones </td>
+    <td align="center"> se determina la esturctura e IDs de las secciones y se vincula las etiquetas a estas para luego comenzar a codificar estas</td>
+    <td align="center"> 1</td>
+    <td align="center"> Luis Lagos</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Añadir Logo y estilos del nav</td>
+    <td align="center"> Se añede el logo de la solución planteada y se implementa los estilos del toolbar </td>
+    <td align="center"> 3</td>
+    <td align="center"> Luis Lagos</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Añadir botones de modo oscuro e idioma.</td>
+    <td align="center"> Se añeden los botones de cambio de idioma y boton de modo oscuro para hacerlo mas agaradable al posible usuario</td>
+    <td align="center"> 2</td>
+    <td align="center"> Luis Lagos</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US10	Buqueda de tecnicos</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Añadir título y descripción</td>
+    <td align="justify"> Se añadirá el tiítulo correspodniente a la sección a realizar y redactar una oración inivitando a las personas a escribirnos</td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Saldaña</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Añadir formulario</td>
+    <td align="justify"> Se añadirá un formulario donde los usuarios objetivos deben ingresas sus nombres, medio de contacto y una descripción sobre la duda que tienen</td>
+    <td align="center"> 1</td>
+    <td align="center"> Gonzalo Saldaña</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Añadir botón de enviar, imagen y estilos</td>
+    <td align="justify"> Se añadirá una imagen llamativa sobre lo que ofrece nuestro software, se implementará un botón para enviar el contenido del formulario y se agregarán los estilos correspondientes. </td>
+    <td align="center"> 3 </td>
+    <td align="center"> Gonzalo Saldaña</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US02	Solicitar reparación de celular</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Se añadirá el titulo y descripción de la sección</td>
+    <td align="center"> Se añadirá una pregunta a modo de título (¿Por qué TecHelp?), descripciónes incitando a que usen nuestra solucón y lo que ofrece para cada tipo de posible usuario</td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastián Ramirez</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Organizar las beneficios en dos card</td>
+    <td align="center"> Se organizará el contenido de la seccion de beneficios mediante cards para cada segmento objetivo</td>
+    <td align="center"> 2</td>
+    <td align="center"> Sebastián Ramirez</td>
+    <td align="center"> Done</td>
+  </tr>
+ 
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Organizar las beneficios en dos card</td>
+    <td align="center"> Se organizará el contenido de la seccion de beneficios mediante cards para cada segmento objetivo</td>
+    <td align="center"> 2</td>
+    <td align="center"> Sebastián Ramirez</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Organizar las beneficios en dos card</td>
+    <td align="center"> Se organizará el contenido de la seccion de beneficios mediante cards para cada segmento objetivo</td>
+    <td align="center"> 2</td>
+    <td align="center"> Sebastián Ramirez</td>
+    <td align="center"> Done</td>
+  </tr>
+</table>
+
+##### 5.2.2.3. Development Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="16" align="center"> https://github.com/LogicVersee/LandingPageTecHelp </td>
+    <td align="center"> main</td>
+    <td align="center"> id commit</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> main</td>
+    <td align="center" > id commit</td>
+    <td align="center"> chore: added multimedia material, style documents and scripts</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/rama</td>
+    <td align="center"> id commit</td>
+    <td align="center"> chore(Directory): Added the assests folder and its components</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/rama</td>
+    <td align="center"> id commit</td>
+    <td align="center"> feat(Header): Added section Header</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/rama</td>
+    <td align="center"> id commit</td>
+    <td align="center"> feat(Style): Added Header´s styles</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/rama</td>
+    <td align="center"> id commit</td>
+    <td align="center"> feat(Header): Added english header</td>
+    <td align="center"> ---</td>
+    <td align="center"> 19/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/rama</td>
+    <td align="center"> id commit</td>
+    <td align="center"> Merge remote-tracking branch 'origin/feature/header' into developer</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/rama</td>
+    <td align="center"> id commit</td>
+    <td align="center"> feat(hero): add hero section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/rama</td>
+    <td align="center"> id commit</td>
+    <td align="center"> feat(hero): add styles</td>
+    <td align="center"> ---</td>
+    <td align="center"> 19/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/rama</td>
+    <td align="center"> id commit</td>
+    <td align="center"> feat(benefits): Added and fixed benefits and hero sections.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 22/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/rama</td>
+    <td align="center"> id commit</td>
+    <td align="center"> feat(membreship): Added section membreship.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 22/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/rama </td>
+    <td align="center"> id commit</td>
+    <td align="center"> feat(contact-us): added section contact-us.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 22/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/rama</td>
+    <td align="center"> id commit</td>
+    <td align="center"> feat(about us): added about us section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/rama</td>
+    <td align="center"> id commit</td>
+    <td align="center"> feat(footer): added footer section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/rama</td>
+    <td align="center"> id commit</td>
+    <td align="center"> feat: merge developer into release-1.0</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/09/2023</td>
+  </tr>
+</table>
+
+##### 5.2.2.4. Execution Evidence for Sprint Review.
+
+Después de completar el Sprint 2, logramos implementar y desplegar la sección de de búsqueda de servicios técnicos, visualizar el perfil de un centro técnico y solicitar el servicio de reparación de un teléfono móvil.
+
+**Evidencia:**
+* **NOMBRE DE LA SECCIÓN:** 
+  
+
+![busqueda-servicio.png](../assets/img/chapter-v/busqueda-servicio.png)
+**Imagen 1:** Encabezado y botones de desplazamiento.
+
+Se presenta la sección "Hero", que incluye una breve descripción y una frase representativa de TecHelp. Además, permite iniciar el uso del servicio web y proporciona una imagen relacionada con el mismo.
+
+![hero.png](../assets/img/chapter-v/hero.png)
+**Imagen 2:** Sección Hero.
+
+Se presenta la sección de beneficios del servicio para cada segmento objetivo identificado por el equipo.
+
+![servis.png](../assets/img/chapter-v/servis.png)
+**Imagen 3:** Sección benefits ó service.
+
+Se presenta la sección membership de la landing page, en esta sección nuestros posibles usuarios podrán ver los tipos de membresias y sus costos.
+
+![membership.png](../assets/img/chapter-v/membership.png)
+**Imagen 4:** Sección membership.
+
+A continuación se presenta la sección de contacto, aquí nuestros posibles usuarios pueden realizarnos preguntas personalizadas acerca de la aplicación que se está presentando.
+
+![contac-us.png](../assets/img/chapter-v/contac-us.png)
+**Imagen 5:** Sección contact-us.
+
+
+Seguidamente, se presenta la sección sobre nosotros (about-us). En este apartado se muestra información a menra de resumen sobre las personas que están desarrollando la salución de software.
+![about-us.png](../assets/img/chapter-v/about-us.png)
+**Imagen 5:** Sección abot-us.
+
+Por último, se exhibe la sección del pie de página, donde encontrará nuestros enlaces a redes sociales y botones que le facilitarán regresar a las secciones que desee el usuario.
+
+![footer.png](../assets/img/chapter-v/footer.png)
+**Imagen 5:** Sección footer.
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+En el primer sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "Theraphy". En esta página de inicio, encontrarás varias secciones creadas por el equipo Digitalholic, cada una a cargo de un miembro del grupo.
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://logicversee.github.io/LandingPageTecHelp/</td>
+    <td> Desplegar Landing Page de TecHelp</td>
+  </tr>
+</table>
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para la implementación de nuestra página, optamos por utilizar GitHub Pages. En este proceso, creamos un repositorio en GitHub donde gestionamos el control de versiones. En la sección de Configuración, publicamos el proyecto almacenado en la rama "main" que previamente se encontrba en la rama release-1.0.
+
+**Link de la Landing Page desplegada:** [TecHelp](https://logicversee.github.io/LandingPageTecHelp/) **-** https://logicversee.github.io/LandingPageTecHelp/
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 En esta entrega, nuestra meta principal fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
 
