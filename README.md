@@ -27,21 +27,42 @@
 ## Registro de Versiones Del Informe 
 
 
-| **Version** | **Fecha** | **Autor** |   **Descripcion de modificacion**   |
-|----------|----------|----------|----------|
-| 0.1   | 22/08/23 | Gonzalo | Se agrego el primer capitulo al trabajo  |
- 0.2   | 22/08/23 | Brayan | Se agrego el segundo capitulo al trabajo  | 
- | 0.3   | 22/08/23 | Sebastián | Se agregó las entrevistas al trabajo  |
- | 0.4   | 22/08/23 | Sebastián | Se agregó Needfinding al trabajo |
- | 0.5   | 22/08/23 | Sebastián | Se arreglaron los assets del documento  |
- | 0.6   | 22/08/23 | Sebastián | Se agregó User Task Matrix al trabajo  |
- | 0.7   | 22/08/23 | Sebastián | Se agregó User Journey Mapping al trabajo  |
- | 0.8   | 22/08/23 | Sebastián | Se agregó Empathy mapping al trabajo  |
- | 0.9   | 22/08/23 | Sebastián | Se agregó As-Is scenario mapping al trabajo  |
- | 1.0   | 22/08/23 | Sebastián | Se agregó Meta Tags al trabajo  |
+| **Version** | **Fecha** | **Autor**                                                                               | **Descripcion de modificacion**                                                                 |
+|-------------|-----------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| 0.1         | 22/08/23  | Gonzalo Saldaña                                                                         | Descripcion Profile Start Up                                                                    |
+| 0.2         | 22/08/23  | Brayan Morales<br>Luis Lagos<br>Gonzalo Saldaña<br>Giovanni Ramos<br> Sebastian Ramirez | Perfil de Integrantes                                                                           | 
+| 0.3         | 23/08/23  | Gonzalo Saldaña                                                                         | Antecedentes y Problematicas                                                                    |
+| 0.4         | 23/08/23  | Gonzalo Saldaña                                                                         | Lean UX<br>Segmento objetivo                                                                    |
+| 0.5         | 23/08/23  | Sebastián Ramirez                                                                       | Analisis Competitivo                                                                            |
+| 0.6         | 30/08/23  | Brayan Morales<br>Luis Lagos<br>Giovanni Ramos<br> Sebastian Ramirez                    | Registro y Analisis de entrevista                                                               |
+| 0.7         | 31/08/23  | Luis Lagos<br>Giovanni Ramos                                                            | User Person                                                                                     |
+| 0.8         | 31/08/23  | Luis Lagos<br>Giovanni Ramos                                                            | Needfinding                                                                                     |
+| 0.9         | 31/08/23  | Brayan Morales                                                                          | As is Scenary Mapping<br>To-be Scenary Mapping                                                  |
+| 0.91        | 31/08/23  | Brayan Morales<br>Luis Lagos<br>Gonzalo Saldaña<br>Giovanni Ramos<br> Sebastian Ramirez | User Story<br>Epics<br>Acceptance Criteria                                                      |
+| 1.0         | 31/08/23  | Luis Lagos                                                                              | Style Guidelines                                                                                |
+| 1.1         | 02/09/23  | Luis Lagos <br> Sebastián Ramirez                                                       | Information Architecture                                                                        |
+| 1.2         | 07/09/23  | Luis Lagos                                                                              | Lading Page UI Desing                                                                           |
+| 1.3         | 07/09/23  | Luis Lagos                                                                              | Web Applications UX/UI Desing                                                                   |
+| 1.4         | 08/09/23  | Brayan Morales                                                                          | Web Applications Prototyping<br>Software Object-Oriented Desing                                 |
+| 1.5         | 08/09/23  | Gonzalo Saldaña                                                                         | Software Configuration Management                                                               |
+| 2.0         | 15/09/23  | Brayan Morales<br>Luis Lagos<br>Gonzalo Saldaña<br>Giovanni Ramos<br> Sebastian Ramirez | Sprint 1                                                                                        |
+| 2.1         | 18/09/23  | Luis Lagos                                                                              | Correcion: Product Backlog y User Stories                                                       |
+| 2.2         | 19/09/23  | Sebastián Ramirez                                                                       | Correcion: Registro de entrevistas, analisis de entrevistas y analisis competitivo              |
+| 2.3         | 19/09/23  | Gonzalo Saldaña                                                                         | Correcion: Hypothesis Statement                                                                 |
+| 2.4         | 20/09/23  | Sebastián Ramirez<br> Giovanni Ramos                                                    | Correcion: User Tax Matrix, identificar los roles y modificar el cuadro.                        |
+| 2.5         | 21/09/23  | Giovanni Ramos                                                                          | Correcion: Verificar imágenes Journey Mapping , Empathy Map  Y Impact Mapping  C4               |
+| 2.6         | 22/09/23  | Gonzalo Saldaña                                                                         | Implementacion de organizacion de github                                                        |
+| 2.7         | 24/09/23  | Brayan Morales<br>Luis Lagos<br>Gonzalo Saldaña<br>Giovanni Ramos<br> Sebastian Ramirez | Correccion:Landing Page estático, falta Web Applications, el Web API desde ser un solo programa |
+| 3.0         | 26/09/23  | Brayan Morales<br>Luis Lagos<br>Gonzalo Saldaña<br>Giovanni Ramos<br> Sebastian Ramirez | Sprint 2                                                                                        |
+
 
 ## Project Report Collaboration Insights 
 
+
+![](assets/img/colaboracion/colaboration-commit.png)
+![](assets/img/colaboracion/git-clone-tp.png)
+![](assets/img/colaboracion/ramas-tp.png)
+![](assets/img/colaboracion/networkinforme.PNG)
 ------
 # Contenido 
 ## Capitulo I: Introducción
