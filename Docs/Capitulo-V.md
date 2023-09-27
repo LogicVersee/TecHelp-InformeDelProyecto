@@ -1077,36 +1077,36 @@ A continuación, compartimos imágenes que demuestran cómo gestionamos las tare
     <td rowspan="4" align="center"> ID </td>
     <td rowspan="4" align="center"> US12	Visualiza  perfil </td>
     <td align="center"> TA01 </td>
-    <td align="center"> Añadir lista de etiquetas</td>
-    <td align="justify"> Se añadirán las etiquetas de home, services, membreship, contac-us, about-us.</td>
-    <td align="center"> 1 </td>
+    <td align="center"> Realizar componente del perfil del técnico</td>
+    <td align="justify"> Se define la estructura o template del componente y los estilos para tener similitud con el prototipo.</td>
+    <td align="center"> 3 </td>
     <td align="center"> Luis Lagos</td>
     <td align="center">Done</td>
   </tr>
 
   <tr>
     <td align="center"> TA02 </td>
-    <td align="center"> Vincular las secciones </td>
-    <td align="center"> se determina la esturctura e IDs de las secciones y se vincula las etiquetas a estas para luego comenzar a codificar estas</td>
+    <td align="center"> Obtener técnico por id </td>
+    <td align="center"> Se desarrollará una funcionalidad para obtener el objeto que coincida con el id del técnico seleccionado por el usuario.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Giovanni Ramos</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Rutas de acceso</td>
+    <td align="center"> Se definen las rutas de acceso desde el componente Búsqueda de técnicos </td>
     <td align="center"> 1</td>
     <td align="center"> Luis Lagos</td>
     <td align="center">Done</td>
   </tr>
 
   <tr>
-    <td align="center"> TA03 </td>
-    <td align="center"> Añadir Logo y estilos del nav</td>
-    <td align="center"> Se añede el logo de la solución planteada y se implementa los estilos del toolbar </td>
-    <td align="center"> 3</td>
-    <td align="center"> Luis Lagos</td>
-    <td align="center">Done</td>
-  </tr>
-
-  <tr>
     <td align="center"> TA04 </td>
-    <td align="center"> Añadir botones de modo oscuro e idioma.</td>
-    <td align="center"> Se añeden los botones de cambio de idioma y boton de modo oscuro para hacerlo mas agaradable al posible usuario</td>
-    <td align="center"> 2</td>
+    <td align="center"> Rutas de salida.</td>
+    <td align="center"> Se define las rutas de salida hacia el request de los datos del cliente y agendar una solicitud de reparación.</td>
+    <td align="center"> 1</td>
     <td align="center"> Luis Lagos</td>
     <td align="center">Done</td>
   </tr>
@@ -1115,28 +1115,28 @@ A continuación, compartimos imágenes que demuestran cómo gestionamos las tare
     <td rowspan="3" align="center"> ID </td>
     <td rowspan="3" align="center"> US10	Buqueda de tecnicos</td>
     <td align="center"> TA01 </td>
-    <td align="center"> Añadir título y descripción</td>
-    <td align="justify"> Se añadirá el tiítulo correspodniente a la sección a realizar y redactar una oración inivitando a las personas a escribirnos</td>
-    <td align="center"> 2</td>
-    <td align="center"> Gonzalo Saldaña</td>
+    <td align="center"> Definir componente para la búsqueda de técnicos</td>
+    <td align="justify"> Se definirá el template del componente y los estilos que requiera para tener similitud con el mock up</td>
+    <td align="center"> 4</td>
+    <td align="center"> Giovanni Ramos</td>
     <td align="center"> Done</td>
   </tr>
 
   <tr>
     <td align="center"> TA02 </td>
-    <td align="center"> Añadir formulario</td>
-    <td align="justify"> Se añadirá un formulario donde los usuarios objetivos deben ingresas sus nombres, medio de contacto y una descripción sobre la duda que tienen</td>
-    <td align="center"> 1</td>
-    <td align="center"> Gonzalo Saldaña</td>
+    <td align="center"> Implementar servicio para datos de los técnicos</td>
+    <td align="justify"> Se desarrolla un servicio que implementa un Fake Api para mostrar la información de los técnicos, tal como nombre, calificación, y la foto del mismo.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Giovanni Ramos</td>
     <td align="center"> Done</td>
   </tr>
 
   <tr>
     <td align="center"> TA03 </td>
-    <td align="center"> Añadir botón de enviar, imagen y estilos</td>
-    <td align="justify"> Se añadirá una imagen llamativa sobre lo que ofrece nuestro software, se implementará un botón para enviar el contenido del formulario y se agregarán los estilos correspondientes. </td>
-    <td align="center"> 3 </td>
-    <td align="center"> Gonzalo Saldaña</td>
+    <td align="center"> Definir rutas para acceder al componente Búsqueda de técnicos</td>
+    <td align="justify"> Se define una ruta para el componente búsque de técnicos desde el componente principal Home. Así mismo se defina un link de ruta para el componente del perfil del técnico.</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Giovanni Ramos</td>
     <td align="center"> Done</td>
   </tr>
 
