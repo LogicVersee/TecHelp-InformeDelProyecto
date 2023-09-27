@@ -1144,37 +1144,37 @@ A continuación, compartimos imágenes que demuestran cómo gestionamos las tare
     <td rowspan="4" align="center"> ID </td>
     <td rowspan="4" align="center"> US02	Solicitar reparación de celular</td>
     <td align="center"> TA01 </td>
-    <td align="center"> Se añadirá el titulo y descripción de la sección</td>
-    <td align="center"> Se añadirá una pregunta a modo de título (¿Por qué TecHelp?), descripciónes incitando a que usen nuestra solucón y lo que ofrece para cada tipo de posible usuario</td>
+    <td align="center">Implementar Label </td>
+    <td align="center"> Se implementa en angular CLI el codigo en htlm para cada label definido con anterioridad.</td>
     <td align="center"> 1</td>
-    <td align="center"> Sebastián Ramirez</td>
+    <td align="center"> Luis Lagos</td>
     <td align="center"> Done</td>
   </tr>
 
   <tr>
     <td align="center"> TA02 </td>
-    <td align="center"> Organizar las beneficios en dos card</td>
-    <td align="center"> Se organizará el contenido de la seccion de beneficios mediante cards para cada segmento objetivo</td>
-    <td align="center"> 2</td>
+    <td align="center"> Validacion de Label</td>
+    <td align="center"> Se valida cada label en el apartado de components.ts</td>
+    <td align="center"> 1</td>
     <td align="center"> Sebastián Ramirez</td>
     <td align="center"> Done</td>
   </tr>
  
   <tr>
     <td align="center"> TA03 </td>
-    <td align="center"> Organizar las beneficios en dos card</td>
-    <td align="center"> Se organizará el contenido de la seccion de beneficios mediante cards para cada segmento objetivo</td>
-    <td align="center"> 2</td>
-    <td align="center"> Sebastián Ramirez</td>
+    <td align="center"> Implementacion de Css</td>
+    <td align="center"> En el apartado css del componente request se implementa el diseño de los labels</td>
+    <td align="center"> 1</td>
+    <td align="center"> Gonzalo Saldaña</td>
     <td align="center"> Done</td>
   </tr>
 
   <tr>
     <td align="center"> TA04 </td>
-    <td align="center"> Organizar las beneficios en dos card</td>
-    <td align="center"> Se organizará el contenido de la seccion de beneficios mediante cards para cada segmento objetivo</td>
+    <td align="center"> Implementacion de ruta a home</td>
+    <td align="center">En el apartado routing realizo las rutas necesarias para conectar las paginas  </td>
     <td align="center"> 2</td>
-    <td align="center"> Sebastián Ramirez</td>
+    <td align="center"> Bryan Morales</td>
     <td align="center"> Done</td>
   </tr>
 </table>
