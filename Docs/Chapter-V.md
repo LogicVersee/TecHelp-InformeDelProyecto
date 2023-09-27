@@ -623,7 +623,7 @@ integrantes con respecto al desarrollo del Landing Page.
 Git Hub Pages: Servicio de Github que nos permitió alojar nuestra
 lading page.
 
-![github-pages.png](../assets/img/chapter-v//github-pages.png)
+![github-pages.png](../assets/img/chapter-v/github-pages.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
@@ -631,12 +631,15 @@ lading page.
 
 En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implementación del diseño de nuestra Landing Page utilizando WebStorm como entorno de desarrollo. Esto implica que al concluir el Sprint, todas las secciones, ya sea Home, Services, Pricing, Testimonials o About Us, deben estar completadas. A continuación, adjuntamos imágenes que ilustran cómo gestionamos las tareas en Pivotal Tracker.
 
-**Repositorio:** [LandingPageTecHelp](https://github.com/LogicVersee/LandingPageTecHelp) https://github.com/LogicVersee/LandingPageTecHelp
+**Repositorio:** [LandingPageTecHelp](https://github.com/LogicVersee/LandingPageTecHelp) - https://github.com/LogicVersee/LandingPageTecHelp
 
-**LandingPageDeployed:**
+**LandingPageDeployed:** [TecHelp](https://logicversee.github.io/LandingPageTecHelp/) - https://logicversee.github.io/LandingPageTecHelp/
 
 #### 5.2.1.1. Sprint Planning 1.
 
+Para el desarrollo de este sprint el equipo ha considerado en total 29 horas :
+
+![sprint1.png](../assets/img/chapter-v/sprint1.jpg)
 #### 5.2.1.2. Sprint Backlog 1.
 
 A continuación, compartimos imágenes que demuestran cómo gestionamos las tareas en Pivotal Tracker. Posteriormente, presentamos la tabla de control de estado del Sprint.
@@ -993,7 +996,7 @@ Por último, se exhibe la sección del pie de página, donde encontrará nuestro
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-En el primer sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "Theraphy". En esta página de inicio, encontrarás varias secciones creadas por el equipo Digitalholic, cada una a cargo de un miembro del grupo.
+En el primer sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "Techelp". En esta página de inicio, encontrarás varias secciones creadas por el equipo LogicVerse, cada una a cargo de un miembro del grupo.
 
 <table> 
   <tr>
@@ -1030,3 +1033,458 @@ En esta imagen, se ofrece una representación visual de las fechas en las que se
 Estos gráficos ofrecen una representación visual de las clonaciones registradas en nuestro repositorio, junto con la fecha en que cada una de estas acciones se llevó a cabo. Además, se presenta información sobre la cantidad de visitantes que ha tenido el repositorio de nuestro equipo a lo largo del tiempo.
 
 ![network.png](../assets/img/chapter-v/network.png)
+
+
+
+
+
+
+
+### 5.2.2. Sprint 2
+
+En el segundo sprint, comenzamos a desarrollar nuestra aplicación web avanzando a través de las historias de usuario, siguiendo la secuencia definida en el backlog del producto. El total de puntos de historia de estas historias de usuario es de 21 puntos.
+
+**Repositorio:** [TecHelp-FronEnd](https://github.com/LogicVersee/TecHelp-FronEnd) - https://github.com/LogicVersee/TecHelp-FronEnd
+
+**FrontEnd Deployed:** [TecHelp-FronEnd-Deployment](https://techhelp-webapp-v1.web.app/) - https://techhelp-webapp-v1.web.app/
+
+#### 5.2.2.1. Sprint Planning 2.
+
+Para el desarrollo de este sprint el equipo ha considerado en total 29 horas:
+
+![sprint1.png](../assets/img/chapter-v/sprint2.jpg)
+
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+A continuación, compartimos imágenes que demuestran cómo gestionamos las tareas y presentamos la tabla de control de estado del Sprint.
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US12	Visualiza  perfil </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Realizar componente del perfil del técnico</td>
+    <td align="justify"> Se define la estructura o template del componente y los estilos para tener similitud con el prototipo.</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Luis Lagos</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Obtener técnico por id </td>
+    <td align="center"> Se desarrollará una funcionalidad para obtener el objeto que coincida con el id del técnico seleccionado por el usuario.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Giovanni Ramos</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Rutas de acceso</td>
+    <td align="center"> Se definen las rutas de acceso desde el componente Búsqueda de técnicos </td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastian Ramirez</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Rutas de salida.</td>
+    <td align="center"> Se define las rutas de salida hacia el request de los datos del cliente y agendar una solicitud de reparación.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Brayan Morales</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US10	Buqueda de tecnicos</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Definir componente para la búsqueda de técnicos</td>
+    <td align="justify"> Se definirá el template del componente y los estilos que requiera para tener similitud con el mock up</td>
+    <td align="center"> 4</td>
+    <td align="center"> Gonzalo Saldaña</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Implementar servicio para datos de los técnicos</td>
+    <td align="justify"> Se desarrolla un servicio que implementa un Fake Api para mostrar la información de los técnicos, tal como nombre, calificación, y la foto del mismo.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Giovanni Ramos</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Definir rutas para acceder al componente Búsqueda de técnicos</td>
+    <td align="justify"> Se define una ruta para el componente búsque de técnicos desde el componente principal Home. Así mismo se defina un link de ruta para el componente del perfil del técnico.</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Giovanni Ramos</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US02	Solicitar reparación de celular</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Implementar Label </td>
+    <td align="center"> Se implementa en angular CLI el codigo en htlm para cada label definido con anterioridad.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Luis Lagos</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Validacion de Label</td>
+    <td align="center"> Se valida cada label en el apartado de components.ts</td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastián Ramirez</td>
+    <td align="center"> Done</td>
+  </tr>
+ 
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Implementacion de Css</td>
+    <td align="center"> En el apartado css del componente request se implementa el diseño de los labels</td>
+    <td align="center"> 1</td>
+    <td align="center"> Gonzalo Saldaña</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Implementacion de ruta a home</td>
+    <td align="center">En el apartado routing realizo las rutas necesarias para conectar las paginas  </td>
+    <td align="center"> 2</td>
+    <td align="center"> Bryan Morales</td>
+    <td align="center"> Done</td>
+  </tr>
+</table>
+
+##### 5.2.2.3. Development Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/LogicVersee/LandingPageTecHelp </td>
+    <td align="center"> main</td>
+    <td align="center"> id commit</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> main</td>
+    <td align="center" > id commit</td>
+    <td align="center"> chore: added multimedia material, style documents and scripts</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/home</td>
+    <td align="center"> 64b097668eff10e74c80b19e9a5fdf0bb0859eb7</td>
+    <td align="center"> feat (home): added components of home</td>
+    <td align="center"> ---</td>
+    <td align="center"> 24/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/home</td>
+    <td align="center"> ce8a91b547cf00ec32f5bfa81ba77bc0eb502c1f</td>
+    <td align="center"> chore(database): added fake data for technicals</td>
+    <td align="center"> ---</td>
+    <td align="center"> 24/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/requestservice</td>
+    <td align="center"> ce8a91b547cf00ec32f5bfa81ba77bc0eb502c1f</td>
+    <td align="center"> chore(database): added fake data for technicals</td>
+    <td align="center"> ---</td>
+    <td align="center"> 24/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/requestservice</td>
+    <td align="center"> d390fec1b3f05a459d9ed9ff48ae5f1807a5b8f0</td>
+    <td align="center"> feat (request): added form</td>
+    <td align="center"> ---</td>
+    <td align="center"> 26/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/requestservice</td>
+    <td align="center"> 87b24fa5aeb8c82c9583707a9f00b80f92acc440</td>
+    <td align="center"> feat (request): added form</td>
+    <td align="center"> ---</td>
+    <td align="center"> 26/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/requestservice</td>
+    <td align="center"> fa6113dfc746047b636fbf78809fde29e3988208</td>
+    <td align="center"> ffeat (request): added formrequest</td>
+    <td align="center"> ---</td>
+    <td align="center"> 26/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/requestservice</td>
+    <td align="center"> e7d71246a32e5f0275751e06740ebed6b3cfc2a0</td>
+    <td align="center"> feat (form): added css of form</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+  <tr>
+    <td align="center"> feature/searchTechnicals</td>
+    <td align="center"> 7215b7cd555910dc6f93007801205749b3073a98</td>
+    <td align="center"> chore: added needed dependecies.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/searchTechnicals</td>
+    <td align="center"> ce8a91b547cf00ec32f5bfa81ba77bc0eb502c1f</td>
+    <td align="center"> chore(database): added fake data for technicals</td>
+    <td align="center"> ---</td>
+    <td align="center"> 24/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/searchTechnicals</td>
+    <td align="center"> 1f6a70df2d07ae96d40b5b0335a61951350427c4</td>
+    <td align="center"> feat(searchTechnical): added dependencies for component</td>
+    <td align="center"> ---</td>
+    <td align="center"> 24/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/searchTechnicals</td>
+    <td align="center"> 6903d342a9abdcf1304dfe904199ceb151f82f2a</td>
+    <td align="center"> feat(searchTechnical): fixed dependencies modules on sidenav</td>
+    <td align="center"> ---</td>
+    <td align="center"> 24/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/searchTechnicals</td>
+    <td align="center"> 6a074c4f620a5135f99947028e7a29e69201ec8b</td>
+    <td align="center"> feat(searchTechnical): view to search technicals added</td>
+    <td align="center"> ---</td>
+    <td align="center"> 25/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> ce8a91b547cf00ec32f5bfa81ba77bc0eb502c1f</td>
+    <td align="center"> chore(database): added fake data for technicals</td>
+    <td align="center"> ---</td>
+    <td align="center"> 24/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 1f6a70df2d07ae96d40b5b0335a61951350427c4</td>
+    <td align="center"> feat(searchTechnical): added dependencies for component</td>
+    <td align="center"> ---</td>
+    <td align="center"> 24/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 6903d342a9abdcf1304dfe904199ceb151f82f2a</td>
+    <td align="center"> feat(searchTechnical): fixed dependencies modules on sidenav</td>
+    <td align="center"> ---</td>
+    <td align="center"> 24/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 6a074c4f620a5135f99947028e7a29e69201ec8b</td>
+    <td align="center"> feat(searchTechnical): view to search technicals added</td>
+    <td align="center"> ---</td>
+    <td align="center"> 25/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 1d40787636006704d9070552f097a50c9dd54ddf</td>
+    <td align="center"> feat(searchTechnical): implemented facade service for technicals list</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> b1e9b9eb62f3252608724f4c2fba7132dcf5c008</td>
+    <td align="center"> feat(searchTechnical): implemented material icon resources</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 50a02291eb792950c227eb8979fce6ad9450555f</td>
+    <td align="center"> feat(sidenav-toolbar): added sidenav-toolbar component</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 529093aa07e2dacb8f7bf6993269590c36116e11</td>
+    <td align="center"> feat(searchTechnical): merge searchTechnical branch into developer</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 6754abaf5993b6bec139f2717b1ca52992ea16e6</td>
+    <td align="center"> feat(techProfile): added tech profile component dependencies</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/techProfile</td>
+    <td align="center"> 90785382aff9e4335ea5c81ae3875c1503d4f954</td>
+    <td align="center"> feat(techProfile): added tech profile component functionalities.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+
+  <tr>
+    <td align="center"> developers </td>
+    <td align="center"> 21ca339152d3370a90d5e6aff112667e7578d707</td>
+    <td align="center"> Merge remote-tracking branch 'origin/feature/requestservice' into developers</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> developers </td>
+    <td align="center"> b7f79e23138866327ee1984e313e77f2db63c563</td>
+    <td align="center"> fMerge remote-tracking branch 'origin/developers' into developers</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> developers</td>
+    <td align="center"> 399f2827591b236879279c60ecdc59882052bb4e</td>
+    <td align="center"> Merge remote-tracking branch 'origin/feature/home' into developers</td>
+    <td align="center"> ---</td>
+    <td align="center"> 27/09/2023</td>
+  </tr>
+
+</table>
+
+##### 5.2.2.4. Execution Evidence for Sprint Review.
+
+Después de completar el Sprint 2, logramos implementar y desplegar la sección de de búsqueda de servicios técnicos, visualizar el perfil de un centro técnico y solicitar el servicio de reparación de un teléfono móvil.
+
+**Evidencia:**
+* **NOMBRE DE LA SECCIÓN:** 
+  
+![home.png](../assets/img/chapter-v/HomeAngular.png)
+
+**Imagen 1:** Home
+
+Se presenta la sección "Home", que incluye el navbar con el cual el usuario puede navegar por la pagina.
+
+![tecnicos.png](../assets/img/chapter-v/VISUALIZARTECNICOS.png)
+**Imagen 2:** Busqueda de Tecnico.
+
+Se presenta la sección donde se visualizaran todos los tecnicos de la pagina web.
+
+![perfiles.png](../assets/img/chapter-v/JOSEPEREZANGULAR.png)
+**Imagen 3:** Visualizar perfil.
+
+Se presenta la sección donde el usuario puede visualizar el perfil del tecnico con una reseña y su ubicación.
+
+![request.png](../assets/img/chapter-v/REQUESTSERVICEANGULAR.png)
+**Imagen 4:** Solicitar servicio.
+
+Se presanta la opcion  la cual el cliente puede solicitar el servicio a un tecnico y rellenar la información pedida de la peticion.
+
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+En el segundo sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "Techelp". En esta página de inicio, encontrarás varias secciones creadas por el equipo LogicVerse, cada una a cargo de un miembro del grupo.
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+  <tr>
+    <td> https://www.npmjs.com/package/json-server</td>
+    <td> Fake API  del Frontend de TecHelp</td>
+  </tr>
+  <tr>
+    <td> https://techhelp-webapp-v1.web.app/</td>
+    <td> Desplegar  Frontend de TecHelp</td>
+  </tr>
+</table>
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para la implementación de nuestra página, optamos por utilizar Firebase. En este proceso, se creo un proyecto en Firebase y se vinculo atravez de Angular Firebase, para acceder a los datos se necesita el json de manera local.
+
+**Link de la aplicacion web desplegada:** [TecHelp](https://techhelp-webapp-v1.web.app/) **-** https://techhelp-webapp-v1.web.app/
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+En esta entrega, nuestra meta principal fue la implementación de las funciones de request y visualizacion de tecnicos. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
+
+![commits-colaborationsprint2.png](../assets/img/chapter-v/commits-colaborationsprint2.PNG)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo. 
+
+![commits.png](../assets/img/chapter-v/commitssprint.PNG)
+
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra segundo sprint, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
+
+![git-clones.png](../assets/img/chapter-v/git-clonessprint2.PNG)
+
+Estos gráficos ofrecen una representación visual de las clonaciones registradas en nuestro repositorio, junto con la fecha en que cada una de estas acciones se llevó a cabo. Además, se presenta información sobre la cantidad de visitantes que ha tenido el repositorio de nuestro equipo a lo largo del tiempo.
+
+![network.png](../assets/img/chapter-v/networksprint2.PNG)
