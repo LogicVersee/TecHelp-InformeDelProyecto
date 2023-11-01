@@ -1050,10 +1050,89 @@ En el segundo sprint, comenzamos a desarrollar nuestra aplicación web avanzando
 
 #### 5.2.2.1. Sprint Planning 2.
 
-Para el desarrollo de este sprint el equipo ha considerado en total 29 horas:
+<table>
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>Sprint 2</td>
+  </tr>
 
-![sprint1.png](../assets/img/chapter-v/sprint2.jpg)
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
 
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2023-09-12</td>
+  </tr>
+
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>11:15 AM</td>
+  </tr>
+
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Reunion realizada en el grupo de discord del equipo de trabajo</td>
+  </tr>
+  
+  <tr>
+    <td><strong>Prepared By</strong></td>
+    <td>Brayan Smith Morales Quispe <b>(Lider de grupo)</b></td>
+  </tr>
+
+  <tr>
+    <td><strong>Attendees (to planning meeting)</strong></td>
+    <td>
+      <ol type="A">
+        <li>Ramirez Mendez Sebastián André</li>
+        <li>Lagos Aguilar Luis Eduardo</li>
+        <li>Ramos Calderon Giovanni Andres</li>
+        <li>Saldaña Vela, Janover Gonzalo</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 1 Review Summary</strong></td>
+    <td>El anterior sprint desarrollado de xx al xx que tuvo como meta el  desarrollo del landing page.Se obtuvo como resultado el completo desarrollo de landig page y su despliege en su totalidad con las caracteristicas planteadas por el equipo de trabajo.La opinion de los miembros del equipo fue que tuvimos una mala coordinacion al momento de realizar la documentacion y falta de comunicacion. El feeback dado al sprint fue la mejora de los user stories,product backlog,mejoramiento en la coordinacion y completar las entrevistas faltantes.  </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 1 Retrospective Summary</strong></td>
+    <td>Las opiniones del equipo de trabajo son las siguientes:
+      <ol type="A">
+        <li>Se debe mejorar nuestra coordinacion como equipo de trabajo en el desarrollo de los sprints</li>
+        <li>Debemos se mas responsables cumpliendo las fechas establecidas para la entrega de cada parte desarrollado por un mienbro.</li>
+        <li>Debemos ser mas minuciosos al momento de revisar las fallas de nuestro trabajo</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 2 Goal</strong></td>
+    <td>El objetivo del sprint es el desarrollo de la front end superior al 40%</td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 2 Velocity</strong></td>
+    <td>El tiempo de desarrollo para este sprint es de 29 horas. Considerando los siguientes User Stories con sus Story Points escogidos para el desarrollo son:
+      <ol type="A">
+        <li>US10 Busqueda de Tecnicos SP: 8</li>
+        <li>US12 Visualizar Tecnico SP: 5</li>
+        <li>US02 Solicitud Reparacion Celular SP: 8</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sum of Story Points</strong></td>
+    <td>21</td>
+  </tr>
+</table>
 
 #### 5.2.2.2. Sprint Backlog 2.
 
