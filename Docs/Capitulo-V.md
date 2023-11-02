@@ -1491,9 +1491,15 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 
 ### 5.2.3. Sprint 3
 
+
+
 #### 5.2.3.1. Sprint Planning 3.
 
+
+
 #### 5.2.3.2. Sprint Backlog 3.
+
+
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
 
@@ -1511,7 +1517,47 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 
 ### 5.3.1. Diseño de Entrevistas.
 
+El propósito de las entrevistas es analizar el rendimiento del prototipo del Landing Page y la Web Application entre los usuarios y técnicos que utilizarán TecHelp. A partir de sus opiniones, evaluaremos posibles mejoras en nuestra aplicación y página de inicio, con el objetivo de adaptarlas a las necesidades de nuestros clientes.
+
+Los userflow que presentaremos a los usuarios son los siguientes:  
+
+__Landing Page - Usuario__  
+
+* Ingresa a la sección "Home".  
+* Ingresa a la sección "Service".  
+* Ingresa a la sección "Membership".  
+* Ingresa a la sección "Contact us".  
+* Ingresa a la sección "About us".  
+* Ingresa a la sección "Spanish".  
+* Ingresa a la sección "English".  
+* Ingresa a la sección "Dark Mode".  
+
+
+__Web Application - Usuario__  
+
+
+
+Los userflow que presentaremos a los técnicos son los siguientes:  
+
+__Landing Page - Técnico__  
+
+* Ingresa a la sección "Home".  
+* Ingresa a la sección "Service".  
+* Ingresa a la sección "Membership".  
+* Ingresa a la sección "Contact us".  
+* Ingresa a la sección "About us".  
+* Ingresa a la sección "Spanish".  
+* Ingresa a la sección "English".  
+* Ingresa a la sección "Dark Mode".  
+
+__Web Application - Técnico__  
+
+
+
+
 ### 5.3.2. Registro de Entrevistas.
+
+
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
