@@ -1822,6 +1822,37 @@ Link del Api desplegada: [https://techelp-api.zeabur.app/swagger-ui/index.html#/
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
+__Backend__
+En esta entrega, nuestra meta principal fue la implementación parcial del backend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, intellij y java. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
+
+![commits-colaboration.png](../assets/img/chapter-v/barras.png)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo. 
+
+![commits.png](../assets/img/chapter-v/contribuciones.png)
+
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra Landing Page, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
+
+
+![network.png](../assets/img/chapter-v/Networkgraph.png)
+En esta imagen se muestra las ramas realizadas para el desarrollo del backend de nuestra app web.Siendo una muestra del desarrollo de esta.
+
+__Frontend__
+
+En esta entrega, nuestra segunda meta fue la implementación total del fontend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub y Webstrom. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
+
+![commits-colaboration.png](../assets/img/chapter-v/barras_front.png)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo. 
+
+![commits.png](../assets/img/chapter-v/contribuidores_frontend.png)
+
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra Landing Page, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
+
+
+![network.png](../assets/img/chapter-v/network_frontend.png)
+En esta imagen se muestra las ramas realizadas para el desarrollo del frontend de nuestra app web.Siendo una muestra del desarrollo de esta.
+
 
 
 
