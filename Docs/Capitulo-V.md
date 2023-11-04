@@ -1495,10 +1495,258 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 
 #### 5.2.3.1. Sprint Planning 3.
 
+<table>
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>Sprint 3</td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2023-11-01</td>
+  </tr>
+
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>11:15 AM</td>
+  </tr>
+
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Reunion realizada en el grupo de discord del equipo de trabajo</td>
+  </tr>
+  
+  <tr>
+    <td><strong>Prepared By</strong></td>
+    <td>Brayan Smith Morales Quispe <b>(Lider de grupo)</b></td>
+  </tr>
+
+  <tr>
+    <td><strong>Attendees (to planning meeting)</strong></td>
+    <td>
+      <ol type="A">
+        <li>Ramirez Mendez Sebastián André</li>
+        <li>Lagos Aguilar Luis Eduardo</li>
+        <li>Ramos Calderon Giovanni Andres</li>
+        <li>Saldaña Vela, Janover Gonzalo</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 2 Review Summary</strong></td>
+    <td>El anterior sprint desarrollado de 12 al 19 de setiembre que tuvo como meta el  desarrollo del frontend al 40%.Se obtuvo como resultado el completo completo desarrollo y su despliege en su totalidad con las caracteristicas planteadas por el equipo de trabajo.La opinion de los miembros del equipo fue que tuvimos una mala coordinacion al momento de realizar la documentacion y falta de comunicacion. El feeback dado al sprint anterior fue la falta del spring planning 2,call_to_action con la appweb y mala evidencia de comunicacion oral entre los miembros del grupo  </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 2 Retrospective Summary</strong></td>
+    <td>Las opiniones del equipo de trabajo son las siguientes:
+      <ol type="A">
+        <li>Se debe mejorar nuestra coordinacion como equipo de trabajo en el desarrollo de los sprints</li>
+        <li>Debemos se mas responsables cumpliendo las fechas establecidas para la entrega de cada parte desarrollado por un mienbro.</li>
+        <li>Debemos ser mas minuciosos al momento de revisar las fallas de nuestro trabajo</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 3 Goal</strong></td>
+    <td>El objetivo del sprint es el desarrollo de la backend superior al 40%</td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 3 Velocity</strong></td>
+    <td>El tiempo de desarrollo para este sprint es de 29 horas. Considerando los siguientes User Stories con sus Story Points escogidos para el desarrollo son:
+      <ol type="A">
+        <li>US10 Busqueda de Tecnicos SP: 8</li>
+        <li>US12 Visualizar Tecnico SP: 5</li>
+        <li>US11 Progreso del dispositivo SP: 8</li>
+        <li>US05 Administrar Tareas SP: 8</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sum of Story Points</strong></td>
+    <td>29</td>
+  </tr>
+</table>
 
 
 #### 5.2.3.2. Sprint Backlog 3.
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
 
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US10 Busqueda de Tecnicos </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Desarrollar las entidades,agregados y objetos de valor que usara el servicio en nuestra backend</td>
+    <td align="justify">Se define los atributos de las entidades,agregados y objetos de valor</td>
+    <td align="center"> 2 </td>
+    <td align="center"> Luis Lagos</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Desarrollo del controlador </td>
+    <td align="center"> Se desarrollará el controlador para adminitrar los pedidos GET a nuestra API con ciertas caracteristicas de la entidad tecnico</td>
+    <td align="center"> 2</td>
+    <td align="center"> Giovanni Ramos</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Implementacion de Queries</td>
+    <td align="center"> Se desarrolla los queries para la implementacion con el servicio </td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastian Ramirez</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Revision de la aquitectura </td>
+    <td align="center"> Se revisa la arquitectura de las carpetas siguiendo Domain Driven Design</td>
+    <td align="center"> 1</td>
+    <td align="center"> Brayan Morales</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US12 Visualizar Tecnico</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Implementacion de Queries</td>
+    <td align="center"> Se desarrolla los queries para la implementacion con el servicio </td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastian Ramirez</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Desarrollo del controlador </td>
+    <td align="center"> Se desarrollará el controlador para adminitrar los pedidos GET a nuestra API </td>
+    <td align="center"> 2</td>
+    <td align="center"> Giovanni Ramos</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Revision de la aquitectura </td>
+    <td align="center"> Se revisa la arquitectura de las carpetas siguiendo Domain Driven Design</td>
+    <td align="center"> 1</td>
+    <td align="center"> Giovanni Ramos</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US11 Progreso del dispositivo</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Implementacion de Queries y commands</td>
+    <td align="center"> Se desarrolla los queries y commands para la implementacion con el servicio </td>
+    <td align="center"> 1</td>
+    <td align="center"> Luis Lagos</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Desarrollo del controlador </td>
+    <td align="center"> Se desarrollará el controlador para adminitrar los pedidos PUT y POST a nuestra API </td>
+    <td align="center"> 2</td>
+    <td align="center"> Sebastián Ramirez</td>
+    <td align="center"> Done</td>
+  </tr>
+ 
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Implementacion de los queries y commands con el servicio del boundex context</td>
+    <td align="center"> Se implementara los commands y queries al servicio para su uso</td>
+    <td align="center"> 1</td>
+    <td align="center"> Gonzalo Saldaña</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Revision de la aquitectura </td>
+    <td align="center"> Se revisa la arquitectura de las carpetas siguiendo Domain Driven Design</td>
+    <td align="center"> 1</td>
+    <td align="center"> Bryan Morales</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US05 Administrar Tareas</td>
+      <td align="center"> TA01 </td>
+    <td align="center"> Implementacion de Queries y commands</td>
+    <td align="center"> Se desarrolla los queries y commands para la implementacion con el servicio </td>
+    <td align="center"> 1</td>
+    <td align="center"> Luis Lagos</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Desarrollo del controlador </td>
+    <td align="center"> Se desarrollará el controlador para adminitrar los pedidos PUT y POST a nuestra API </td>
+    <td align="center"> 2</td>
+    <td align="center"> Sebastián Ramirez</td>
+    <td align="center"> Done</td>
+  </tr>
+ 
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Implementacion de los queries y commands con el servicio del boundex context</td>
+    <td align="center"> Se implementara los commands y queries al servicio para su uso</td>
+    <td align="center"> 1</td>
+    <td align="center"> Gonzalo Saldaña</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Revision de la aquitectura </td>
+    <td align="center"> Se revisa la arquitectura de las carpetas siguiendo Domain Driven Design</td>
+    <td align="center"> 1</td>
+    <td align="center"> Bryan Morales</td>
+    <td align="center"> Done</td>
+  </tr>
+
+</table>
 
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
@@ -2202,6 +2450,58 @@ Por esta razon aún se está usando una Fake-Api.A continuacion se mostraran los
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint. 
+Llevamos a cabo la implementación en un dos plataformas de confianza. Empleamos Railway para la implementación de la base de datos MySQL. Utilizamso la plataforma Zeabur para configurar el Service API aprovechando su facilidad en el uso. 
+
+La plataforma Railway nos ofrece una serie de alternativas para integrar nuestro proyecto a su base de datos MySQL.  
+![RailwayMySQL](https://i.ibb.co/2vgwnzC/Screenshot-1.jpg)  
+
+Ingresamos con nuestra cuenta de GitHub y nos ofrece la opción de crear nuestro contenedor por MySQL.  
+![MySQL](https://i.ibb.co/K7J0DKb/Screenshot-2.jpg)  
+
+
+Creamos nuestra base de datos en el apartado que visualizamos en la derecha que dice "New".  
+![MySQL](https://i.ibb.co/pvKnfgp/Screenshot-3.jpg)  
+
+
+Seleccionamos la opción de "Add MySQL" para agregar un contenedor para nuestra solución.    
+![MySQL](https://i.ibb.co/g6qK5c4/Screenshot-4.jpg)     
+
+Una vez seleccionada la opción, automaticamente nos mostrará el contenedor creado con nuestra base de datos en MySQL.   
+![MySQL](https://i.ibb.co/6vHwBH5/Screenshot-5.jpg)      
+  
+Dentro de las opciones, en la pestaña "Variables" tendremos toda la información para realizar la cadena de conexión entre la API y la base de datos.  
+![MySQL](https://i.ibb.co/xFD8N5F/Screenshot-6.jpg)    
+
+Para realizar el despliegue de nuestra API, integramos el uso de Zeabur, ya que es una solución que nos brinda HTTPS y es muchísimo más fácil deplegarla por esta plataforma que otras. 
+![DeployAPI](https://i.ibb.co/r7wc4cV/Screenshot-7.jpg)   
+
+Nuevamente ingresamos a la plataforma por nuestra cuenta de GitHub, en esta plataforma sí es importante, ya que lograremos usar el repositorio por esta forma y será más fácil para su implementación. Le damos a la opción de "Create Project".    
+![DeployAPI](https://i.ibb.co/pj97yTK/Screenshot-8.jpg)     
+
+
+Elegimos el servidor que más cerca se encuentra de nosotros, en este caso "California, United States".  
+![DeployAPI](https://i.ibb.co/XWPgjfP/Screenshot-9.jpg)  
+
+
+En la opción de implementar servicios, escogemos la forma de subir el proyecto por medio de nuestro Git.  
+![DeployAPI](https://i.ibb.co/z8DNfjX/Screenshot-10.jpg)    
+  
+Seleccionamos el repositorio donde estamos realizando toda la solución de nuestra API.   
+![DeployAPI](https://i.ibb.co/SdjRSQH/Screenshot-11.jpg)  
+
+Una vez seleccionado el repositorio, automaticamente comenzará a desplegarse y nos mostrará el detalle de la implementación.  
+![DeployAPI](https://i.ibb.co/mtLQNdR/Screenshot-12.jpg)    
+
+
+Generamos el dominio para nuestra solución adecuado al nombre de nuestro proyecto, en nuestro caso, Techelp-api, que luego emplearemos el Swagger UI para mostrarlo.      
+![DeployAPI](https://i.ibb.co/S3yF1MD/Screenshot-13.jpg)       
+
+
+Una vez asignado el dominio, podremos visualizar nuestra API y la asignación que le hemos brindado a los Endpoints de la solución.    
+![DeployAPI](https://i.ibb.co/nmGbGZT/Screenshot-14.jpg)  
+
+Link del Api desplegada: [https://techelp-api.zeabur.app/swagger-ui/index.html#/](https://techelp-api.zeabur.app/swagger-ui/index.html#/)
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
@@ -2230,7 +2530,9 @@ __Landing Page - Usuario__
 
 __Web Application - Usuario__  
 
-
+* Ingresa a la sección "Home".
+* Ingresa a la sección "Technical".
+* Ingresa a la sección "Progress".
 
 Los userflow que presentaremos a los técnicos son los siguientes:  
 
@@ -2248,7 +2550,11 @@ __Landing Page - Técnico__
 
 __Web Application - Técnico__  
 
-
+* Ingresa a la sección "Home".
+* Ingresa a la sección "Profile".
+* Ingresa a la sección "Task".
+* Ingresa a la sección "Dashboard".
+* Ingresa a la sección "Petition".
 
 
 ### 5.3.2. Registro de Entrevistas.
@@ -2257,95 +2563,92 @@ __Web Application - Técnico__
 Entrevista Usuario 1
 </center>
 
-* Nombre:
-* Edad:
-* Distrito:
+[![Ver entrevista](https://i.ibb.co/qdkNSZK/Screenshot-15.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/ERYKiNZU5cBGuz00fmGFYFYB9m8lpKKb2KAxUmPgYScrFg?e=R89AoR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-Enlace del video:  
-Duración:  
-Descripción:  
+* Nombre: Sandro Alarcon Rondón  
+* Edad: 20  
+* Distrito: San Juan de Lurigancho  
+* Ocupación: Estudiante
 
---------------------------------------  
+
+Duración: [00:00:00 - 00:05:35]  
+Descripción:  Sandro es un estudiante de 20 años que reside en el distrito de San Juan de Lurigancho. Él es uno de los entrevistados que aceptó a participar en esta validación, ya que también le interesa saber sobre un proyecto que solucione muchos de sus problemas en la vida cotidiana, tal como lo es la reparación de su celular. En la entrevista Sandro nos menciona que las funcionalidades implementadas dentro del proyecto, son muy completas ya que satisfacen las necesidades que pueda necesitar al momento de requerir un técnico especializado. También nos menciona, que el diseño de las vistas puede mejorar, ya que no resulta tan atractivo a la vista del usuario, y más aún si la aplicación depende de la interacción del usuario que del mismo técnico.  
+
 <br>
+--------------------------------------  
 
 <center>
-Entrevista Usuario 2
+Entrevista Técnico 1  
 </center>  
 
-* Nombre:
-* Edad:
-* Distrito:
+* Nombre: Gino Aro  
+* Edad: 22  
+* Distrito: La Victoria  
+* Ocupación: Técnico en reparación de celulares.  
 
-Enlace del video:  
-Duración:  
-Descripción:  
 
---------------------------------------  
-<br>
+[![Ver entrevista](https://i.ibb.co/QpQhs85/Screenshot-16.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/ERYKiNZU5cBGuz00fmGFYFYB9m8lpKKb2KAxUmPgYScrFg?e=gcczGy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-<center>
-Entrevista Usuario 3
-</center>  
-
-* Nombre:
-* Edad:
-* Distrito:
-
-Enlace del video:  
-Duración:  
-Descripción:  
+Duración:  [00:05:35 - 00:10:26]  
+Descripción:  Gino es un técnico de 22 que reside en el distrito de La Victoria, es un especialista en reparación de celulares y él le interesa la plataforma ya que es parte de su trabajo del día a día. A él le motiva que existan este tipo de plataformas para promover la forma de promocionar su trabajo. Nos comenta que las funcionalidades le parece muy buenas para la vista del usuario, ya que todas cumplen en base a lo que sus clientes piden. Nos comenta también que le gustaría que mejoren la experiencia del usuario con el diseño de la aplicación. 
 
 --------------------------------------  
-<br>
 
-<center>
-Entrevista Técnico 1
-</center>  
 
-* Nombre:
-* Edad:
-* Distrito:
-
-Enlace del video:  
-Duración:  
-Descripción:  
-
---------------------------------------  
-<br>
-
-<center>
-Entrevista Técnico 2
-</center>     
-
-* Nombre:
-* Edad:
-* Distrito:
-
-Enlace del video:  
-Duración:  
-Descripción:  
-
---------------------------------------  
-<br>
-
-<center>
-Entrevista Técnico 3
-</center>   
-
-* Nombre:
-* Edad:
-* Distrito:
-
-Enlace del video:  
-Duración:  
-Descripción:  
 
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
+<Table>
+  <tr>
+    <td><b>#</b></td>
+    <td><b>Problema</b></td>
+    <td><b>Escala de Severidad</b></td>
+    <td><b>Heurística/Principio violada(o)</b></td>
+  </tr>
 
+  <tr>
+    <td>1</td>
+    <td>Se repite constantemente algunas opciones</td>
+    <td>2</td>
+    <td>Usability: Consistencia y estandares</td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td>No hay mensajes que confirmen al eliminar un Componente</td>
+    <td>3</td>
+    <td>Usability:Libertad y Control</td>
+  </tr>
+    
+  <tr>
+    <td>3</td>
+    <td>El Dashboard no muestra informacion concreata</td>
+    <td>2</td>
+    <td>Information Architecture: Is it usable?</td>
+  </tr>
+
+  <tr>
+    <td>4</td>
+    <td>Se repite constantemente algunas paginas</td>
+    <td>1</td>
+    <td>Usability:Consistencia y estandares</td>
+  </tr>
+
+   <tr>
+    <td>5</td>
+    <td>No hay peronalizacion mas propia del usuario respecto a los colores</td>
+    <td>1</td>
+    <td>Usability:Libertad y Control</td>
+  </tr>
+
+ 
+</Table>
 
 ## 5.4. Video About-the-Product.
+En el siguiente se presentara el video de nuestra aplicacion web se presentara a nuestros publicos objetivos 
+![video](/assets/img/chapter-v/video%20about%20product.png)
+link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsB64hw12GZ_dwjKxZoLHb1zw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=f2AcMS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsB64hw12GZ_dwjKxZoLHb1zw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=f2AcMS)
 
 # Avance de Conclusiones, Bibliografía y Anexos.
