@@ -1503,11 +1503,652 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
 
+Para este tercer sprint logramos desplegar y desarrollar las siguientes secciones de nuestra aplicación web:Login, Register, Home(Cliente,Tecnico),Progress, Technical, ViewProgress,Memberchip,Task,CreateTask,UpdateTask,ViewTask,TechnicalProfile,EditTechnicalProfile.
+* Evidencias del FrontEnd:
+<br>
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
 
+  <tr>
+    <td rowspan="41" align="center"> https://github.com/LogicVersee/TecHelp-FronEnd </td>
+    <td align="center"> main</td>
+    <td align="center"> 7215b7cd555910dc6f93007801205749b3073a98</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/09/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/dashboard</td>
+    <td align="center" > 5cbd9f91ceaf7fdfb847fef9216c87672a48846d</td>
+    <td align="center"> feat(dashboard): added dashboard dependencies</td>
+    <td align="center"> ---</td>
+    <td align="center"> 14/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/dashboard</td>
+    <td align="center"> b514667f3df22507cd762f93b08e92085b502044</td>
+    <td align="center"> feat(analytics): analytics chart implemented</td>
+    <td align="center"> ---</td>
+    <td align="center"> 14/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/dashboard</td>
+    <td align="center"> 6a62d1f28c1bd9f92dce2fbbb2d11a120000a6cf</td>
+    <td align="center"> feat(inventory): inventory component implemented</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/dashboard </td>
+    <td align="center"> cb8b6bbe7efb3ad3eda1c10f180983962194ebdb</td>
+    <td align="center"> feat(dashboard): dashboard style updated</td>
+    <td align="center"> ---</td>
+    <td align="center"> 19/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/dashboard </td>
+    <td align="center"> 990ed4abec92ab6f81c1032f45d72c5bd22a7ae3</td>
+    <td align="center"> feat(analytics): analytics style updated </td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/membership </td>
+    <td align="center"> cb8979d9d217670f35caead88ecc4a4951d20cae</td>
+    <td align="center"> feat (request): added form</td>
+    <td align="center"> ---</td>
+    <td align="center"> 25/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/membership </td>
+    <td align="center"> 53ec9cc3ec9d13356f5dfe3a6acd675bc6aee410 </td>
+    <td align="center"> fet(Membership): Add Membership Component</td>
+    <td align="center"> ---</td>
+    <td align="center"> 25/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/membership </td>
+    <td align="center"> 6eeb77706c1deafb02f4e0f75b92a2d227a5934e </td>
+    <td align="center"> Change(membership): Update name of membership component </td>
+    <td align="center"> ---</td>
+    <td align="center"> 31/10/2023</td>
+  </tr>
+  <tr>
+    <td align="center"> feature/membership </td>
+    <td align="center"> 723a784974ff336d55a5f6ed802e52c755534521 </td>
+    <td align="center"> feat(membership): added service api implementation </td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/monitoring </td>
+    <td align="center"> 47c2b915a6383caeb0f85aad8b81f9109d37ee98 </td>
+    <td align="center"> feat(monitoring): added list task. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/monitoring </td>
+    <td align="center"> 01696b9f5e1c2735e9105dd89a220a2bc974a1c3</td>
+    <td align="center"> feat(monitoring): added model progress task. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/monitoring </td>
+    <td align="center"> eef8478c16ac43bba6b421cee7a87f3083077152</td>
+    <td align="center"> feat(monitoring): added service monitor task. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/monitoring </td>
+    <td align="center"> 19121cac2baa7effe9f8606479aee31bedf819e0</td>
+    <td align="center"> feat(monitoring): added page of view unique progress task. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/monitoring </td>
+    <td align="center"> da4b65da269ea5dc793fc9144a352fb029c269a9</td>
+    <td align="center"> chore(app): updated app module and routing. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/myProfile</td>
+    <td align="center"> 09272b4b5a5d338aabbc18923c37ddf2aecbd774</td>
+    <td align="center"> chore(myProfile): Added API services.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/myProfile</td>
+    <td align="center"> e073af6a39aff8f22715f9450578cce289289167</td>
+    <td align="center"> chore(myProfile): implemented edit component and interface</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/myProfile</td>
+    <td align="center"> 38d00a2d96db98eb9dac69237ffe513f572171b4</td>
+    <td align="center"> chore(myProfile): Add myProfile component</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/myProfile</td>
+    <td align="center"> 0a99942e1bf64679c12ca047bfbd93dc37fa1ef7</td>
+    <td align="center"> chore(myProfile): Add routing</td>
+    <td align="center"> ---</td>
+    <td align="center"> 20/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/myProfile</td>
+    <td align="center"> c70a504a4e207c48ad68543560db4f4fda60058d</td>
+    <td align="center"> chore(myProfile): Json server added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 25/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/myProfile</td>
+    <td align="center"> c9e35b082d000ff62b364271fefc5e5643fb4a0d</td>
+    <td align="center"> feat(tech-profile): button to edit profile routed </td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/security</td>
+    <td align="center"> cb66d4dbd08adff094922ba2fa3d49509d7f1c65</td>
+    <td align="center"> feat(security): Added and implemented customer, technician and user classes</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/security</td>
+    <td align="center"> c05fd2d8bc26db75e1b23c95d0c89ce7135fdd77</td>
+    <td align="center"> feat(security): added login and registration components.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/security</td>
+    <td align="center"> f76bb0a27bc61ab6205194015904d79a92527d41</td>
+    <td align="center"> feat(security): Added page not found component and base service.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+
+
+  <tr>
+    <td align="center"> feature/security </td>
+    <td align="center"> b26af8802d0f54d9ee8e35b66fb8daf13269251c</td>
+    <td align="center"> feat(security): The base service was implemented.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/security </td>
+    <td align="center"> 94a372f797de4fad43bd917ba99adaee11d58ded</td>
+    <td align="center"> feat(security): Implemented page not found.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/security</td>
+    <td align="center"> 123da2873c447be0d0f51376612794ff45012e64</td>
+    <td align="center"> feat(security): Implemented service technical and user.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+
+ <tr>
+    <td align="center"> feature/security</td>
+    <td align="center"> ed4e6c8c0085328bf0ab4b6835fe43e541d7f78a</td>
+    <td align="center"> feat(security): login view added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> feature/security</td>
+    <td align="center"> 91867032ae4c544bc20007ba61792a315bd11f05</td>
+    <td align="center"> feat(security): sign up view added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 4/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> fe38bf7082fdd47f33c3964ca29bd5caa8cd3d80</td>
+    <td align="center"> chore(service): added base class for service facade.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> ddadc6fbc00c96ff584dd4bca8deda6ec2867fce</td>
+    <td align="center"> feat(tasks): added service facade for students endpoint.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 59cd2c3c81b79341a1aac7644027ef1abb3c8813</td>
+    <td align="center"> feat(tasks): added student form with behavior.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> d1ad8fb2693bb245237de9a9c3b9f33de18b73e4</td>
+    <td align="center"> feat(tasks): implemented task form layout and visualization characteristics.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 0ff9773b67564336e5a23d75f7e6aa93528c259f</td>
+    <td align="center"> feat(tasks): implemented task catalogue behavior.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 3fc6c89eaa8541d4d3281058605509f84285d9e1</td>
+    <td align="center"> feat(tasks): implemented task.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 8c004d44ef3cb0f6db2d644d937f3928fed28665</td>
+    <td align="center"> fix(task): fixed some errors.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 22cede04eed8b9e43625d2f9393564e8ba106733</td>
+    <td align="center"> fix(task): fixed some errors.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> main/developers </td>
+    <td align="center"> c9e35b082d000ff62b364271fefc5e5643fb4a0d </td>
+    <td align="center"> feat(tech-profile): button to edit profile routed.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> main/developers</td>
+    <td align="center"> 5f3e20865cec16688f39f3ee4afbfc108e27c9d6</td>
+    <td align="center"> feat(develop): routed.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> main/developers</td>
+    <td align="center"> 723a784974ff336d55a5f6ed802e52c755534521 </td>
+    <td align="center"> feat(membership): added service api implementation. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> main/developers</td>
+    <td align="center"> ca2b5d9bdd22e1144d9a88f3893d69faff3ecdce</td>
+    <td align="center"> feat(router): :routed components. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 4/11/2023</td>
+  </tr>
+
+</table>
+
+* Evidencias del BackEnd:
+<br>
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="33" align="center"> https://github.com/LogicVersee/techelp-center-platform-backend </td>
+    <td align="center"> master</td>
+    <td align="center"> bc3df0401d1b07fc4d74d41eaa4e000e388a0c9e</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> master</td>
+    <td align="center" > 4b801f00a6a332cdbeefc124158228036b76be27</td>
+    <td align="center"> chore: added dependencies.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/technical</td>
+    <td align="center"> 56fca751ebf0aa88beb50a8ad3875d5ea876465c</td>
+    <td align="center"> feat(technical): technical, dashboard, component and incomes entities implemented</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/technical</td>
+    <td align="center"> 6db06a22c15ec56e7ede07d353eda1c153b3cad7</td>
+    <td align="center"> feat(technical): technical controller created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 29/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/technical </td>
+    <td align="center"> cb5e517aa6505a77f03221872d78e12b11ff73d0</td>
+    <td align="center"> feat(inventory): inventory controller created</td>
+    <td align="center"> ---</td>
+    <td align="center"> 29/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/technical </td>
+    <td align="center"> 9338e88d83169e4d7b9eb70befef63dd74e509a5</td>
+    <td align="center"> feat(dash-board): implemented dashboard context facade </td>
+    <td align="center"> ---</td>
+    <td align="center"> 29/10/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> e63bc3022f2253d762509f0ceb5e811abb46c049</td>
+    <td align="center"> feat(task): task command created</td>
+    <td align="center"> ---</td>
+    <td align="center"> 1/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> 3080bfc3d56b0c1262f30cd16b88719e72435ea1 </td>
+    <td align="center"> feat(task): client name's value object created</td>
+    <td align="center"> ---</td>
+    <td align="center"> 1/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> af28c9ab9cb54f0223160c0e83a0ca42df46eae2 </td>
+    <td align="center"> feat(task): client phone name's value object created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 1/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> 2469e86a7045e480af1d04ac0b0eca2e68f1f72f </td>
+    <td align="center"> feat(task): client problem's value object created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 1/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> 6cc2bd4ab00ce32798ee41c6578f71bb15dfebd0 </td>
+    <td align="center"> feat(task): client delivery day's value object created. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 1/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> 749fb2af8589fa694db41b6fac1680cd3f16de0d</td>
+    <td align="center"> fix(task): task command created fixed. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 1/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> c3bfc367367eb794b8193f1919d0ea8ebd4d3369</td>
+    <td align="center"> feat(task): task entity created. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 1/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> 73f2f9d39bcb5e3e602f618516c04fa0696156e2</td>
+    <td align="center"> feat(task): get task by technicalid created. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 1/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> 4ea62f50c5d8c40ac137c9f2a03e14aa28447a53</td>
+    <td align="center"> feat(task): task services created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 1/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> a210a72d51d4c7e39c8994c08a6fe467ac2e0344</td>
+    <td align="center"> feat(task): task repository created</td>
+    <td align="center"> ---</td>
+    <td align="center"> 1/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> d929347a7840b6db553b156ddf7992c1edc87122</td>
+    <td align="center"> feat(task): task context facade created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 1/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> a1f19abb6490ac11049e1aea8a7415b09c9acad2</td>
+    <td align="center"> feat(task): task service implementation created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 2/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 4a8dd81a699f53beb81fe2b1c9eb25e8a067e921</td>
+    <td align="center"> feat(task): task controller created</td>
+    <td align="center"> ---</td>
+    <td align="center"> 2/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 18298a9831ff3d3362fdd56875735e2d7c653ece</td>
+    <td align="center"> feat(task): task by id query created.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 2/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 81d67e09fa54490a72e06f9a2538fffbfe0789cb</td>
+    <td align="center"> fix(DeliveryDay): public string getdeliveryday fixed </td>
+    <td align="center"> ---</td>
+    <td align="center"> 2/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 430655d64b4c6866a2d9f23328253101a0c61cf6</td>
+    <td align="center"> feat(task): task resource added</td>
+    <td align="center"> ---</td>
+    <td align="center"> 2/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> a6d59a4b95dec69455a1e1632aeef4ebba989942</td>
+    <td align="center"> feat(task): create task resource added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 2/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 4550c3c4dfe0aa68fb1c09673fcd1b56cce73e31</td>
+    <td align="center"> feat(task): create task from resource assembler transform added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 2/11/2023</td>
+  </tr>
+
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> a036a754794f4062aba1837cef37f1685e231b21</td>
+    <td align="center"> feat(task): task from entity assembler transform added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 2/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> c21233ed8bf057a3512d1e0d82b359e9c30ff61c</td>
+    <td align="center"> feat(task): task command service implementation created.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 2/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> b2c45b715a653a7886320fa050109ed7409784f6</td>
+    <td align="center"> feat(task): task query service implementation created.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 2/11/2023</td>
+  </tr>
+
+ <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> d2b279205081e497cee79221d9458d37ebe0c60d</td>
+    <td align="center"> feat(task): task controller added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 2/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 1412700dabd3377c8bc7f2cc391abe18725eb229</td>
+    <td align="center"> feat(task): edited dependencies.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> ad269d55c2d5f8cada22e412767aebdcb349b26a</td>
+    <td align="center"> feat(task): added query to get tasks by technical id.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> test</td>
+    <td align="center"> ca2b5d9bdd22e1144d9a88f3893d69faff3ecdce</td>
+    <td align="center"> feat(test): technicals feature added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> test</td>
+    <td align="center"> 8734d23116b1e7d9502e82e82eb0eaa2cf3a75bb</td>
+    <td align="center"> feat(test): item feature added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center">test </td>
+    <td align="center"> 38ee3231dcbfed24f7d2797973ddb5aba612e16f</td>
+    <td align="center"> feat(test): tasks feature added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 3/11/2023</td>
+  </tr>
+
+
+</table>
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
+En esta sección representamos el conjunto de Acceptance Test relacionadas con las User Stories para el desarrollo del tercer sprint. Se uso el lenguaje Gherkin para los criteros de aceptación.
 
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" align="center"> https://github.com/LogicVersee/techelp-center-platform-backend/commits/test </td>
+    <td align="center"> test</td>
+    <td align="center"> ca2b5d9bdd22e1144d9a88f3893d69faff3ecdce</td>
+    <td align="center"> feat(test): technicals feature added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 4/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> test</td>
+    <td align="center" > 8734d23116b1e7d9502e82e82eb0eaa2cf3a75bb</td>
+    <td align="center"> feat(test): item feature added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 4/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> test</td>
+    <td align="center"> 38ee3231dcbfed24f7d2797973ddb5aba612e16f</td>
+    <td align="center"> feat(test): tasks feature added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 4/11/2023</td>
+  </tr>
+
+</table>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
@@ -1515,6 +2156,48 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+En el tercer sprint se pudo desarrollar el 40% del BackEnd; sin embargo, aún no se ha implementado, pero si se ha logrado desplegado.
+
+![network.png](../assets/img/chapter-v/BackEndTablas.png)
+![network.png](../assets/img/chapter-v/BackEnd.png)
+
+Por esta razon aún se está usando una Fake-Api.A continuacion se mostraran los endpoints desarrollados en este sprint.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>EndPoint</strong></td>
+    <td  align ="center" > <strong>HttpVerb</strong></td>
+    <td  align ="center" > <strong>Action</strong></td>
+
+  </tr>
+
+  <tr>
+    <td  align="center"> https://my-json-server.typicode.com/Mirroy25/TechHelpTaskDb/task </td>
+    <td align="center"> GET POST PUT DELETE</td>
+    <td align="center"> - Se obtiene todos los datos.
+    <br> -Se obtiene los datos por Id. 
+    <br> - Se crea una nueva tarea
+    <br> -Se actualiza una tarea mediante la id. </td>
+  </tr>
+
+
+  <tr>
+    <td align="center"> https://my-json-server.typicode.com/GioRC0/TechHelpDB/technicals</td>
+    <td align="center"> GET POST</td>
+    <td align="center"> -Se obtiene todos los datos<br>
+    -Registra los datos</td>
+
+  </tr>
+
+  <tr>
+    <td align="center"> https://my-json-server.typicode.com/GioRC0/TechHelpDB/inventories</td>
+    <td align="center"> GET POST </td>
+    <td align="center"> -Se obtiene todos los datos del inventario.<br>
+    -Se crea un inventario para un dashboard</td>
+
+  </tr>
+
+</table>
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
