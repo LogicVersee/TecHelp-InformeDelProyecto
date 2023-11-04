@@ -1847,7 +1847,9 @@ __Landing Page - Usuario__
 
 __Web Application - Usuario__  
 
-
+* Ingresa a la sección "Home".
+* Ingresa a la sección "Technical".
+* Ingresa a la sección "Progress".
 
 Los userflow que presentaremos a los técnicos son los siguientes:  
 
@@ -1865,7 +1867,11 @@ __Landing Page - Técnico__
 
 __Web Application - Técnico__  
 
-
+* Ingresa a la sección "Home".
+* Ingresa a la sección "Profile".
+* Ingresa a la sección "Task".
+* Ingresa a la sección "Dashboard".
+* Ingresa a la sección "Petition".
 
 
 ### 5.3.2. Registro de Entrevistas.
