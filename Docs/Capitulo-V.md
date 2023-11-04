@@ -1909,7 +1909,51 @@ Descripción:
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
+<Table>
+  <tr>
+    <td><b>#</b></td>
+    <td><b>Problema</b></td>
+    <td><b>Escala de Severidad</b></td>
+    <td><b>Heurística/Principio violada(o)</b></td>
+  </tr>
 
+  <tr>
+    <td>1</td>
+    <td>Se repite constantemente algunas opciones</td>
+    <td>2</td>
+    <td>Usability: Consistencia y estandares</td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td>No hay mensajes que confirmen al eliminar un Componente</td>
+    <td>3</td>
+    <td>Usability:Libertad y Control</td>
+  </tr>
+    
+  <tr>
+    <td>3</td>
+    <td>El Dashboard no muestra informacion concreata</td>
+    <td>2</td>
+    <td>Information Architecture: Is it usable?</td>
+  </tr>
+
+  <tr>
+    <td>4</td>
+    <td>Se repite constantemente algunas paginas</td>
+    <td>1</td>
+    <td>Usability:Consistencia y estandares</td>
+  </tr>
+
+   <tr>
+    <td>5</td>
+    <td>No hay peronalizacion mas propia del usuario respecto a los colores</td>
+    <td>1</td>
+    <td>Usability:Libertad y Control</td>
+  </tr>
+
+ 
+</Table>
 
 ## 5.4. Video About-the-Product.
 En el siguiente se presentara el video de nuestra aplicacion web se presentara a nuestros publicos objetivos 
