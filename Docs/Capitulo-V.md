@@ -1754,25 +1754,6 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
-<table>
-  <tr>
-    <td align ="center" > <strong>Repository</strong></td>
-    <td  align ="center" > <strong>Branch</strong></td>
-    <td  align ="center" > <strong>Commit ID</strong></td>
-    <td  align ="center" > <strong>Commit message</strong></td>
-    <td  align ="center" > <strong>Commit Masagge body</strong></td>
-    <td  align ="center" > <strong>Commit on (date)</strong></td>
-  </tr>
-
-  <tr>
-    <td rowspan="5" align="center"> https://github.com/LogicVersee/techelp-center-platform-backend </td>
-    <td align="center"> test</td>
-    <td align="center"> 5f8ca9212d378352aa40fd67be6061b0f05c2d83</td>
-    <td align="center"> feat(test) </td>
-    <td align="center"> Added test de user,products and customers</td>
-    <td align="center"> 4/11/2023</td>
-  </tr>
-</table>
 
 
 
@@ -1837,6 +1818,7 @@ Generamos el dominio para nuestra solución adecuado al nombre de nuestro proyec
 Una vez asignado el dominio, podremos visualizar nuestra API y la asignación que le hemos brindado a los Endpoints de la solución.    
 ![DeployAPI](https://i.ibb.co/nmGbGZT/Screenshot-14.jpg)  
 
+Link del Api desplegada: [https://techelp-api.zeabur.app/swagger-ui/index.html#/](https://techelp-api.zeabur.app/swagger-ui/index.html#/)
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
