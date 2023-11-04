@@ -1495,10 +1495,258 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 
 #### 5.2.3.1. Sprint Planning 3.
 
+<table>
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>Sprint 3</td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2023-11-01</td>
+  </tr>
+
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>11:15 AM</td>
+  </tr>
+
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Reunion realizada en el grupo de discord del equipo de trabajo</td>
+  </tr>
+  
+  <tr>
+    <td><strong>Prepared By</strong></td>
+    <td>Brayan Smith Morales Quispe <b>(Lider de grupo)</b></td>
+  </tr>
+
+  <tr>
+    <td><strong>Attendees (to planning meeting)</strong></td>
+    <td>
+      <ol type="A">
+        <li>Ramirez Mendez Sebastián André</li>
+        <li>Lagos Aguilar Luis Eduardo</li>
+        <li>Ramos Calderon Giovanni Andres</li>
+        <li>Saldaña Vela, Janover Gonzalo</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 2 Review Summary</strong></td>
+    <td>El anterior sprint desarrollado de 12 al 19 de setiembre que tuvo como meta el  desarrollo del frontend al 40%.Se obtuvo como resultado el completo completo desarrollo y su despliege en su totalidad con las caracteristicas planteadas por el equipo de trabajo.La opinion de los miembros del equipo fue que tuvimos una mala coordinacion al momento de realizar la documentacion y falta de comunicacion. El feeback dado al sprint anterior fue la falta del spring planning 2,call_to_action con la appweb y mala evidencia de comunicacion oral entre los miembros del grupo  </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 2 Retrospective Summary</strong></td>
+    <td>Las opiniones del equipo de trabajo son las siguientes:
+      <ol type="A">
+        <li>Se debe mejorar nuestra coordinacion como equipo de trabajo en el desarrollo de los sprints</li>
+        <li>Debemos se mas responsables cumpliendo las fechas establecidas para la entrega de cada parte desarrollado por un mienbro.</li>
+        <li>Debemos ser mas minuciosos al momento de revisar las fallas de nuestro trabajo</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 3 Goal</strong></td>
+    <td>El objetivo del sprint es el desarrollo de la backend superior al 40%</td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 3 Velocity</strong></td>
+    <td>El tiempo de desarrollo para este sprint es de 29 horas. Considerando los siguientes User Stories con sus Story Points escogidos para el desarrollo son:
+      <ol type="A">
+        <li>US10 Busqueda de Tecnicos SP: 8</li>
+        <li>US12 Visualizar Tecnico SP: 5</li>
+        <li>US11 Progreso del dispositivo SP: 8</li>
+        <li>US05 Administrar Tareas SP: 8</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sum of Story Points</strong></td>
+    <td>29</td>
+  </tr>
+</table>
 
 
 #### 5.2.3.2. Sprint Backlog 3.
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
 
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US10 Busqueda de Tecnicos </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Desarrollar las entidades,agregados y objetos de valor que usara el servicio en nuestra backend</td>
+    <td align="justify">Se define los atributos de las entidades,agregados y objetos de valor</td>
+    <td align="center"> 2 </td>
+    <td align="center"> Luis Lagos</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Desarrollo del controlador </td>
+    <td align="center"> Se desarrollará el controlador para adminitrar los pedidos GET a nuestra API con ciertas caracteristicas de la entidad tecnico</td>
+    <td align="center"> 2</td>
+    <td align="center"> Giovanni Ramos</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Implementacion de Queries</td>
+    <td align="center"> Se desarrolla los queries para la implementacion con el servicio </td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastian Ramirez</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Revision de la aquitectura </td>
+    <td align="center"> Se revisa la arquitectura de las carpetas siguiendo Domain Driven Design</td>
+    <td align="center"> 1</td>
+    <td align="center"> Brayan Morales</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US12 Visualizar Tecnico</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Implementacion de Queries</td>
+    <td align="center"> Se desarrolla los queries para la implementacion con el servicio </td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastian Ramirez</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Desarrollo del controlador </td>
+    <td align="center"> Se desarrollará el controlador para adminitrar los pedidos GET a nuestra API </td>
+    <td align="center"> 2</td>
+    <td align="center"> Giovanni Ramos</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Revision de la aquitectura </td>
+    <td align="center"> Se revisa la arquitectura de las carpetas siguiendo Domain Driven Design</td>
+    <td align="center"> 1</td>
+    <td align="center"> Giovanni Ramos</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US11 Progreso del dispositivo</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Implementacion de Queries y commands</td>
+    <td align="center"> Se desarrolla los queries y commands para la implementacion con el servicio </td>
+    <td align="center"> 1</td>
+    <td align="center"> Luis Lagos</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Desarrollo del controlador </td>
+    <td align="center"> Se desarrollará el controlador para adminitrar los pedidos PUT y POST a nuestra API </td>
+    <td align="center"> 2</td>
+    <td align="center"> Sebastián Ramirez</td>
+    <td align="center"> Done</td>
+  </tr>
+ 
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Implementacion de los queries y commands con el servicio del boundex context</td>
+    <td align="center"> Se implementara los commands y queries al servicio para su uso</td>
+    <td align="center"> 1</td>
+    <td align="center"> Gonzalo Saldaña</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Revision de la aquitectura </td>
+    <td align="center"> Se revisa la arquitectura de las carpetas siguiendo Domain Driven Design</td>
+    <td align="center"> 1</td>
+    <td align="center"> Bryan Morales</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US05 Administrar Tareas</td>
+      <td align="center"> TA01 </td>
+    <td align="center"> Implementacion de Queries y commands</td>
+    <td align="center"> Se desarrolla los queries y commands para la implementacion con el servicio </td>
+    <td align="center"> 1</td>
+    <td align="center"> Luis Lagos</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Desarrollo del controlador </td>
+    <td align="center"> Se desarrollará el controlador para adminitrar los pedidos PUT y POST a nuestra API </td>
+    <td align="center"> 2</td>
+    <td align="center"> Sebastián Ramirez</td>
+    <td align="center"> Done</td>
+  </tr>
+ 
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Implementacion de los queries y commands con el servicio del boundex context</td>
+    <td align="center"> Se implementara los commands y queries al servicio para su uso</td>
+    <td align="center"> 1</td>
+    <td align="center"> Gonzalo Saldaña</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Revision de la aquitectura </td>
+    <td align="center"> Se revisa la arquitectura de las carpetas siguiendo Domain Driven Design</td>
+    <td align="center"> 1</td>
+    <td align="center"> Bryan Morales</td>
+    <td align="center"> Done</td>
+  </tr>
+
+</table>
 
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
