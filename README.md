@@ -54,7 +54,15 @@
 | 2.6         | 22/09/23  | Gonzalo Saldaña                                                                         | Implementacion de organizacion de github                                                        |
 | 2.7         | 24/09/23  | Brayan Morales<br>Luis Lagos<br>Gonzalo Saldaña<br>Giovanni Ramos<br> Sebastian Ramirez | Correccion:Landing Page estático, falta Web Applications, el Web API desde ser un solo programa |
 | 3.0         | 26/09/23  | Brayan Morales<br>Luis Lagos<br>Gonzalo Saldaña<br>Giovanni Ramos<br> Sebastian Ramirez | Sprint 2                                                                                        |
-| 4.0         | 1/11/23  | Brayan Morales<br>Luis Lagos<br>Gonzalo Saldaña<br>Giovanni Ramos<br> Sebastian Ramirez | Sprint 3                                                                                        |
+| 3.1         | 23/10/23  | Brayan Morales<br>Luis Lagos<br>Gonzalo Saldaña<br>Giovanni Ramos<br> Sebastian Ramirez | Sprint 3                                                                                        |
+| 3.2         | 29/10/23  | <br>Giovanni Ramos                                                                      | Implementación del backend primer  bounded context                                              |
+| 3.3         | 31/10/23  | <br>Luis Lagos                                                                          | Implementación del backend segundo bounded context                                              |
+| 3.3         | 1/10/23   | Brayan Morales<br>Luis Lagos<br>Gonzalo Saldaña<br>Giovanni Ramos<br> Sebastian Ramirez | Implementación del frontend                                                                     |
+| 3.4         | 1/10/23   | Sebastian Ramirez                                                                       | Diseño de entrevista                                                                            |
+| 3.5         | 2/10/23   | Giovanni Ramos<br> Sebastian Ramirez                                                    | Grabacion de entrevista                                                                         |
+| 3.6         | 2/10/23   | Sebastian Ramirez                                                                       | Analisis  de entrevista                                                                         |
+| 3.6         | 3/10/23   | Sebastian Ramirez                                                                       | Documentacion de la heuristica                                                                  |
+| 4.0         | 3/10/23   | Brayan Morales                                                                          | Concluiones                                                                                     |
 
 
 ## Project Report Collaboration Insights 
@@ -66,6 +74,7 @@
 ![](assets/img/colaboracion/networkinforme.PNG)
 
 Link del repositorio:[https://github.com/orgs/LogicVersee/repositories](https://github.com/orgs/LogicVersee/repositories)
+<br>Link del repositorio-Informe:[https://github.com/LogicVersee/TecHelp-InformeDelProyecto](https://github.com/LogicVersee/TecHelp-InformeDelProyecto)
 ------
 # Contenido 
 ## Capitulo I: Introducción
