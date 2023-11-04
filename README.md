@@ -68,7 +68,7 @@
 ## Project Report Collaboration Insights 
 
 
-![](assets/img/colaboracion/colaboration-commit.png)
+![](assets/img/colaboracion/colaboration-commit1.png)
 ![](assets/img/colaboracion/git-clone-tp.PNG)
 ![](assets/img/colaboracion/ramas-tp.PNG)
 ![](assets/img/colaboracion/pulse.PNG)
