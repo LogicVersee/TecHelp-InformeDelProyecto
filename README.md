@@ -69,9 +69,9 @@
 
 
 ![](assets/img/colaboracion/colaboration-commit.png)
-![](assets/img/colaboracion/git-clone-tp.png)
-![](assets/img/colaboracion/ramas-tp.png)
-![](assets/img/colaboracion/networkinforme.PNG)
+![](assets/img/colaboracion/git-clone-tp.PNG)
+![](assets/img/colaboracion/ramas-tp.PNG)
+![](assets/img/colaboracion/pulse.PNG)
 
 Link del repositorio:[https://github.com/orgs/LogicVersee/repositories](https://github.com/orgs/LogicVersee/repositories)
 <br>Link del repositorio-Informe:[https://github.com/LogicVersee/TecHelp-InformeDelProyecto](https://github.com/LogicVersee/TecHelp-InformeDelProyecto)
