@@ -1754,6 +1754,25 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="5" align="center"> https://github.com/LogicVersee/techelp-center-platform-backend </td>
+    <td align="center"> test</td>
+    <td align="center"> 5f8ca9212d378352aa40fd67be6061b0f05c2d83</td>
+    <td align="center"> feat(test) </td>
+    <td align="center"> Added test de user,products and customers</td>
+    <td align="center"> 4/11/2023</td>
+  </tr>
+</table>
 
 
 
