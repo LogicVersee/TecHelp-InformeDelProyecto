@@ -2399,12 +2399,52 @@ En esta sección representamos el conjunto de Acceptance Test relacionadas con l
 </table>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
+Para este tercer sprint se ha desplegado las siguientes secciones en nuestra aplicacion web.
 
+Login: Muestra a usuario el inicio de la apliación web en donde podra usar su correo y contraseña para entrar como tecnico o usuario.
+
+![network.png](../assets/img/chapter-v/frontlogin.PNG)
+
+Registro: Muestra a usuario un formulario con el cual podra registrarse.
+
+![network.png](../assets/img/chapter-v/frontregister.PNG)
+
+Progress: Muestra una lista de las tareas que creo el tecnico.
+
+![network.png](../assets/img/chapter-v/frontProgress.PNG)
+
+ViewProgress: Muestra a usuario el inicio de la apliación web.
+
+![network.png](../assets/img/chapter-v/frontviewprogress.PNG)
+
+Profile: Muestra al tecnico su perfil.
+
+![network.png](../assets/img/chapter-v/frontProfile.PNG)
+
+Membership: Muesta al tecnico la memebresia la cual puede adquirir.
+
+![network.png](../assets/img/chapter-v/frontMembership.PNG)
+
+EditProfile: Muesta al tecnico un formalario en donde puede editar su informacion.
+
+![network.png](../assets/img/chapter-v/fronteditProfile.PNG)
+
+Dashboard: Muestra al tecnico el dashboard.
+
+![network.png](../assets/img/chapter-v/frontDashboard.PNG)
+
+Inventario: Muestras al tecnio el inventario que tiene.
+
+![network.png](../assets/img/chapter-v/frontInventory.PNG)
+
+Analytics: Se le muestra una vista mas amplia de las estadisticas.
+
+![network.png](../assets/img/chapter-v/frontAnalytic.PNG)
 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
-En el tercer sprint se pudo desarrollar el 40% del BackEnd; sin embargo, aún no se ha implementado, pero si se ha logrado desplegado.
+En el tercer sprint se pudo desarrollar el 50% del BackEnd; sin embargo, aún no se ha implementado, pero si se ha logrado desplegado.
 
 ![network.png](../assets/img/chapter-v/BackEndTablas.png)
 ![network.png](../assets/img/chapter-v/BackEnd.png)
@@ -2648,7 +2688,8 @@ Descripción:  Gino es un técnico de 22 que reside en el distrito de La Victori
 
 ## 5.4. Video About-the-Product.
 En el siguiente se presentara el video de nuestra aplicacion web se presentara a nuestros publicos objetivos 
-![video](/assets/img/chapter-v/video%20about%20product.png)
+![video](../assets/img/chapter-v/videoaboutproduct.png)
+
 link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsB64hw12GZ_dwjKxZoLHb1zw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=f2AcMS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsB64hw12GZ_dwjKxZoLHb1zw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=f2AcMS)
 
-# Avance de Conclusiones, Bibliografía y Anexos.
+
