@@ -1874,88 +1874,38 @@ __Web Application - Técnico__
 Entrevista Usuario 1
 </center>
 
-* Nombre:
-* Edad:
-* Distrito:
+[![Ver entrevista](https://i.ibb.co/qdkNSZK/Screenshot-15.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/ERYKiNZU5cBGuz00fmGFYFYB9m8lpKKb2KAxUmPgYScrFg?e=R89AoR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-Enlace del video:  
-Duración:  
-Descripción:  
+* Nombre: Sandro Alarcon Rondón  
+* Edad: 20  
+* Distrito: San Juan de Lurigancho  
+* Ocupación: Estudiante
 
---------------------------------------  
+
+Duración: [00:00:00 - 00:05:35]  
+Descripción:  Sandro es un estudiante de 20 años que reside en el distrito de San Juan de Lurigancho. Él es uno de los entrevistados que aceptó a participar en esta validación, ya que también le interesa saber sobre un proyecto que solucione muchos de sus problemas en la vida cotidiana, tal como lo es la reparación de su celular. En la entrevista Sandro nos menciona que las funcionalidades implementadas dentro del proyecto, son muy completas ya que satisfacen las necesidades que pueda necesitar al momento de requerir un técnico especializado. También nos menciona, que el diseño de las vistas puede mejorar, ya que no resulta tan atractivo a la vista del usuario, y más aún si la aplicación depende de la interacción del usuario que del mismo técnico.  
+
 <br>
+--------------------------------------  
 
 <center>
-Entrevista Usuario 2
+Entrevista Técnico 1  
 </center>  
 
-* Nombre:
-* Edad:
-* Distrito:
+* Nombre: Gino Aro  
+* Edad: 22  
+* Distrito: La Victoria  
+* Ocupación: Técnico en reparación de celulares.  
 
-Enlace del video:  
-Duración:  
-Descripción:  
 
---------------------------------------  
-<br>
+[![Ver entrevista](https://i.ibb.co/QpQhs85/Screenshot-16.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/ERYKiNZU5cBGuz00fmGFYFYB9m8lpKKb2KAxUmPgYScrFg?e=gcczGy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-<center>
-Entrevista Usuario 3
-</center>  
-
-* Nombre:
-* Edad:
-* Distrito:
-
-Enlace del video:  
-Duración:  
-Descripción:  
+Duración:  [00:05:35 - 00:10:26]  
+Descripción:  Gino es un técnico de 22 que reside en el distrito de La Victoria, es un especialista en reparación de celulares y él le interesa la plataforma ya que es parte de su trabajo del día a día. A él le motiva que existan este tipo de plataformas para promover la forma de promocionar su trabajo. Nos comenta que las funcionalidades le parece muy buenas para la vista del usuario, ya que todas cumplen en base a lo que sus clientes piden. Nos comenta también que le gustaría que mejoren la experiencia del usuario con el diseño de la aplicación. 
 
 --------------------------------------  
-<br>
 
-<center>
-Entrevista Técnico 1
-</center>  
 
-* Nombre:
-* Edad:
-* Distrito:
-
-Enlace del video:  
-Duración:  
-Descripción:  
-
---------------------------------------  
-<br>
-
-<center>
-Entrevista Técnico 2
-</center>     
-
-* Nombre:
-* Edad:
-* Distrito:
-
-Enlace del video:  
-Duración:  
-Descripción:  
-
---------------------------------------  
-<br>
-
-<center>
-Entrevista Técnico 3
-</center>   
-
-* Nombre:
-* Edad:
-* Distrito:
-
-Enlace del video:  
-Duración:  
-Descripción:  
 
 
 
