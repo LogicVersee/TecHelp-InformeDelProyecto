@@ -4,5 +4,5 @@
 
 * Se concluye que una buena elaboracion de los diagramas c4 ayuda mucho al desarrollo mas preciso de la backend
 
-* las entrevistas realizadas en el sprint 3 nos ayudaron a mejorara nuestra app web modificando y agregando caracteristicas que nuestros usuarios finales desean.
+* Las entrevistas realizadas en el sprint 3 nos ayudaron a mejorara nuestra app web modificando y agregando caracteristicas que nuestros usuarios finales desean.
 
