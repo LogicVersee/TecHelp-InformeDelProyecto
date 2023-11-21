@@ -1,109 +1,107 @@
-# Capítulo 2: Requirements Elicitation & Analysis
+# CapÃ­tulo 2: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
 
-### 2.1.1. Analisis competitivo
+### 2.1.1. AnÃ¡lisis competitivo
 
 #### Competitive Analysis Landscape  
 
-El objetivo del siguiente analisis competitivo es identificar las fortalezas y debilidades en relacion con los competidores para desarrollar diseños y estrategias efectivas para competir en el mercado.
+El objetivo del siguiente anÃ¡lisis competitivo es identificar las fortalezas y debilidades en relaciÃ³n con los competidores para desarrollar diseÃ±os y estrategias efectivas para competir en el mercado.
 
 | Competidor          |                                                       | TecHelp                                                                                                                                                                                                                                                                                                 | AyFix                                                                                                                                                                                                                          | Timbrit                                                                                                                                                                                                                                                                                                                     | Helpers                                                                                                                                                                                                                                  |
 | ------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Logo                |                                                       |    ![logo_TecHelp](../assets/img/chapter-II/icon1.png)                                                                                                                                                                                                                                                                                                     | ![logo_AyFix](../assets/img/chapter-II/icon2.png)                                                                                                                                                                                      | ![logo_Timbrit](../assets/img/chapter-II/icon3.png)                                                                                                                                                                                                                                                                                   | ![logo_Helpers](../assets/img/chapter-II/icon4.png)                                                                                                                                                                                                |
 | Perfil              | Overview                                              | Aplicacion movil y web                                                                                                                                                                                                                                                                                  | Aplicacion movil y web                                                                                                                                                                                                         | Aplicacion Web                                                                                                                                                                                                                                                                                                              | Aplicacion movil y web                                                                                                                                                                                                                   |
-|                     | Ventaja competitiva ¿Que valor ofrece a los clientes? | Permite visualizar el flujo de reparacion del telefono celular. Ademas, registra comentarios de satisfaccion por cada reparacion y brinda la facilidad de encontrar un servicio tecnico de alta calidad. Por otro lado, tiene alta disponibilidad en diferentes sistemas operativos como IOS y Android. | La propuesta de valor de AyFix radica en su enfoque conveniente, confiable y eficiente para la reparacion y mantenimiento de dispositivos electronicos. AyFix ofrece comodidad a los clientes al brindar servicio a domicilio. | Timbrit ofrece a sus clientes comodidad, variedad de servicios, profesionales verificados, transparencia en precios y pagos, atencion al cliente lo cual puede ser su ventaja competitiva para brindar un servicio completo y confiable en el mercado de contratacion de profesionales para el hogar y el cuidado personal. | Contactar profesionales al servicio del hogar desde donde se requiera, se puede programar visitas, garantizan profesionales competentes de acuerdo con el servicio que se requiera debido a que tienen un riguroso proceso de seleccion. |
-| Perfil de Marketing | Mercado objetivo                                      | Personas que buscan servicios tecnicos de reparacion de celulares confiables y cercanos. Tecnicos que brindan servicios tecnicos de reparacion de telefonos celulares que busquen mejorar la comunicacion con los clientes y expandir su mercado objetivo.                                              | Profesionales en servicios del hogar. Personas que requieren de servicios del hogar como electricidad, linea blanca, carpinteria, cerrajeria, etc.                                                                             | Propietarios de viviendas que necesiten servicios de reparacion, mantenimiento y mejoras para sus hogares, pequeoas empresas como tiendas minoristas y restaurantes, oficinas y otros negocios locales.                                                                                                                     | Profesionales en servicios del hogar Personas que requieren de servicios del hogar como electricidad, linea blanca, carpinteria, cerrajeria, etc.                                                                                        |
+|                     | Ventaja competitiva Â¿QuÃ© valor ofrece a los clientes? | Permite visualizar el flujo de reparaciÃ³n del telÃ©fono celular. AdemÃ¡s, registra comentarios de satisfacciÃ³n por cada reparaciÃ³n y brinda la facilidad de encontrar un servicio tÃ©cnico de alta calidad. Por otro lado, tiene alta disponibilidad en diferentes sistemas operativos como IOS y Android. | La propuesta de valor de AyFix radica en su enfoque conveniente, confiable y eficiente para la reparaciÃ³n y mantenimiento de dispositivos electrÃ³nicos. AyFix ofrece comodidad a los clientes al brindar servicio a domicilio. | Timbrit ofrece a sus clientes comodidad, variedad de servicios, profesionales verificados, transparencia en precios y pagos, atenciÃ³n al cliente lo cual puede ser su ventaja competitiva para brindar un servicio completo y confiable en el mercado de contrataciÃ³n de profesionales para el hogar y el cuidado personal. | Contactar profesionales al servicio del hogar desde donde se requiera, se puede programar visitas, garantizan profesionales competentes de acuerdo con el servicio que se requiera debido a que tienen un riguroso proceso de selecciÃ³n. |
+| Perfil de Marketing | Mercado objetivo                                      | Personas que buscan servicios tÃ©cnicos de reparaciÃ³n de celulares confiables y cercanos. TÃ©cnicos que brindan servicios tÃ©cnicos de reparaciÃ³n de telÃ©fonos celulares que busquen mejorar la comunicaciÃ³n con los clientes y expandir su mercado objetivo.                                              | Profesionales en servicios del hogar. Personas que requieren de servicios del hogar como electricidad, lÃ­nea blanca, carpinterÃ­a, cerrajerÃ­a, etc.                                                                             | Propietarios de viviendas que necesiten servicios de reparaciÃ³n, mantenimiento y mejoras para sus hogares, pequeÃ±as empresas como tiendas minoristas y restaurantes, oficinas y otros negocios locales.                                                                                                                     | Profesionales en servicios del hogar Personas que requieren de servicios del hogar como electricidad, lÃ­nea blanca, carpinterÃ­a, cerrajerÃ­a, etc.                                                                                        |
 |                     | Estrategias de marketing                              | Publicidad en redes sociales posicionamiento del Landing Page en internet y recomendaciones de clientes. Posicionamiento de marca: en cuanto al valor agregado de nuestro producto. Marketing de influencers: Colaboraciones con personas influyentes para promocionar el producto.                     | Publicidad y posicionamiento de su Landing Page y entrevistas                                                                                                                                                                  | Marketing de contenido, utiliza blogs y videos                                                                                                                                                                                                                                                                              | Publicidad y posicionamiento de su Landing Page                                                                                                                                                                                          |
-| Perfil de Producto  | Productos & Servicios                                 | Permite visualizar el flujo de reparacion del telefono celular, lo que permite la trazabilidad de cada estado de la reparacion. Ademas, registra comentarios de satisfaccion por cada reparacion y brinda la facilidad de encontrar un servicio tecnico de alta calidad y seguridad.                    | Proporciona profesionales en servicios del hogar calificados de acuerdo a la necesidad del solicitante.                                                                                                                        | Contratacion de servicios profesionales, gestion de citas y pagos y evaluacion y reseñas de sus afiliados                                                                                                                                                                                                                   | Brinda servicios relacionados con problemas del hogar, oficina u empresa relacionado con la electricidad, electrodomesticos de linea blanca, carpinteria, cerrajeria, etc.                                                               |
-|                     | Precios & Costos                                      | Usuarios: Free Servicios tecnicos: Plan basico: S/. 0.00 Plan TechSOS: S/. 30 Plan avanzado: S/. 80                                                                                                                                                                                                     | El pago de una cuota fija mensual de 85 soles por parte de los profesionales en servicios del hogar.                                                                                                                           | Timbrit utiliza un modelo de negocio basado en comisiones y tarifas por servicio                                                                                                                                                                                                                                            | Si un helper hace un servicio, cobramos una comision de entre 17% y 22%, dependiendo de la categoria de servicio y el monto acordado.                                                                                                    |
-|                     | Canales de distribucion (Web y/o Movil)               | Web/Movil                                                                                                                                                                                                                                                                                               | Web/Movil                                                                                                                                                                                                                      | Web/Movil                                                                                                                                                                                                                                                                                                                   | Web/WhatsApp                                                                                                                                                                                                                             |
-| Analisis SWOT       | Fortalezas                                            | Seguridad, confianza, calidad, garantia, cercano, los clientes ahorraran tiempo, ahorraran dinero y evitaran estafas y visualizacion de estado de reparacion en tiempo real.                                                                                                                            | Proporciona diferentes tipos de servicios del hogar con profesionales capacitados.                                                                                                                                             | Cobertura para España, Colombia, Argentina, Chile y Estados Unidos.                                                                                                                                                                                                                                                         | Helpers participo en Startup Peru y fue seleccionado como proyecto ganador y gano el programa Startup Chile.                                                                                                                             |
-|                     | Debilidades                                           | Tener poca experiencia en el mercado.                                                                                                                                                                                                                                                                   | Solo tiene cobertura en Mexico.                                                                                                                                                                                                | Dependencia de la reputacion de sus afiliados.                                                                                                                                                                                                                                                                              | Falta integrar funcionalidades de contacto con el profesional en la misma plataforma.                                                                                                                                                    |
-|                     | Oportunidades                                         | Mala comunicacion entre cliente y tecnico de reparacion de telefonos celulares. Alta demanda de reparacion de telefonos celulares.                                                                                                                                                                      | Muchos de los que se dedican a solucionar problemas de servicios del hogar se suelen anunciar por volantes o anuncios en los postes y paredes.                                                                                 | Timbrit puede aprovechar la oportunidad de seguir innovando y utilizando tecnologia de vanguardia en su plataforma, tambien puede considerar la oportunidad de diversificar su oferta de servicios para abarcar una mayor variedad de categorias y tipos de servicios para el hogar                                         | Problemas domesticos recurrentes y que usualmente toman tiempo solucionarlos, ya que no se encuentra con facilidad a un tecnico de confianza, cumplido y que ofrezca un servicio de calidad.                                             |
-|                     | Amenazas                                              | Competidores con alta experiencia en el mercado.                                                                                                                                                                                                                                                        | Cambios en la demanda del mercado.                                                                                                                                                                                             | Opiniones o reseñas negativas de los clientes                                                                                                                                                                                                                                                                               | Problemas con la calidad del servicio, la puntualidad, la atencion al cliente u otros aspectos relacionados con la experiencia del usuario.                                                                                              |
+| Perfil de Producto | Productos & Servicios                                 | Permite visualizar el flujo de reparaciÃ³n del telÃ©fono celular, lo que permite la trazabilidad de cada estado de la reparaciÃ³n. ademÃ¡s, registra comentarios de satisfacciÃ³n por cada reparaciÃ³n y brinda la facilidad de encontrar un servicio tÃ©cnico de alta calidad y seguridad.                    | Proporciona profesionales en servicios del hogar calificados de acuerdo con la necesidad del solicitante.                                                                                                                        | ContrataciÃ³n de servicios profesionales, gestiÃ³n de citas y pagos y evaluaciÃ³n y reseÃ±as de sus afiliados                                                                                                                                                                                                                   | Brinda servicios relacionados con problemas del hogar, oficina u empresa relacionado con la electricidad, electrodomÃ©sticos de lÃ­nea blanca, carpinterÃ­a, cerrajerÃ­a, etc.                                                               |
+|                     | Precios & Costos                                      | Usuarios: Free Servicios tÃ©cnicos: Plan bÃ¡sico: S/. 0.00 Plan TechSOS: S/. 30 Plan avanzado: S/. 80                                                                                                                                                                                                     | El pago de una cuota fija mensual de 85 soles por parte de los profesionales en servicios del hogar.                                                                                                                           | Timbrit utiliza un modelo de negocio basado en comisiones y tarifas por servicio                                                                                                                                                                                                                                            | Si un helper hace un servicio, cobramos una comisiÃ³n de entre 17% y 22%, dependiendo de la categorÃ­a de servicio y el monto acordado.                                                                                                    |
+|                     | Canales de distribuciÃ³n (Web y/o MÃ³vil)               | Web/MÃ³vil                                                                                                                                                                                                                                                                                               | Web/MÃ³vil                                                                                                                                                                                                                      | Web/MÃ³vil                                                                                                                                                                                                                                                                                                                   | Web/WhatsApp                                                                                                                                                                                                                             |
+| AnÃ¡lisis SWOT       | Fortalezas                                            | Seguridad, confianza, calidad, garantÃ­a, cercano, los clientes ahorraran tiempo, ahorraran dinero y evitaran estafas y visualizaciÃ³n de estado de reparaciÃ³n en tiempo real.                                                                                                                            | Proporciona diferentes tipos de servicios del hogar con profesionales capacitados.                                                                                                                                             | Cobertura para EspaÃ±a, Colombia, Argentina, Chile y Estados Unidos.                                                                                                                                                                                                                                                         | Helpers participo en Startup PerÃº y fue seleccionado como proyecto ganador y gano el programa Startup Chile.                                                                                                                             |
+|                     | Debilidades                                           | Tener poca experiencia en el mercado.                                                                                                                                                                                                                                                                   | Solo tiene cobertura en MÃ©xico.                                                                                                                                                                                                | Dependencia de la reputaciÃ³n de sus afiliados.                                                                                                                                                                                                                                                                              | Falta integrar funcionalidades de contacto con el profesional en la misma plataforma.                                                                                                                                                    |
+|                     | Oportunidades                                         | Mala comunicaciÃ³n entre cliente y tÃ©cnico de reparaciÃ³n de telÃ©fonos celulares. Alta demanda de reparaciÃ³n de telÃ©fonos celulares.                                                                                                                                                                      | Muchos de los que se dedican a solucionar problemas de servicios del hogar se suelen anunciar por volantes o anuncios en los postes y paredes.                                                                                 | Timbrit puede aprovechar la oportunidad de seguir innovando y utilizando tecnologÃ­a de vanguardia en su plataforma, tambiÃ©n puede considerar la oportunidad de diversificar su oferta de servicios para abarcar una mayor variedad de categorÃ­as y tipos de servicios para el hogar                                         | Problemas domÃ©sticos recurrentes y que usualmente toman tiempo solucionarlos, ya que no se encuentra con facilidad a un tÃ©cnico de confianza, cumplido y que ofrezca un servicio de calidad.                                             |
+|                     | Amenazas                                              | Competidores con alta experiencia en el mercado.                                                                                                                                                                                                                                                        | Cambios en la demanda del mercado.                                                                                                                                                                                             | Opiniones o reseÃ±as negativas de los clientes                                                                                                                                                                                                                                                                               | Problemas con la calidad del servicio, la puntualidad, la atenciÃ³n al cliente u otros aspectos relacionados con la experiencia del usuario.                                                                                              |
 
+### 2.1.2. Estrategias y tÃ¡cticas frente a competidores
 
-### 2.1.2. Estrategias y tácticas frente a competidores
+#### Matriz CAME para el desarrollo de estrategias en base al anÃ¡lisis FODA
 
-#### Matriz CAME para el desarrollo de estrategias en base al análisis FODA
-
-| Matriz F.O.D.A. y C.A.M.E.                                                                                                                         | Oportunidades<br>Mercado grande con millones de clientes.<br>Servicios técnicos con necesidades para organizarse mejor.                                                                                                                                                                                                                                                                         | Amenazas<br>Competidores reconocidos<br>Competidores con muchos años de experiencia                                                                                                                                                                                     |
+| Matriz F.O.D.A. y C.A.M.E.                                                                                                                         | Oportunidades<br>Mercado grande con millones de clientes. <br>Servicios tÃ©cnicos con necesidades para organizarse mejor.                                                                                                                                                                                                                                                                         | Amenazas<br>Competidores reconocidos<br>Competidores con muchos aÃ±os de experiencia                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fortalezas<br>Idea innovadora<br>Diseño sencillo Multiplataforma<br>Gratuita para los clientes<br>Costos accesibles para servicios técnicos afiliados. | Estrategia Ofensiva<br>Diseñar chat de comunicación con técnicos fáciles e interactivos para hacer sencillo el uso por parte de los usuarios.<br>Diseñar una forma de que la plataforma sea compatible con diversos S.O, como Android, IOS y versión Web, para ser accesibles con cualquier técnico o usuario.<br>Buscar más formas de precios en función de la cantidad de servicios técnicos afiliados. | Estrategia Defensiva<br>Diseñar e investigar más sobre la idea innovadora para hacer frente a algunos productos monótonos como el de Apple.<br>Diseñar interfaces para diferentes sistemas operativos a diferencia de otras compañías que tienen centralizada en un solo lugar. |
-| Debilidades<br>Poca experiencia en el mercado<br>Falta de más conocimiento en algunas áreas tecnológicas                                               | Estrategia de Reorientación<br>Aprovechar la gran cantidad de usuarios del mercado para validar mejor el diseño del producto.<br>Aprender de los requisitos necesitan los técnicos y diseñar de acuerdo con las tecnologías necesarias que faciliten la usabilidad tanto al técnico com                                                                                                                   | Estrategia de Supervivencia<br>Diseñar campañas de marketing presentando y destacar nuestra propuesta diferenciadora que genera valor a los clientes y técnicos.                                                                                                                |
+| Fortalezas<br>Idea innovadora<br>DiseÃ±o sencillo Multiplataforma<br>Gratuita para los clientes<br>Costos accesibles para servicios tÃ©cnicos afiliados. | Estrategia Ofensiva<br>DiseÃ±ar chat de comunicaciÃ³n con tÃ©cnicos fÃ¡ciles e interactivos para hacer sencillo el uso por parte de los usuarios. <br>DiseÃ±ar una forma de que la plataforma sea compatible con diversos S.O, como Android, IOS y versiÃ³n Web, para ser accesibles con cualquier tÃ©cnico o usuario. <br>Buscar mÃ¡s formas de precios en funciÃ³n de la cantidad de servicios tÃ©cnicos afiliados. | Estrategia Defensiva<br>DiseÃ±ar e investigar mÃ¡s sobre la idea innovadora para hacer frente a algunos productos monÃ³tonos como el de Apple. <br>DiseÃ±ar interfaces para diferentes sistemas operativos a diferencia de otras compaÃ±Ã­as que tienen centralizada en un solo lugar. |
+| Debilidades<br>Poca experiencia en el mercado<br>Falta de mÃ¡s conocimiento en algunas Ã¡reas tecnolÃ³gicas                                               | Estrategia de ReorientaciÃ³n<br>Aprovechar la gran cantidad de usuarios del mercado para validar mejor el diseÃ±o del producto.<br>Aprender de los requisitos necesitan los tÃ©cnicos y diseÃ±ar de acuerdo con las tecnologÃ­as necesarias que faciliten la usabilidad tanto al tÃ©cnico con                                                                                                                   | Estrategia de Supervivencia<br>DiseÃ±ar campaÃ±as de marketing presentando y destacar nuestra propuesta diferenciadora que genera valor a los clientes y tÃ©cnicos.                                                                                                                |
 
 Nota:  Este cuadro muestra la matriz C.A.M.E que sirve para definir acciones luego de los datos obtenidos de las
 fortalezas, debilidades, oportunidades y amenazas.
 
 ## 2.2. Entrevistas
 
-### 2.2.1. Diseño de entrevistas
+### 2.2.1. DiseÃ±o de entrevistas
 
 #### Usuario:
 
-##### Preguntas demográficas:
+##### Preguntas demogrÃ¡ficas:
 
-¿Cual es tu nombre?
+Â¿CuÃ¡l es tu nombre?
 
-¿Qué edad tienes?
+Â¿QuÃ© edad tienes?
 
-¿Tienes una ocupación?
+Â¿Tienes una ocupaciÃ³n?
 
-¿De qué distrito resides ?
+Â¿De quÃ© distrito resides?
 
 ##### Preguntas principales:
 
-1. ¿En algún momento usted ha acudido a los servicios de un técnico para reparar su celular? ¿Qué problema tenía su celular? ¿El técnico pudo reparar su celular? ¿Se sintió satisfecho con la atención que le brindó?
-2. ¿Ha vuelto a tener ese mismo fallo con su celular u otro fallo distinto? ¿Lo ha vuelto a enviar al mismo técnico? ¿Cuántas veces ha tenido que acudir a un técnico por el mismo fallo u otro?
-3. ¿Trataste de solucionar el problema por tu propia cuenta?
-4. La atención general de los técnicos que ha acudido ¿Fue la que esperaba? ¿Ha tenido que realizar filas para poder ser atendida?
-5. ¿Alguna vez el técnico le dijo que tenía que dejar su celular por una cierta cantidad de días? ¿Cuántos días dejó su celular a un técnico? ¿El técnico cumplió con el tiempo establecido? Si no fue así ¿Cuántos días tuvo que esperar para que le devolvieran su celular?
-6. Por experiencia,¿Cuál es el costo promedio por reparación de tu equipo? ¿Te parece justo ese precio?
-7. ¿Se te ha brindado garantía luego de la reparación de tu celular? ¿Qué tipo de garantía?
-8. ¿Conoce algún familiar que ha sufrido un accidente con su equipo luego de ser reparado por un técnico?
-9. Por su experiencia,¿Que toma en cuenta a la hora de elegir un técnico?
+1. En algÃºn momento usted ha acudido a los servicios de un tÃ©cnico para reparar su celular? Â¿QuÃ© problema tenÃ­a su celular? Â¿El tÃ©cnico pudo reparar su celular? Â¿Se sintiÃ³ satisfecho con la atenciÃ³n que le brindÃ³?
+2. Â¿Ha vuelto a tener ese mismo fallo con su celular u otro fallo distinto? Â¿Lo ha vuelto a enviar al mismo tÃ©cnico? Â¿CuÃ¡ntas veces ha tenido que acudir a un tÃ©cnico por el mismo fallo u otro?
+3. Â¿Trataste de solucionar el problema por tu propia cuenta?
+4. La atenciÃ³n general de los tÃ©cnicos que ha acudido Â¿Fue la que esperaba? Â¿Ha tenido que realizar filas para poder ser atendida?
+5. Â¿Alguna vez el tÃ©cnico le dijo que tenga que dejar su celular por una cierta cantidad de dÃ­as? Â¿CuÃ¡ntos dÃ­as dejÃ³ su celular a un tÃ©cnico? Â¿El tÃ©cnico cumpliÃ³ con el tiempo establecido? Â¿Si no fue asÃ­ Â¿Cuantos dÃ­as tuvo que esperar para que le devolvieran su celular?
+6. Por experiencia, Â¿CuÃ¡l es el costo promedio por reparaciÃ³n de tu equipo? Â¿Te parece justo ese precio?
+7. Â¿Se te ha brindado garantÃ­a luego de la reparaciÃ³n de tu celular? Â¿QuÃ© tipo de garantÃ­a?
+8. Â¿Conoce algÃºn familiar que ha sufrido un accidente con su equipo luego de ser reparado por un tÃ©cnico?
+9. Por su experiencia, Â¿QuÃ© toma en cuenta a la hora de elegir un tÃ©cnico?
 
 #### Preguntas sobre el proyecto:
 
-1. ¿Ha escuchado de una aplicación web que brinde los mismos servicios que ofrece nuestro proyecto?
-2. ¿Cree que nuestra aplicación solucionara las malas experiencias que ha tenido al acudir los servicios de un técnico?
-3. Al escuchar nuestra aplicación ¿Qué otras funcionalidades le gustaría ver en nuestra aplicación?
+1. Â¿Ha escuchado de una aplicaciÃ³n web que brinde los mismos servicios que ofrece nuestro proyecto?
+2. Â¿Cree que nuestra aplicaciÃ³n solucionara las malas experiencias que ha tenido al acudir los servicios de un tÃ©cnico?
+3. Al escuchar nuestra aplicaciÃ³n Â¿QuÃ© otras funcionalidades le gustarÃ­an ver en nuestra aplicaciÃ³n?
 
-#### Tecnico:
+#### tÃ©cnico:
 
-Preguntas demográficas:
+Preguntas demogrÃ¡ficas:
 
-¿Cual es tu nombre?
+Â¿CuÃ¡l es tu nombre?
 
-¿Qué edad tienes?
+Â¿QuÃ© edad tienes?
 
-¿De qué distrito resides ?
+Â¿De quÃ© distrito resides ?
 
 #### Preguntas principales:
 
-1. Aproximadamente ¿Cuántas personas al día han solicitado sus servicios?
-2. ¿Trabaja solo o tiene algún personal que lo apoye ? si tiene personal ¿Cuántos?
-3. ¿Ha tenido dificultad a la hora de gestionar su tiempo para atender a los clientes? ¿Se organiza para poder gestionar bien su negocio?
-4. ¿De qué manera usted gestiona las piezas que recibe para poder reparar los celulares?
-5. ¿Cuál es el problema que se presenta constantemente en los celulares de los clientes?
-6. De todos los problemas que ha solucionado¿Cuáles son los problemas más complicados y tediosos que ha encontrado a la hora de reparar un celular?
-7. ¿De qué manera usted gestiona el tiempo para poder reparar un equipo?
-8. ¿Cómo usted maneja los precios de reparación? ¿El precio que ofrece a los clientes es justo para usted?
-9. ¿Cuáles son los métodos de pago con los que trabaja?
-10. ¿Siente que da la mejor atención posible a cada cliente que se presente para acudir a sus servicios?
-11. ¿Qué acciones realiza cuando un cliente no se siente satisfecho por los servicios que le ha brindado?
-12. ¿Cómo le garantiza al cliente que su equipo está en buenas manos?
-13. En su opinión ¿Cuáles son los factores para que un técnico pueda ser solicitado más que otro?
-14. En su experiencia como técnico¿Es rentable actualmente acudir a uno?
-15. ¿Usted disfruta su trabajo?
+1. Aproximadamente Â¿CuÃ¡ntas personas al dÃ­a han solicitado sus servicios?
+2. Â¿Trabaja solo o tiene algÃºn personal que lo apoye? si tiene personal Â¿CuÃ¡ntos?
+3. Â¿Ha tenido dificultad a la hora de gestionar su tiempo para atender a los clientes? Â¿Se organiza para poder gestionar bien su negocio?
+4. Â¿De quÃ© manera usted gestiona las piezas que recibe para poder reparar los celulares?
+5. Â¿CuÃ¡l es el problema que se presenta constantemente en los celulares de los clientes?
+6. De todos los problemas que ha solucionado Â¿CuÃ¡les son los problemas mÃ¡s complicados y tediosos que ha encontrado a la hora de reparar un celular?
+7. Â¿De quÃ© manera usted gestiona el tiempo para poder reparar un equipo?
+8. Â¿CÃ³mo usted maneja los precios de reparaciÃ³n? Â¿El precio que ofrece a los clientes es justo para usted?
+9. Â¿CuÃ¡les son los mÃ©todos de pago con los que trabaja?
+10. Â¿Siente que da la mejor atenciÃ³n posible a cada cliente que se presente para acudir a sus servicios?
+11. Â¿QuÃ© acciones realiza cuando un cliente no se siente satisfecho por los servicios que le ha brindado?
+12. Â¿CÃ³mo le garantiza al cliente que su equipo estÃ¡ en buenas manos?
+13. En su opiniÃ³n Â¿CuÃ¡les son los factores para que un tÃ©cnico pueda ser solicitado mÃ¡s que otro?
+14. En su experiencia como tÃ©cnico Â¿Es rentable actualmente acudir a uno?
+15. Â¿Usted disfruta su trabajo?
 
 #### Preguntas sobre el proyecto:
 
-1. ¿Ha escuchado de una aplicación web que brinde los  mismos servicios que ofrece nuestro proyecto?
-2. ¿Cree que nuestra aplicación solucionara las malas experiencias que ha tenido  al acudir los  servicios de un técnico  ?
-3. Al escuchar nuestra aplicación ¿ Qué otras funcionalidades le gustaría  ver en nuestra aplicación?
-
+1. Â¿Ha escuchado de una aplicaciÃ³n web que brinde los mismos servicios que ofrece nuestro proyecto?
+2. Â¿Cree que nuestra aplicaciÃ³n solucionara las malas experiencias que ha tenido al acudir los servicios de un tÃ©cnico?
+3. Al escuchar nuestra aplicaciÃ³n Â¿QuÃ© otras funcionalidades le gustarÃ­an ver en nuestra aplicaciÃ³n?
 
 
 ### 2.2.2. Registro de entrevistas
@@ -118,29 +116,26 @@ Preguntas demográficas:
 
 </div>
 
-Datos Demográficos:  
+Datos DemogrÃ¡ficos:  
  
-- Nombre: Abelardo Huañec Chirinos  
-- Edad: 20 años  
-- Ocupación: Estudiante de Ingeniería Industrial  
+- Nombre: Abelardo HuaÃ±ec Chirinos  
+- Edad: 20 aÃ±os  
+- OcupaciÃ³n: Estudiante de IngenierÃ­a Industrial  
 - Distrito de Residencia: San Juan de Miraflores  
 
-
-Duración de la entrevista: [00:00:00 - 00:10:57]
-
+DuraciÃ³n de la entrevista: [00:00:00 - 00:10:57]
 
 #### Preguntas principales:
 
-Abelardo es un estudiante de 20 años que reside en San Juan de Miraflores. Ha acudido a un técnico para reparar su celular en el pasado debido a problemas en la pantalla. El técnico pudo reparar el celular, pero la reparación no duró mucho, por lo que no se sintió satisfecho con la atención. Ha enfrentado el mismo problema con su celular nuevamente pero no ha vuelto a enviarlo al mismo técnico y solo ha recurrido a un técnico en una ocasión.  
+Abelardo es un estudiante de 20 aÃ±os que reside en San Juan de Miraflores. Ha acudido a un tÃ©cnico para reparar su celular en el pasado debido a problemas en la pantalla. El tÃ©cnico pudo reparar el celular, pero la reparaciÃ³n no durÃ³ mucho, por lo que no se sintiÃ³ satisfecho con la atenciÃ³n. Ha enfrentado el mismo problema con su celular nuevamente pero no ha vuelto a enviarlo al mismo tÃ©cnico y solo ha recurrido a un tÃ©cnico en una ocasiÃ³n.  
 
-Abelardo no ha intentado solucionar problemas en su celular por su cuenta debido a su falta de conocimiento en reparaciones de dispositivos. La atención que ha recibido de los técnicos no cumplió con sus expectativas, aunque no ha tenido que hacer filas para ser atendido.  
+Abelardo no ha intentado solucionar problemas en su celular por su cuenta debido a su falta de conocimiento en reparaciones de dispositivos. La atenciÃ³n que ha recibido de los tÃ©cnicos no cumpliÃ³ con sus expectativas, aunque no ha tenido que hacer filas para ser atendido.  
 
-En cuanto al tiempo de reparación, el técnico le pidió que dejara su celular por unas horas y cumplió con el tiempo estimado. El costo promedio de una reparación fue de aproximadamente 130 soles, y Abelardo consideró que este precio era justo.  
+En cuanto al tiempo de reparaciÃ³n, el tÃ©cnico le pidiÃ³ que dejara su celular por unas horas y cumpliÃ³ con el tiempo estimado. El costo promedio de una reparaciÃ³n fue de aproximadamente 130 soles, y Abelardo considerÃ³ que este precio era justo.  
 
-No le brindaron garantía después de la reparación, y no conoce a ningún familiar que haya tenido problemas con su equipo después de ser reparado por un técnico.  
+No le brindaron garantÃ­a despuÃ©s de la reparaciÃ³n, y no conoce a ningÃºn familiar que haya tenido problemas con su equipo despuÃ©s de ser reparado por un tÃ©cnico.  
 
-En relación con el proyecto de la aplicación web, Abelardo no ha escuchado de una aplicación similar y cree que podría ayudar a mejorar sus malas experiencias con técnicos. Le gustaría ver en la aplicación una funcionalidad que muestre la ubicación de los técnicos en un mapa interactivo.  
-
+En relaciÃ³n con el proyecto de la aplicaciÃ³n web, Abelardo no ha escuchado de una aplicaciÃ³n similar y cree que podrÃ­a ayudar a mejorar sus malas experiencias con tÃ©cnicos. Le gustarÃ­a ver en la aplicaciÃ³n una funcionalidad que muestre la ubicaciÃ³n de los tÃ©cnicos en un mapa interactivo.  
 
 <div style="text-align: center;">
 
@@ -150,38 +145,34 @@ En relación con el proyecto de la aplicación web, Abelardo no ha escuchado de un
 
 </div>
 
-
-Datos Demográficos:  
+Datos DemogrÃ¡ficos:  
 
 - Nombre: Kevin Abarca  
-- Edad: 19 años  
-- Ocupación: Estudiante en la UPC (5to ciclo)  
+- Edad: 19 aÃ±os  
+- OcupaciÃ³n: Estudiante en la UPC (5to ciclo)  
 - Distrito de Residencia: San Juan de Lurigancho  
 
-
-Duración de la entrevista: [00:10:57 - 00:20:10]
-
+DuraciÃ³n de la entrevista: [00:10:57 - 00:20:10]
 
 #### Preguntas principales:  
 
+Kevin Abarca es un estudiante de 19 aÃ±os que reside en San Juan de Lurigancho. Ha acudido a servicios de tÃ©cnicos para reparar su celular en varias ocasiones. La primera vez, fue por un problema en la cÃ¡mara, y el tÃ©cnico pudo reparar su celular. Sin embargo, no se sintiÃ³ satisfecho debido a la demora en la entrega del dispositivo (5 dÃ­as).  
 
-Kevin Abarca es un estudiante de 19 años que reside en San Juan de Lurigancho. Ha acudido a servicios de técnicos para reparar su celular en varias ocasiones. La primera vez, fue por un problema en la cámara, y el técnico pudo reparar su celular. Sin embargo, no se sintió satisfecho debido a la demora en la entrega del dispositivo (5 días).  
+En otras ocasiones, tuvo fallos en la baterÃ­a y acudiÃ³ a otro tÃ©cnico conocido por su servicio a travÃ©s de redes sociales. En general, ha tenido que recurrir a tÃ©cnicos tres o cuatro veces por diferentes problemas en su celular.  
 
-En otras ocasiones, tuvo fallos en la batería y acudió a otro técnico conocido por su servicio a través de redes sociales. En general, ha tenido que recurrir a técnicos tres o cuatro veces por diferentes problemas en su celular.  
+Kevin intentÃ³ solucionar problemas en su celular por su cuenta, pero empeorÃ³ la situaciÃ³n debido a la falta de conocimientos y materiales adecuados.  
 
-Kevin intentó solucionar problemas en su celular por su cuenta, pero empeoró la situación debido a la falta de conocimientos y materiales adecuados.  
+En cuanto a la atenciÃ³n de los tÃ©cnicos, la primera experiencia no cumpliÃ³ con sus expectativas, aunque el tÃ©cnico fue amable. La segunda experiencia fue mejor debido a la reputaciÃ³n del tÃ©cnico en redes sociales. No tuvo que hacer filas para ser atendido.  
 
-En cuanto a la atención de los técnicos, la primera experiencia no cumplió con sus expectativas, aunque el técnico fue amable. La segunda experiencia fue mejor debido a la reputación del técnico en redes sociales. No tuvo que hacer filas para ser atendido.  
+Uno de los tÃ©cnicos le pidiÃ³ que dejara su celular por un dÃ­a, pero no cumpliÃ³ con el tiempo establecido y Kevin tuvo que esperar 5 dÃ­as para recuperarlo.  
 
-Uno de los técnicos le pidió que dejara su celular por un día, pero no cumplió con el tiempo establecido y Kevin tuvo que esperar 5 días para recuperarlo.  
+El costo promedio de reparaciÃ³n de su celular es de 150 soles, y considera que este precio es justo, especialmente cuando el tÃ©cnico en Polvos Azules pudo devolverle el celular el mismo dÃ­a.  
 
-El costo promedio de reparación de su celular es de 150 soles, y considera que este precio es justo, especialmente cuando el técnico en Polvos Azules pudo devolverle el celular el mismo día.  
+Kevin conoce a un amigo que tuvo problemas con la reparaciÃ³n de la pantalla de su celular debido a que el tÃ©cnico la colocÃ³ incorrectamente y le cobrÃ³ extra por corregirlo.  
 
-Kevin conoce a un amigo que tuvo problemas con la reparación de la pantalla de su celular debido a que el técnico la colocó incorrectamente y le cobró extra por corregirlo.  
+A la hora de elegir un tÃ©cnico, Kevin toma en cuenta la reputaciÃ³n del tÃ©cnico, el tiempo estimado de reparaciÃ³n y las recomendaciones de amigos.  
 
-A la hora de elegir un técnico, Kevin toma en cuenta la reputación del técnico, el tiempo estimado de reparación y las recomendaciones de amigos.  
-
-En relación con el proyecto de la aplicación web, Kevin no ha escuchado de aplicaciones similares. Cree que la aplicación podría solucionar las malas experiencias con técnicos si los técnicos ofrecen un excelente servicio. Le gustaría que la aplicación incluyera una forma de comunicación entre el cliente y el técnico, así como la posibilidad de que los técnicos establezcan sus propios precios y tiempos de reparación.  
+En relaciÃ³n con el proyecto de la aplicaciÃ³n web, Kevin no ha escuchado de aplicaciones similares. Cree que la aplicaciÃ³n podrÃ­a solucionar las malas experiencias con tÃ©cnicos si los tÃ©cnicos ofrecen un excelente servicio. Le gustarÃ­a que la aplicaciÃ³n incluyera una forma de comunicaciÃ³n entre el cliente y el tÃ©cnico, asÃ­ como la posibilidad de que los tÃ©cnicos establezcan sus propios precios y tiempos de reparaciÃ³n.  
 
 <div style="text-align: center;">
 
@@ -191,43 +182,40 @@ En relación con el proyecto de la aplicación web, Kevin no ha escuchado de aplic
 
 </div>
 
-Datos Demográficos:  
+Datos DemogrÃ¡ficos:  
 
 - Nombre: Brenda Lluyacc  
-- Edad: 19 años  
-- Ocupación: Estudiante de Marketing y asistente de ventas en Ripley  
+- Edad: 19 aÃ±os  
+- OcupaciÃ³n: Estudiante de Marketing y asistente de ventas en Ripley  
 - Distrito de Residencia: San Juan de Miraflores  
 
-
-Duración de la entrevista: [00:10:57 - 00:33:25]
-
+DuraciÃ³n de la entrevista: [00:10:57 - 00:33:25]
 
 #### Preguntas principales:
 
-Brenda Lluyacc es una estudiante de 19 años que reside en San Juan de Miraflores y trabaja como asistente de ventas en Ripley. Ha acudido una vez a los servicios de un técnico para reparar su celular debido a un fallo en los botones de volumen y apagado. En esa ocasión, el técnico pudo reparar su celular, y Brenda se sintió satisfecha con la atención recibida.  
+Brenda Lluyacc es una estudiante de 19 aÃ±os que reside en San Juan de Miraflores y trabaja como asistente de ventas en Ripley. Ha acudido una vez a los servicios de un tÃ©cnico para reparar su celular debido a un fallo en los botones de volumen y apagado. En esa ocasiÃ³n, el tÃ©cnico pudo reparar su celular, y Brenda se sintiÃ³ satisfecha con la atenciÃ³n recibida.  
 
-Aunque no ha tenido el mismo problema nuevamente, menciona que si ocurriera volvería a acudir a un técnico. No ha intentado solucionar problemas por su cuenta debido a la falta de conocimiento.  
+Aunque no ha tenido el mismo problema nuevamente, menciona que si ocurriera volverÃ­a a acudir a un tÃ©cnico. No ha intentado solucionar problemas por su cuenta debido a la falta de conocimiento.  
 
-La atención que ha recibido de los técnicos ha sido la que esperaba, y nunca tuvo que hacer fila, ya que la atención fue inmediata.  
+La atenciÃ³n que ha recibido de los tÃ©cnicos ha sido la que esperaba, y nunca tuvo que hacer fila, ya que la atenciÃ³n fue inmediata.  
 
-En cuanto a los plazos de reparación, menciona que en su caso el problema se solucionó en cuestión de minutos. Sin embargo, estaría dispuesta a dejar su celular por un máximo de dos días en caso de que fuera necesario. Si el técnico no cumpliera con el tiempo acordado, se sentiría insatisfecha y perdería confianza en ese técnico.  
+En cuanto a los plazos de reparaciÃ³n, menciona que en su caso el problema se soluciÃ³n en cuestiÃ³n de minutos. Sin embargo, estarÃ­a dispuesta a dejar su celular por un mÃ¡ximo de dos dÃ­as en caso de que fuera necesario. Si el tÃ©cnico no cumpliera con el tiempo acordado, se sentirÃ­a insatisfecha y perderÃ­a confianza en ese tÃ©cnico.  
 
-El costo promedio de reparación de su celular fue de 20 soles, y le pareció justo, especialmente en comparación con lo que otros familiares han pagado por problemas similares.  
+El costo promedio de reparaciÃ³n de su celular fue de 20 soles, y le pareciÃ³ justo, especialmente en comparaciÃ³n con lo que otros familiares han pagado por problemas similares.  
 
-No le brindaron garantía después de la reparación de su celular.  
+No le brindaron garantÃ­a despuÃ©s de la reparaciÃ³n de su celular.  
 
-Brenda no conoce a ningún familiar que haya tenido problemas con su equipo después de que un técnico lo haya reparado.  
+Brenda no conoce a ningÃºn familiar que haya tenido problemas con su equipo despuÃ©s de que un tÃ©cnico lo haya reparado.  
 
-A la hora de elegir un técnico, Brenda se basa en las experiencias de sus familiares, especialmente en las de sus padres, quienes le mencionan qué lugar y técnico es el mejor para ellos.  
+A la hora de elegir un tÃ©cnico, Brenda se basa en las experiencias de sus familiares, especialmente en las de sus padres, quienes le mencionan quÃ© lugar y tÃ©cnico es el mejor para ellos.  
 
-Respecto al proyecto de la aplicación web, Brenda no ha escuchado de ninguna aplicación que ofrezca los mismos beneficios para usuarios y técnicos.  
+Respecto al proyecto de la aplicaciÃ³n web, Brenda no ha escuchado de ninguna aplicaciÃ³n que ofrezca los mismos beneficios para usuarios y tÃ©cnicos.  
 
-Cree que la aplicación podría solucionar sus malas experiencias anteriores, especialmente por la falta de garantía en las reparaciones. Usaría la aplicación debido a la mayor confianza que tendría al acudir a un técnico a través de ella.  
+Cree que la aplicaciÃ³n podrÃ­a solucionar sus malas experiencias anteriores, especialmente por la falta de garantÃ­a en las reparaciones. UsarÃ­a la aplicaciÃ³n debido a la mayor confianza que tendrÃ­a al acudir a un tÃ©cnico a travÃ©s de ella.  
 
-Brenda sugiere que la aplicación permita agregar fotos en el apartado de comentarios para que otros usuarios puedan ver el trabajo realizado por el técnico.  
+Brenda sugiere que la aplicaciÃ³n permita agregar fotos en el apartado de comentarios para que otros usuarios puedan ver el trabajo realizado por el tÃ©cnico.  
 
-
-#### Entrevista de técnico
+#### Entrevista de tÃ©cnico
 
 <div style="text-align: center;">
 
@@ -236,54 +224,50 @@ Brenda sugiere que la aplicación permita agregar fotos en el apartado de comenta
 [![Ver entrevista](../assets/img/chapter-II/interview4.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EaUio6iZZUdCnW4X7Qq_uh0BaS9_Qu8-4Bw-d21mnGRjYA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=bO8ZhM)
 
 
-
 </div>
 
-Datos Demográficos:  
+Datos DemogrÃ¡ficos:  
 
-- Nombre: George Galvan  
-- Edad: 20 años  
+- Nombre: George GalvÃ¡n  
+- Edad: 20 aÃ±os  
 - Distrito de Residencia: Surco  
 
-
-Duración de la entrevista: [00:33:25 - 00:44:05]
-
+DuraciÃ³n de la entrevista: [00:33:25 - 00:44:05]
 
 
 #### Preguntas principales:
 
-George Galvan, de 20 años y residente de Surco, es un técnico en reparación de celulares que trabaja junto a un compañero. Atienden a aproximadamente 60 personas al día y gestionan su tiempo para atender a los clientes de manera efectiva, especialmente durante campañas.  
+George GalvÃ¡n, de 20 aÃ±os y residente de Surco, es un tÃ©cnico en reparaciÃ³n de celulares que trabaja junto a un compaÃ±ero. Atienden a aproximadamente 60 personas al dÃ­a y gestionan su tiempo para atender a los clientes de manera efectiva, especialmente durante campaÃ±as.  
 
 George organiza las piezas de los celulares en una bandeja para diferenciar los diferentes tipos de accesorios y facilitar su trabajo.  
 
-Los problemas más comunes que encuentra en los celulares de los clientes están relacionados con la batería y la suciedad en la entrada del dispositivo.  
+Los problemas mÃ¡s comunes que encuentra en los celulares de los clientes estÃ¡n relacionados con la baterÃ­a y la suciedad en la entrada del dispositivo.  
 
-Los trabajos más complicados y tediosos involucran desarmar completamente la arquitectura del celular y sacar cada componente.  
+Los trabajos mÃ¡s complicados y tediosos involucran desarmar completamente la arquitectura del celular y sacar cada componente.  
 
-Gestiona el tiempo de reparación según la dificultad, con reparaciones fáciles tomando entre 15 y 20 minutos, y cambios más exhaustivos, como el reemplazo de baterías y pantallas, que pueden llevar hasta 1 hora.  
+Gestiona el tiempo de reparaciÃ³n segÃºn la dificultad, con reparaciones fÃ¡ciles tomando entre 15 y 20 minutos, y cambios mÃ¡s exhaustivos, como el reemplazo de baterÃ­as y pantallas, que pueden llevar hasta 1 hora.  
 
-Los precios de reparación varían según la dificultad de la tarea, comenzando desde 10 nuevos soles para problemas básicos y llegando a alrededor de 100 nuevos soles para reparaciones más complicadas.  
+Los precios de reparaciÃ³n varÃ­an segÃºn la dificultad de la tarea, comenzando desde 10 nuevos soles para problemas bÃ¡sicos y llegando a alrededor de 100 nuevos soles para reparaciones mÃ¡s complicadas.  
 
-Acepta métodos de pago como carteras digitales, tarjetas de débito/crédito y efectivo.  
+Acepta mÃ©todos de pago como carteras digitales, tarjetas de dÃ©bito/crÃ©dito y efectivo.  
 
-George se esfuerza por brindar la mejor atención posible a cada cliente, adaptando su trato según las necesidades y actitudes de los clientes.  
+George se esfuerza por brindar la mejor atenciÃ³n posible a cada cliente, adaptando su trato segÃºn las necesidades y actitudes de los clientes.  
 
-Cuando un cliente no está satisfecho, se esfuerza por resolver el problema de manera inmediata y, en casos de error técnico, devuelve la mitad del dinero de la reparación.  
+Cuando un cliente no estÃ¡ satisfecho, se esfuerza por resolver el problema de manera inmediata y, en casos de error tÃ©cnico, devuelve la mitad del dinero de la reparaciÃ³n.  
 
 La confianza de los clientes se basa en recomendaciones y la calidad del servicio en el centro de Lima.  
 
-Los factores que considera clave para que un técnico sea más solicitado que otro incluyen la comunicación efectiva y la capacidad de explicar las reparaciones de manera práctica.  
+Los factores que considera clave para que un tÃ©cnico sea mÃ¡s solicitado que otro incluye la comunicaciÃ³n efectiva y la capacidad de explicar las reparaciones de manera prÃ¡ctica.  
 
-En su experiencia, ser un técnico honesto y ofrecer buenos precios y calidad de servicio es rentable.  
+En su experiencia, ser un tÃ©cnico honesto y ofrecer buenos precios y calidad de servicio es rentable.  
 
 George disfruta su trabajo y se siente feliz haciendo lo que hace.  
 
-En cuanto al proyecto de la aplicación web, George ha escuchado que los servicios se comparten en páginas de Facebook, pero no ha escuchado de una aplicación web que ofrezca servicios similares.  
+En cuanto al proyecto de la aplicaciÃ³n web, George ha escuchado que los servicios se comparten en pÃ¡ginas de Facebook, pero no ha escuchado de una aplicaciÃ³n web que ofrezca servicios similares.  
 
-Cree que la aplicación podría solucionar las malas experiencias relacionadas con estafas en el servicio de reparación de celulares.  
+Cree que la aplicaciÃ³n podrÃ­a solucionar las malas experiencias relacionadas con estafas en el servicio de reparaciÃ³n de celulares.  
 
-George sugiere agregar una función de reseñas para los técnicos en la aplicación y destacarlas en el perfil del técnico.  
-
+George sugiere agregar una funciÃ³n de reseÃ±as para los tÃ©cnicos en la aplicaciÃ³n y destacarlas en el perfil del tÃ©cnico.  
 
 <div style="text-align: center;">
 
@@ -292,168 +276,162 @@ George sugiere agregar una función de reseñas para los técnicos en la aplicación
 [![Ver entrevista](../assets/img/chapter-II/interview5.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/EaUio6iZZUdCnW4X7Qq_uh0BaS9_Qu8-4Bw-d21mnGRjYA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=bO8ZhM)
 
 
-
 </div>
 
-Datos Demográficos:  
+Datos DemogrÃ¡ficos:  
 
 Nombre: Luis Ramos  
-Edad: 24 años   
+Edad: 24 aÃ±os   
 Distrito de Residencia: La Victoria  
 
-Duración de la entrevista: [00:44:05 - 00:52:09]
-
+DuraciÃ³n de la entrevista: [00:44:05 - 00:52:09]
 
 ### Preguntas principales:  
-Luis Ramos, de 24 años y residente en La Victoria, es un técnico en reparación de celulares que trabaja solo en su negocio, atendiendo aproximadamente de 15 a 20 personas al día.  
+Luis Ramos, de 24 aÃ±os y residente en La Victoria, es un tÃ©cnico en reparaciÃ³n de celulares que trabaja solo en su negocio, atendiendo aproximadamente de 15 a 20 personas al dÃ­a.  
 
-Luis menciona que a veces tiene dificultades para gestionar su tiempo ya que es el único trabajador, y muchas personas vienen a su tienda.  
+Luis menciona que a veces tiene dificultades para gestionar su tiempo ya que es el Ãºnico trabajador, y muchas personas vienen a su tienda.  
 
-Para gestionar las piezas de repuesto, intercambia accesorios con otros técnicos que también tienen tiendas en la misma área.  
+Para gestionar las piezas de repuesto, intercambia accesorios con otros tÃ©cnicos que tambiÃ©n tienen tiendas en la misma Ã¡rea.  
 
-Los problemas más comunes que enfrenta en los celulares de los clientes son la ruptura de pantallas y el desgaste físico de las baterías.  
+Los problemas mÃ¡s comunes que enfrenta en los celulares de los clientes son la ruptura de pantallas y el desgaste fÃ­sico de las baterÃ­as.  
 
-Considera que el cambio de pantalla es una de las reparaciones más tediosas, ya que a menudo surgen problemas adicionales que no son visibles a simple vista.  
+Considera que el cambio de pantalla es una de las reparaciones mÃ¡s tediosas, ya que a menudo surgen problemas adicionales que no son visibles a simple vista.  
 
-Gestiona el tiempo de reparación según la complejidad del trabajo, variando entre 15 minutos y 1 hora en casos extremos.  
+Gestiona el tiempo de reparaciÃ³n segÃºn la complejidad del trabajo, variando entre 15 minutos y 1 hora en casos extremos.  
 
-Los precios de reparación dependen de las piezas de repuesto utilizadas y Luis se esfuerza por ofrecer precios justos para atraer a los clientes.  
+Los precios de reparaciÃ³n dependen de las piezas de repuesto utilizadas y Luis se esfuerza por ofrecer precios justos para atraer a los clientes.  
 
-Acepta varios métodos de pago, incluyendo carteras digitales, tarjetas de crédito/débito y efectivo.  
+Acepta varios mÃ©todos de pago, incluyendo carteras digitales, tarjetas de crÃ©dito/dÃ©bito y efectivo.  
 
-Siempre trata de brindar una buena atención a sus clientes, siendo amable y transparente sobre los problemas de reparación.  
+Siempre trata de brindar una buena atenciÃ³n a sus clientes, siendo amable y transparente sobre los problemas de reparaciÃ³n.  
 
-Cuando un cliente no está satisfecho, prioriza la empatía y trata de resolver cualquier problema que se presente.  
+Cuando un cliente no estÃ¡ satisfecho, prioriza la empatÃ­a y trata de resolver cualquier problema que se presente.  
 
-Luis garantiza la seguridad de los equipos entregando una tarjeta de recomendación y manteniendo su puesto de trabajo físico y permanente.  
+Luis garantiza la seguridad de los equipos entregando una tarjeta de recomendaciÃ³n y manteniendo su puesto de trabajo fÃ­sico y permanente.  
 
-Considera que los factores clave para que un técnico sea solicitado son los precios bajos y las recomendaciones entre clientes.  
+Considera que los factores clave para que un tÃ©cnico sea solicitado son los precios bajos y las recomendaciones entre clientes.  
 
-En su experiencia, ser un técnico es rentable, incluso como una sola persona ejerciendo esta profesión.  
+En su experiencia, ser un tÃ©cnico es rentable, incluso como una sola persona ejerciendo esta profesiÃ³n.  
 
-Luis disfruta de su trabajo, especialmente las reparaciones en dispositivos móviles.  
+Luis disfruta de su trabajo, especialmente las reparaciones en dispositivos mÃ³viles.  
 
-En cuanto al proyecto de la aplicación web, no ha escuchado de ninguna aplicación similar a la propuesta.  
+En cuanto al proyecto de la aplicaciÃ³n web, no ha escuchado de ninguna aplicaciÃ³n similar a la propuesta.  
 
-Cree que la aplicación podría solucionar las malas experiencias de los usuarios al proporcionar opiniones y recomendaciones.  
+Cree que la aplicaciÃ³n podrÃ­a solucionar las malas experiencias de los usuarios al proporcionar opiniones y recomendaciones.  
 
-Luis recomienda implementar la venta de celulares y accesorios en la aplicación para beneficiar a otros técnicos que también venden estos productos.  
+Luis recomienda implementar la venta de celulares y accesorios en la aplicaciÃ³n para beneficiar a otros tÃ©cnicos que tambiÃ©n venden estos productos.  
 
-### 2.2.3. Análisis de entrevistas
+### 2.2.3. AnÃ¡lisis de entrevistas
 
 #### Segmento objetivo usuarios:  
 
-Análisis de las Entrevistas  
-En base a las tres entrevistas realizadas, se pueden identificar algunas características y tendencias comunes en la experiencia de los usuarios al buscar servicios de reparación de celulares. Aquí se presenta un análisis de cada segmento objetivo:
+AnÃ¡lisis de las Entrevistas  
+En base a las tres entrevistas realizadas, se pueden identificar algunas caracterÃ­sticas y tendencias comunes en la experiencia de los usuarios al buscar servicios de reparaciÃ³n de celulares. AquÃ­ se presenta un anÃ¡lisis de cada segmento objetivo:
 
 Entrevista 1:   
-Abelardo Huañec Chirinos   
-Edad: 20 años.  
-Ocupación: Estudiante de Ingeniería Industrial.  
+Abelardo HuaÃ±ec Chirinos   
+Edad: 20 aÃ±os.  
+OcupaciÃ³n: Estudiante de IngenierÃ­a Industrial.  
 Distrito de Residencia: San Juan de Miraflores.  
 
 Principales Conclusiones:  
-Abelardo ha acudido a un técnico para reparar su celular debido a un problema en la pantalla.  Aunque el técnico pudo reparar el celular, la reparación no duró mucho tiempo, lo que resultó en una experiencia insatisfactoria.  Ha experimentado el mismo fallo en su celular y no ha vuelto a enviarlo al mismo técnico ni a otro.  Su experiencia negativa anterior influyó en su decisión.No intentó solucionar el problema por su cuenta debido a la falta de conocimientos.  La atención de los técnicos no cumplió con sus expectativas, pero no tuvo que esperar en filas para ser atendido.  No se le ofreció garantía después de la reparación.  El costo promedio de reparación fue de aproximadamente 130 soles, y le pareció justo.  Su elección de técnico se basaría en recomendaciones de familiares, amigos o personas conocedoras del tema.  
+Abelardo ha acudido a un tÃ©cnico para reparar su celular debido a un problema en la pantalla.  Aunque el tÃ©cnico pudo reparar el celular, la reparaciÃ³n no durÃ³ mucho tiempo, lo que resultÃ³ en una experiencia insatisfactoria.  Ha experimentado el mismo fallo en su celular y no ha vuelto a enviarlo al mismo tÃ©cnico ni a otro.  Su experiencia negativa anterior influyÃ³ en su decisiÃ³n. No intentÃ³ solucionar el problema por su cuenta debido a la falta de conocimientos.  La atenciÃ³n de los tÃ©cnicos no cumpliÃ³ con sus expectativas, pero no tuvo que esperar en filas para ser atendido.  No se le ofreciÃ³ garantÃ­a despuÃ©s de la reparaciÃ³n.  El costo promedio de reparaciÃ³n fue de aproximadamente 130 soles, y le pareciÃ³ justo.  Su elecciÃ³n de tÃ©cnico se basarÃ­a en recomendaciones de familiares, amigos o personas conocedoras del tema.  
 
 Entrevista 2:  
 Kevin Abarca  
-Edad: 19 años.  
-Ocupación: Estudiante en la UPC (quinto ciclo).  
+Edad: 19 aÃ±os.  
+OcupaciÃ³n: Estudiante en la UPC (quinto ciclo).  
 Distrito de Residencia: San Juan de Lurigancho.  
 
 Principales Conclusiones:  
-Kevin ha acudido a un técnico para reparar la cámara de su celular y, en otra ocasión, para problemas con la batería. La primera experiencia fue satisfactoria, pero la segunda no lo fue debido a la demora en la entrega.  No intentó solucionar el problema por su cuenta.  La atención del técnico en la primera experiencia cumplió con sus expectativas, y no tuvo que esperar en filas.  En la segunda experiencia, el técnico le pidió que dejara su celular por un día, pero no cumplió con el tiempo establecido, lo que afectó su satisfacción.  El costo promedio de reparación fue de 150 soles, y Kevin lo consideró justo.  No se le ofreció garantía después de la reparación.  Conoce a un amigo que tuvo problemas con un técnico que no colocó correctamente una nueva pantalla y le cobró extra por corregir el error.  Su elección de técnico se basa en la reputación del técnico, el tiempo estimado de reparación y las recomendaciones de amigos.
+Kevin ha acudido a un tÃ©cnico para reparar la cÃ¡mara de su celular y, en otra ocasiÃ³n, para problemas con la baterÃ­a. La primera experiencia fue satisfactoria, pero la segunda no lo fue debido a la demora en la entrega.  No intentÃ³ solucionar el problema por su cuenta.  La atenciÃ³n del tÃ©cnico en la primera experiencia cumpliÃ³ con sus expectativas, y no tuvo que esperar en filas.  En la segunda experiencia, el tÃ©cnico le pidiÃ³ que dejara su celular por un dÃ­a, pero no cumpliÃ³ con el tiempo establecido, lo que afectÃ³ su satisfacciÃ³n.  El costo promedio de reparaciÃ³n fue de 150 soles, y Kevin lo considerÃ³ justo.  No se le ofreciÃ³ garantÃ­a despuÃ©s de la reparaciÃ³n.  Conoce a un amigo que tuvo problemas con un tÃ©cnico que no colocÃ³ correctamente una nueva pantalla y le cobrÃ³ extra por corregir el error.  Su elecciÃ³n de tÃ©cnico se basa en la reputaciÃ³n del tÃ©cnico, el tiempo estimado de reparaciÃ³n y las recomendaciones de amigos.
 
 Entrevista 3:   
 Brenda Lliuyacc  
-Edad: 19 años.  
-Ocupación: Estudiante de Marketing y asistente de ventas en Ripley.  
+Edad: 19 aÃ±os.  
+OcupaciÃ³n: Estudiante de Marketing y asistente de ventas en Ripley.  
 Distrito de Residencia: San Juan de Miraflores.  
 
 Principales Conclusiones:
-Brenda ha acudido una vez a un técnico para reparar los botones de su celular y quedó satisfecha con la atención.  No intentó solucionar el problema por su cuenta debido a la falta de conocimientos.  La atención del técnico cumplió con sus expectativas, y no tuvo que esperar en filas.  No se le pidió dejar su celular por un período prolongado.  El costo de reparación fue de 20 soles, y Brenda lo consideró justo.  No se le brindó garantía después de la reparación.  No conoce a familiares que hayan tenido accidentes con sus equipos después de la reparación.  Su elección de técnico se basa en las experiencias de sus familiares y las recomendaciones de amigos.
+Brenda ha acudido una vez a un tÃ©cnico para reparar los botones de su celular y quedÃ³ satisfecha con la atenciÃ³n.  No intentÃ³ solucionar el problema por su cuenta debido a la falta de conocimientos.  La atenciÃ³n del tÃ©cnico cumpliÃ³ con sus expectativas, y no tuvo que esperar en filas.  No se le pidiÃ³ dejar su celular por un perÃ­odo prolongado.  El costo de reparaciÃ³n fue de 20 soles, y Brenda lo considerÃ³ justo.  No se le brindÃ³ garantÃ­a despuÃ©s de la reparaciÃ³n.  No conoce a familiares que hayan tenido accidentes con sus equipos despuÃ©s de la reparaciÃ³n.  Su elecciÃ³n de tÃ©cnico se basa en las experiencias de sus familiares y las recomendaciones de amigos.
 
 ##### Conclusiones Generales:  
-En los tres casos, los usuarios han acudido a técnicos para reparaciones de celular, y la calidad de la atención y la satisfacción varían según la experiencia.  Los usuarios no suelen intentar solucionar los problemas por sí mismos debido a la falta de conocimientos técnicos.  La atención y la calidad del servicio del técnico son factores importantes en la elección de un técnico, así como las recomendaciones de familiares y amigos.  La falta de garantía después de la reparación es una preocupación común para los usuarios.  El precio de reparación varía, pero en general, los usuarios consideran justo el costo.  Los usuarios desean un servicio más transparente y una forma de comunicación efectiva con los técnicos.
+En los tres casos, los usuarios han acudido a tÃ©cnicos para reparaciones de celular, y la calidad de la atenciÃ³n y la satisfacciÃ³n varÃ­an segÃºn la experiencia.  Los usuarios no suelen intentar solucionar los problemas por sÃ­ mismos debido a la falta de conocimientos tÃ©cnicos.  La atenciÃ³n y la calidad del servicio del tÃ©cnico son factores importantes en la elecciÃ³n de un tÃ©cnico, asÃ­ como las recomendaciones de familiares y amigos.  La falta de garantÃ­a despuÃ©s de la reparaciÃ³n es una preocupaciÃ³n comÃºn para los usuarios.  El precio de reparaciÃ³n varÃ­a, pero en general, los usuarios consideran justo el costo.  Los usuarios desean un servicio mÃ¡s transparente y una forma de comunicaciÃ³n efectiva con los tÃ©cnicos.
 
-#### Estadística general del sector objetivo:  
-Porcentaje de usuarios que han acudido a técnicos para reparar celulares: 100%.  
-Satisfacción promedio con la atención del técnico: 50% satisfecho, 50% insatisfecho.  
-Porcentaje de usuarios que intentaron solucionar el problema por sí mismos: 0%.  
-Porcentaje de usuarios que usan recomendaciones para elegir un técnico: 100%.  
-Porcentaje de usuarios a los que no se les ofreció garantía después de la reparación: 100%.  
-Rango de costo promedio de reparación: 20 a 150 soles.  
-Porcentaje de usuarios que no conocen una aplicación web similar: 100%.  
-Principales mejoras deseadas en la aplicación: Comunicación con el técnico, transparencia en precios y tiempos de reparación, publicación de fotos en comentarios.  
+#### EstadÃ­stica general del sector objetivo:  
+Porcentaje de usuarios que han acudido a tÃ©cnicos para reparar celulares: 100%.  
+SatisfacciÃ³n promedio con la atenciÃ³n del tÃ©cnico: 50% satisfecho, 50% insatisfecho.  
+Porcentaje de usuarios que intentaron solucionar el problema por sÃ­ mismos: 0%.  
+Porcentaje de usuarios que usan recomendaciones para elegir un tÃ©cnico: 100%.  
+Porcentaje de usuarios a los que no se les ofreciÃ³ garantÃ­a despuÃ©s de la reparaciÃ³n: 100%.  
+Rango de costo promedio de reparaciÃ³n: 20 a 150 soles.  
+Porcentaje de usuarios que no conocen una aplicaciÃ³n web similar: 100%.  
+Principales mejoras deseadas en la aplicaciÃ³n: ComunicaciÃ³n con el tÃ©cnico, transparencia en precios y tiempos de reparaciÃ³n, publicaciÃ³n de fotos en comentarios.  
 
+#### Segmento objetivo tÃ©cnicos:
 
-#### Segmento objetivo técnicos:
+#### AnÃ¡lisis de las Entrevistas  
 
-#### Análisis de las Entrevistas  
+En el anÃ¡lisis de las dos entrevistas, se identificaron aspectos comunes que proporcionan una base sÃ³lida para la construcciÃ³n de arquetipos de tÃ©cnicos de reparaciÃ³n de celulares.  Estos aspectos incluyen estadÃ­sticas importantes sobre demanda de servicios, gestiÃ³n del tiempo, problemas comunes de reparaciÃ³n, mÃ©todos de pago, atenciÃ³n al cliente y opiniones sobre la aplicaciÃ³n propuesta.  Estos datos cuantitativos y cualitativos ayudarÃ¡n a diseÃ±ar perfiles de tÃ©cnicos mÃ¡s realistas y a adaptar la aplicaciÃ³n para abordar las necesidades y desafÃ­os especÃ­ficos de estos profesionales.
 
-En el análisis de las dos entrevistas, se identificaron aspectos comunes que proporcionan una base sólida para la construcción de arquetipos de técnicos de reparación de celulares.  Estos aspectos incluyen estadísticas importantes sobre demanda de servicios, gestión del tiempo, problemas comunes de reparación, métodos de pago, atención al cliente y opiniones sobre la aplicación propuesta.  Estos datos cuantitativos y cualitativos ayudarán a diseñar perfiles de técnicos más realistas y a adaptar la aplicación para abordar las necesidades y desafíos específicos de estos profesionales.
+#### GestiÃ³n del Tiempo:  
+El 50% de los tÃ©cnicos menciona que la gestiÃ³n del tiempo puede ser un desafÃ­o debido a la alta demanda de clientes.  
+El 50% de los tÃ©cnicos menciona dificultades en la gestiÃ³n del tiempo, especialmente cuando trabajan solos.
 
-#### Gestión del Tiempo:  
-El 50% de los técnicos menciona que la gestión del tiempo puede ser un desafío debido a la alta demanda de clientes.  
-El 50% de los técnicos menciona dificultades en la gestión del tiempo, especialmente cuando trabajan solos.
+#### GestiÃ³n de Piezas de Repuesto:  
+El 50% de los tÃ©cnicos menciona que gestionan las piezas de repuesto en bandejas para facilitar la organizaciÃ³n.  
+El 50% de los tÃ©cnicos intercambia piezas de repuesto con otros tÃ©cnicos en la misma Ã¡rea.
 
-#### Gestión de Piezas de Repuesto:  
-El 50% de los técnicos menciona que gestionan las piezas de repuesto en bandejas para facilitar la organización.  
-El 50% de los técnicos intercambia piezas de repuesto con otros técnicos en la misma área.
-
-#### Problemas Comunes de Reparación:  
-El 100% de los técnicos menciona problemas comunes como la batería y la rotura de pantallas en los dispositivos móviles.
+#### Problemas Comunes de ReparaciÃ³n:  
+El 100% de los tÃ©cnicos menciona problemas comunes como la baterÃ­a y la rotura de pantallas en los dispositivos mÃ³viles.
 Reparaciones Tediosas:  
-El 100% de los técnicos encuentra tedioso el cambio de pantalla, ya que a menudo presenta problemas adicionales.
+El 100% de los tÃ©cnicos encuentra tedioso el cambio de pantalla, ya que a menudo presenta problemas adicionales.
 
-#### Tiempo de Reparación:  
-El tiempo de reparación varía desde 15 minutos hasta 1 hora, según la complejidad.
+#### Tiempo de ReparaciÃ³n:  
+El tiempo de reparaciÃ³n varia desde 15 minutos hasta 1 hora, segÃºn la complejidad.
 
-#### Precios de Reparación:  
-Los precios de reparación oscilan desde 10 hasta 150 nuevos soles, dependiendo de la dificultad de la reparación.
+#### Precios de ReparaciÃ³n:  
+Los precios de reparaciÃ³n oscilan desde 10 hasta 150 nuevos soles, dependiendo de la dificultad de la reparaciÃ³n.
 
-#### Métodos de Pago:  
-El 100% de los técnicos acepta métodos de pago como carteras digitales, tarjetas de crédito/débito y efectivo.
+#### MÃ©todos de Pago:  
+El 100% de los tÃ©cnicos acepta mÃ©todos de pago como carteras digitales, tarjetas de crÃ©dito/dÃ©bito y efectivo.
 
-#### Atención al Cliente:  
-El 100% de los técnicos se esfuerza por ofrecer la mejor atención posible a los clientes.
+#### AtenciÃ³n al Cliente:  
+El 100% de los tÃ©cnicos se esfuerza por ofrecer la mejor atenciÃ³n posible a los clientes.
 
-#### Gestión de Conflictos:  
-El 100% de los técnicos muestra empatía y busca soluciones cuando los clientes no están satisfechos.
+#### GestiÃ³n de Conflictos:  
+El 100% de los tÃ©cnicos muestra empatÃ­a y busca soluciones cuando los clientes no estÃ¡n satisfechos.
 
+#### ComunicaciÃ³n Efectiva:  
+El 100% de los tÃ©cnicos considera que la comunicaciÃ³n efectiva con los clientes es esencial para ser solicitado mÃ¡s que otros tÃ©cnicos.
 
-#### Comunicación Efectiva:  
-El 100% de los técnicos considera que la comunicación efectiva con los clientes es esencial para ser solicitado más que otros técnicos.
+#### Rentabilidad como TÃ©cnico:  
+El 100% de los tÃ©cnicos considera que ser tÃ©cnico es rentable si se ofrece un buen precio y calidad de servicio.
 
-#### Rentabilidad como Técnico:  
-El 100% de los técnicos considera que ser técnico es rentable si se ofrece un buen precio y calidad de servicio.
-
-#### Opiniones sobre la Aplicación Propuesta:  
-El 100% de los técnicos no ha escuchado de una aplicación web que ofrezca servicios similares a la propuesta.  
-El 100% de los técnicos cree que la aplicación podría solucionar problemas comunes, especialmente en relación con estafas.  
-El 50% de los técnicos sugiere la posibilidad de incluir una función de reseñas destacadas en los perfiles de técnicos.  
-El 50% de los técnicos sugiere la venta de celulares y accesorios en la aplicación como una función adicional.
+#### Opiniones sobre la AplicaciÃ³n Propuesta:  
+El 100% de los tÃ©cnicos no ha escuchado de una aplicaciÃ³n web que ofrezca servicios similares a la propuesta.  
+El 100% de los tÃ©cnicos cree que la aplicaciÃ³n podrÃ­a solucionar problemas comunes, especialmente en relaciÃ³n con estafas.  
+El 50% de los tÃ©cnicos sugiere la posibilidad de incluir una funciÃ³n de reseÃ±as destacadas en los perfiles de tÃ©cnicos.  
+El 50% de los tÃ©cnicos sugiere la venta de celulares y accesorios en la aplicaciÃ³n como una funciÃ³n adicional.
 
 ## 2.3. Needfinding
 
-En este apartado se mostrarán los artefactos resultantes del proceso de recolección que se realizó en los segmentos objetivos y que concluye con la construcción del User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
+En este apartado se mostrarÃ¡n los artefactos resultantes del proceso de recolecciÃ³n que se realizÃ³ en los segmentos objetivos y que concluye con la construcciÃ³n del User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
 
 ### 2.3.1. User Persona
 
-En esta parte del documento, se presentan perfiles ficticios que personifican a los grupos de interés identificados y que han sido objeto de entrevistas. Los datos proporcionados abarcan información demográfica, características de personalidad, motivaciones, preferencias, objetivos, desafíos y patrones de conducta. Estos detalles están respaldados por las entrevistas realizadas anteriormente. Se han empleado herramientas disponibles en UXPressia para facilitar la creación de estos artefactos.
+En esta parte del documento, se presentan perfiles ficticios que personifican a los grupos de interÃ©s identificados y que han sido objeto de entrevistas. Los datos proporcionados abarcan informaciÃ³n demogrÃ¡fica, caracterÃ­sticas de personalidad, motivaciones, preferencias, objetivos, desafÃ­os y patrones de conducta. Estos detalles estÃ¡n respaldados por las entrevistas realizadas anteriormente. Se han empleado herramientas disponibles en UXPressia para facilitar la creaciÃ³n de estos artefactos.
 
-#### User Empathy Mapping: Técnico
-![User Empathy Mapping: Técnico](../assets/img/chapter-II/Tecnico.png)
+#### User Empathy Mapping: TÃ©cnico
+![User Empathy Mapping: TÃ©cnico](../assets/img/chapter-II/Tecnico.png)
 
 #### User Empathy Mapping: Cliente
 
 ![User Empathy Mapping: Cliente](../assets/img/chapter-II/Cliente.png)
 
-
 ### 2.3.2. User Task Matrix
 
 En el User Task Matrix hemos identificado las actividades que realizan nuestros dos segmentos e identificamos la importancia de cada una de estas tareas para cada segmento. 
-
 
 
 Indicadores de importancia:
@@ -463,7 +441,6 @@ Indicadores de importancia:
 
 Indicadores de frecuencia:
 
-
 | SIEMPRE | RARA VEZ | NUNCA |
 |------|------|-------|      
                      
@@ -472,7 +449,7 @@ Indicadores de frecuencia:
         <tr>
             <th>Segmento objetivo</th>
             <th colspan="2">Silvia Salazar - Cliente</th>
-            <th colspan="2">Angel Garcia Soto - Técnico</th>
+            <th colspan="2">Angel Garcia Soto - TÃ©cnico</th>
         </tr>
     </thead>
     <tbody>
@@ -484,21 +461,21 @@ Indicadores de frecuencia:
             <th>Importancia</th>
         </tr>
         <tr>
-            <td>Buscar un sitio con buenos técnicos</td>
+            <td>Buscar un sitio con buenos tÃ©cnicos</td>
             <td>Siempre</td>
             <td>Media</td>
             <td>Rara vez</td>
             <td>Media</td>
         </tr>
         <tr>
-            <td>Elegir un técnico confiable</td>
+            <td>Elegir un tÃ©cnico confiable</td>
             <td>Siempre</td>
             <td>Alta</td>
             <td>Nunca</td>
             <td>Media</td>
         </tr>   
         <tr>
-            <td>Considerar que componente usar para la reparación</td>
+            <td>Considerar que componente usar para la reparaciÃ³n</td>
             <td>Rara vez</td>
             <td>Media</td>
             <td>Siempre</td>
@@ -540,7 +517,7 @@ Indicadores de frecuencia:
             <td>Alta</td>
         </tr>  
         <tr>
-            <td>Determinar precio de reparación</td>
+            <td>Determinar precio de reparaciÃ³n</td>
             <td>Nunca</td>
             <td>Baja</td>
             <td>Siempre</td>
@@ -549,77 +526,76 @@ Indicadores de frecuencia:
     </tbody>
 </table>  
 
-A través del User Task Matrix podemos identificar las frecuencias e importancias entre las diferentes User Persona que presentamos y esta nos sirva de guía.  
+A travÃ©s del User Task Matrix podemos identificar las frecuencias e importancias entre las diferentes User Persona que presentamos y esta nos sirva de guÃ­a.  
 #### Clientes:
 Para los clientes las tareas que presentan mayor frecuencia son:  
-- Buscar un sitio con buenos técnicos.  
-- Elegir un técnico confiable.  
+- Buscar un sitio con buenos tÃ©cnicos.  
+- Elegir un tÃ©cnico confiable.  
 - Recoger el celular reparado.  
 
-Estos datos describen el proceso que el cliente siempre sigue cuando su teléfono móvil se avería por algún motivo. Son importantes porque detallan cómo elegir un lugar con buenos técnicos y asegurarse de que sean confiables. Al final del proceso, se trata de recoger el teléfono celular ya reparado.
+Estos datos describen el proceso que el cliente siempre sigue cuando su telÃ©fono mÃ³vil se averÃ­a por algÃºn motivo. Son importantes porque detallan cÃ³mo elegir un lugar con buenos tÃ©cnicos y asegurarse de que sean confiables. Al final del proceso, se trata de recoger el telÃ©fono celular ya reparado.
 
 Para los clientes las tareas que presentan mayor importancia son:
-- Elegir un técnico confiable.
+- Elegir un tÃ©cnico confiable.
 - Recoger el celular reparado.
-- Comprar los componente para reparar el celular.
+- Comprar los componentes para reparar el celular.
 - Determinar problema de celular.
 - Reparar celular.
 - Entregar celular a tiempo.  
 
-Estas tareas son importantes para el cliente, ya que establecen un escenario adecuado para el proceso de reparación de un teléfono móvil averiado. Incluyen la elección de un técnico confiable, la recogida del celular, la identificación del problema, la gestión de los componentes necesarios para la reparación, la correcta ejecución de la reparación y la entrega oportuna del dispositivo.
+Estas tareas son importantes para el cliente, ya que establecen un escenario adecuado para el proceso de reparaciÃ³n de un telÃ©fono mÃ³vil averiado. Incluyen la elecciÃ³n de un tÃ©cnico confiable, la recogida del celular, la identificaciÃ³n del problema, la gestiÃ³n de los componentes necesarios para la reparaciÃ³n, la correcta ejecuciÃ³n de la reparaciÃ³n y la entrega oportuna del dispositivo.
 
-#### Técnicos:
-Para los técnicos las tareas que presentan mayor frecuencia son:
-- Considerar que componente usar para la reparación.
+#### TÃ©cnicos:
+Para los tÃ©cnicos las tareas que presentan mayor frecuencia son:
+- Considerar que componente usar para la reparaciÃ³n.
 - Comprar los componentes para reparar el celular.
 - Determinar problema de celular.
 - Reparar celular.
-- Determinar precio de reparación.  
+- Determinar precio de reparaciÃ³n.  
 
-Estos datos describen el proceso que el técnico sigue para realizar la reparación del celular. Comienza por determinar el problema del celular, luego considera qué componentes deben reemplazarse y los adquiere. A continuación, lleva a cabo la reparación integral del celular y finalmente establece un precio justo para el servicio de reparación.  
+Estos datos describen el proceso que el tÃ©cnico sigue para realizar la reparaciÃ³n del celular. Comienza por determinar el problema del celular, luego considera quÃ© componentes deben reemplazarse y los adquiere. A continuaciÃ³n, lleva a cabo la reparaciÃ³n integral del celular y finalmente establece un precio justo para el servicio de reparaciÃ³n.  
 
-Para los técnicos las tareas con mayor importancia son:
-- Considerar que componente usar para la reparación.
+Para los tÃ©cnicos las tareas con mayor importancia son:
+- Considerar que componente usar para la reparaciÃ³n.
 - Recoger el celular reparado.
 - Comprar los componentes para reparar el celular.
 - Determinar problema de celular.
 - Reparar celular.
 - Entregar celular a tiempo.
-- Determinar precio de reparación.  
+- Determinar precio de reparaciÃ³n.  
 
-Estos datos indican la importancia que el técnico le otorga a las tareas rutinarias que realiza. A diferencia de las de mayor frecuencia, hay algunas que se destacan, como la entrega puntual del celular, que puede influir en una mejor experiencia del usuario al reparar su dispositivo. Esto puede llevar al cliente a regresar en caso de futuras averías y a confiar en el técnico.  
+Estos datos indican la importancia que el tÃ©cnico le otorga a las tareas rutinarias que realiza. A diferencia de las de mayor frecuencia, hay algunas que se destacan, como la entrega puntual del celular, que puede influir en una mejor experiencia del usuario al reparar su dispositivo. Esto puede llevar al cliente a regresar en caso de futuras averÃ­as y a confiar en el tÃ©cnico.  
 
 #### Diferencias:  
-Al realizar un análisis entre ambos segmentos objetivo, es evidente que el cliente busca reparar su celular mientras que el técnico se enfoca en llevar a cabo dicha reparación. Aunque siguen diferentes roles y procesos, comparten un objetivo común: lograr una reparación efectiva, en un tiempo razonable y a un precio justo. Mientras el cliente busca confianza en el servicio, el técnico busca perfeccionar su calidad de trabajo y su experiencia en la atención al usuario.  
+Al realizar un anÃ¡lisis entre ambos segmentos objetivo, es evidente que el cliente busca reparar su celular mientras que el tÃ©cnico se enfoca en llevar a cabo dicha reparaciÃ³n. Aunque siguen diferentes roles y procesos, comparten un objetivo comÃºn: lograr una reparaciÃ³n efectiva, en un tiempo razonable y a un precio justo. Mientras el cliente busca confianza en el servicio, el tÃ©cnico busca perfeccionar su calidad de trabajo y su experiencia en la atenciÃ³n al usuario.  
 
 ### 2.3.3. User Journey Mapping
 
-En esta sección, desarrollamos los User Journey Mapping para cada User Persona (cliente y técnico). El flujo comienza desde que el cliente busca un técnico para reparar su dispositivo móvil, elige un técnico, solicita información sobre la reparación, espera el proceso de la reparación y finalmente recoge el producto reparado. Esta secuencia nos muestra metas, desafíos, oportunidades y procesos clave. Por otro lado, desde la perspectiva del técnico, se busca atraer a personas que requieran sus servicios de reparación, diagnosticar el problema, proporcionar el servicio y concluir la atención con éxito, brindando una experiencia positiva para que el cliente pueda recomendar el lugar y convertirlo en un sitio confiable para la reparación de celulares.
+En esta secciÃ³n, desarrollamos los User Journey Mapping para cada User Persona (cliente y tÃ©cnico). El flujo comienza desde que el cliente busca un tÃ©cnico para reparar su dispositivo mÃ³vil, elige un tÃ©cnico, solicita informaciÃ³n sobre la reparaciÃ³n, espera el proceso de la reparaciÃ³n y finalmente recoge el producto reparado. Esta secuencia nos muestra metas, desafÃ­os, oportunidades y procesos clave. Por otro lado, desde la perspectiva del tÃ©cnico, se busca atraer a personas que requieran sus servicios de reparaciÃ³n, diagnosticar el problema, proporcionar el servicio y concluir la atenciÃ³n con Ã©xito, brindando una experiencia positiva para que el cliente pueda recomendar el lugar y convertirlo en un sitio confiable para la reparaciÃ³n de celulares.
 
 #### User Journey Mapping: Cliente
 
 ![User Journey Mapping: Cliente](../assets/img/chapter-II/cliente_journey_map.png)
 
-#### User Journey Mapping: Técnico
+#### User Journey Mapping: TÃ©cnico
 
-![User Journey Mapping: Técnico](../assets/img/chapter-II/TecnicoJourneyMap.jpeg)
-
+![User Journey Mapping: TÃ©cnico](../assets/img/chapter-II/TecnicoJourneyMap.jpeg)
 
 ### 2.3.4. Empathy Mapping
 
-En esta sección, se presenta el Empathy Mapping realizado para ambos segmentos (cliente y técnico). Esta herramienta resulta útil para crear perfiles detallados de los User Persona y desarrollar descripciones más profundas desde su perspectiva. Para cada User Persona, se incluyen elementos clave que son fundamentales para la implementación del artefacto, que incluyen lo que el usuario ve, escucha, dice, hace y siente. Además, se abordan las preocupaciones y los beneficios, analizados a partir de preguntas como: ¿Qué le preocupa? ¿Qué puede contribuir a resolver sus problemas? ¿Qué podría convencerlo de que somos la elección adecuada? ¿Qué comunica? Todo esto es de gran ayuda para crear un artefacto de fácil implementación y de vital importancia para el proceso de Needfinding.  
+En esta secciÃ³n, se presenta el Empathy Mapping realizado para ambos segmentos (cliente y tÃ©cnico). Esta herramienta resulta Ãºtil para crear perfiles detallados de los User Persona y desarrollar descripciones mÃ¡s profundas desde su perspectiva. Para cada User Persona, se incluyen elementos clave que son fundamentales para la implementaciÃ³n del artefacto, que incluyen lo que el usuario ve, escucha, dice, hace y siente. AdemÃ¡s, se abordan las preocupaciones y los beneficios, analizados a partir de preguntas como: Â¿QuÃ© le preocupa? Â¿QuÃ© puede contribuir a resolver sus problemas? Â¿QuÃ© podrÃ­a convencerlo de que somos la elecciÃ³n adecuada? Â¿QuÃ© comunica? Todo esto es de gran ayuda para crear un artefacto de fÃ¡cil implementaciÃ³n y de vital importancia para el proceso de Needfinding.  
 
 #### User Empathy Mapping: Cliente
 
 ![User Empathy Mapping: Cliente](../assets/img/chapter-II/ClienteEmpathyMap.png)
 
-#### User Empathy Mapping: Técnico
+#### User Empathy Mapping: Tï¿½cnico
 
-![User Empathy Mapping: Técnico](../assets/img/chapter-II/TecnicoEmpathyMap.png)
+![User Empathy Mapping: TÃ©cnico](../assets/img/chapter-II/TecnicoEmpathyMap.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
-En el escenario actual (As-Is), el mapeo de la experiencia del usuario comienza cuando el cliente busca a un técnico para reparar su celular, lo que puede resultar en una tarea agotadora. El usuario busca comentarios en diversas fuentes, como recomendaciones de familiares o aplicaciones de mapas, lo que a menudo añade a su carga de trabajo. Posteriormente, cuando el usuario confía su dispositivo al técnico, lo hace con cierta desconfianza e inseguridad acerca de si el técnico llevará a cabo un buen trabajo.
+En el escenario actual (As-Is), el mapeo de la experiencia del usuario comienza cuando el cliente busca a un tÃ©cnico para reparar su celular, lo que puede resultar en una tarea agotadora. El usuario busca comentarios en diversas fuentes, como recomendaciones de familiares o aplicaciones de mapas, lo que a menudo aÃ±ade a su carga de trabajo. Posteriormente, cuando el usuario confÃ­a su dispositivo al tÃ©cnico, lo hace con cierta desconfianza e inseguridad acerca de si el tÃ©cnico llevarÃ¡ a cabo un buen trabajo.
 
 <center>
 
@@ -629,11 +605,11 @@ __As-is Scenario Mapping: Usuario__ </center>
 
 <br>
 
-En el escenario actual (As-Is) del mapeo de la experiencia del técnico, comienza con la forma en que intenta destacarse en el mercado de reparación de celulares, a menudo utilizando métodos poco eficaces o lentos, lo que genera preocupación sobre si sus ventas aumentarán. Cuando el técnico recibe una consulta de reparación, siente preocupación acerca de si logrará convencer al cliente de confiarle su dispositivo. Si el técnico logra persuadir al cliente para que deje su celular, la posibilidad de que el usuario recomiende sus servicios es bastante incierta.  
+En el escenario actual (As-Is) del mapeo de la experiencia del tÃ©cnico, comienza con la forma en que intenta destacarse en el mercado de reparaciÃ³n de celulares, a menudo utilizando mÃ©todos poco eficaces o lentos, lo que genera preocupaciÃ³n sobre si sus ventas aumentaron. Cuando el tÃ©cnico recibe una consulta de reparaciÃ³n, siente preocupaciÃ³n acerca de si lograrÃ¡ convencer al cliente de confiarle su dispositivo. Si el tÃ©cnico logra persuadir al cliente para que deje su celular, la posibilidad de que el usuario recomiende sus servicios es bastante incierta.  
 
 <center> 
 
-__As-is Scenario Mapping: Tecnicos__ </center>
+__As-is Scenario Mapping: TÃ©cnicos__ </center>
 
-![As Is Scenario Mapping Tecnicos](../assets/img/chapter-II/As-is_2.jpg)
+![As Is Scenario Mapping TÃ©cnicos](../assets/img/chapter-II/As-is_2.jpg)
 
