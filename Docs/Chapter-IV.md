@@ -34,7 +34,7 @@ La elección de colores es una parte importante del diseño. Una buena elección
 
 **Color Primario Azul:**
 
-El color azul siempre hace alusión a dos cosas la tecnología y el bienestar. Con ese enfoque, damos entender al usuario de que será nuestra   aplicación web. Además se sabe que el azul genera serenidad y calma a las personas,    lo cual queremos lograr con el usuario.
+El color azul siempre hace alusión a dos cosas la tecnología y el bienestar. Con ese enfoque, damos entender al usuario de que será nuestra   aplicación web. Además se sabe que el azul genera serenidad y calma a las personas,   lo cual queremos lograr con el usuario.
 
 ![](../assets/img/chapter-IV/PrimaryColor.png)
 
@@ -46,11 +46,9 @@ Se eligió por su impacto, su tranquilidad y paz que transmite a los usuarios, p
 
 **Color estado: Rojo - (Acción inconclusa o incorrecta)**
 
-
 Se usa el rojo para este estado debido a que el usuario identificará la acción que comete de manera errónea rápidamente.
 
 ![](../assets/img/chapter-IV/RedState.png)
-
 
 **Color estado: Verde (Acción exitosa)**
 
@@ -58,15 +56,15 @@ Se consideró el verde como color de este estado debido a que el usuario     ya 
 
 ![](../assets/img/chapter-IV/GreenState.png)
 
-**Color estado: Amarillo (Advertencia de    una acción)**
+**Color estado: Amarillo (Advertencia de    una acción) **
 
-Se eligió el color amarillo para este estado debido a que siempre se ha   usado para advertir al usuario si está cometiendo una acción que afectara  a futuro las actividades que realice.
+Se eligió el color amarillo para este estado debido a que siempre se ha   usado para advertir al usuario si está cometiendo una acción que afectara a futuro las actividades que realice.
 
 ![](../assets/img/chapter-IV/YellosState.png)
 
 **Color Estado: Gris (Botón o Acción deshabilitada)**
 
-Sé usa este color gris para mostrar al usuario que la acción o botón está deshabilitada, ya que deberá completar otras posteriormente para poder así  habilitarlas.
+Sé usa este color gris para mostrar al usuario que la acción o botón está deshabilitada, ya que deberá completar otras posteriormente para poder así habilitarlas.
 
 ![](../assets/img/chapter-IV/GrayState.png)
 
@@ -108,7 +106,7 @@ Perfil de Técnico: El usuario podrá acceder y visualizar el perfil del técnic
 
 Lista de Favoritos: Los técnicos se mostrarán de manera vertical y ordenada, se podrán usar filtros para variar el orden, esto depende del usuario. De esta manera el usuario podrá elegir al técnico que le brindó un mejor servicio de manera más rápida.
 
-Bandeja de entrada: Esta bandeja se dividirá en dos, por una parte las solicitudes de servicios a técnicos se mostrarán  de manera ordenada y vertical . De igual manera las solicitudes aceptadas se mostrarán en una segunda pestaña dentro de la misma bandeja de entrada.
+Bandeja de entrada: Esta bandeja se dividirá en dos, por una parte las solicitudes de servicios a técnicos se mostrarán de manera ordenada y vertical . De igual manera las solicitudes aceptadas se mostrarán en una segunda pestaña dentro de la misma bandeja de entrada.
 
 **Secuencial:**
 
@@ -136,7 +134,7 @@ Compra de membresía: Para poder realizar la compra de la membresía el técnico
 
 Visualizar el Inventario: Para poder visualizar el inventario el técnico tendrá que dirigirse a su dashboard y seleccionar el apartado de su inventario.
 
-Cancelar membresía: Para cancelar su membresía el técnico debe dirigirse a su perfil y describirse detallando por qué ya no desea la membresía y aceptando que se le quitaran los beneficios de la misma.
+Cancelar membresía: Para cancelar su membresía el técnico debe dirigirse a su perfil y describirse detallando por qué ya no desea la membresía y aceptando que se le quitaran los beneficios de esta.
 
 **Matricial:**
 
@@ -155,7 +153,6 @@ Lista de comentarios: Los comentarios de los clientes sobre los servicios de los
 Menú: Usuario y técnico podrán visualizar un menú de opciones que varía dependiendo de si es usuario o técnico en el cual se le brindará un acceso rápido a los apartados de la aplicación web.
 
 ### 4.2.2. Labeling Systems
-
 
 En este apartado el equipo de trabajo mostrará el etiquetado que tendrá nuestra página de aterrizaje.
 
@@ -247,7 +244,6 @@ En esta sección se mostrará el desarrollo final de los Wireframes de la Web Ap
   En estos wireframes se muestra el inicio de sesión y registro que fueron desarrollados con la Tipografía y tamaño establecido en la documentación.
 
 
-
 ![1](../assets/img/chapter-IV/LoginUsuarioWireframe.png)
 
 ![1](../assets/img/chapter-IV/RegistroUsuarioWireframe.png)
@@ -256,7 +252,7 @@ En esta sección se mostrará el desarrollo final de los Wireframes de la Web Ap
 
 * __Interfaz de Personas__
 
-  En esta sección se muestra las páginas de "Home" para el cliente donde se puede ver el progreso, técnicos y se verá algunas reparaciones que se están llevando a cabo o ya finalizaron. La siguiente página "técnicos "mostrara a los técnicos cercanos, donde además podemos filtrarlos y buscar por nombre. En la página "Progreso" se mostrará el estado de la reparación que será representada por un gráfico. La página "Favorita" mostrara los técnicos guardados como favoritos por el usuario y el "Inbox" se podrá ver notificaciones de aceptación de reparación de los técnicos además de brindar al usuario el contacto con el técnico.
+  En esta sección se muestra las páginas de "Home" para el cliente donde se puede ver el progreso, técnicos y se verá algunas reparaciones que se están llevando a cabo o ya finalizaron. La siguiente página "técnicos "mostrara a los técnicos cercanos, donde además podemos filtrarlos y buscar por nombre. En la página "Progreso" se mostrará el estado de la reparación que será representada por un gráfico. La página "Favorita" mostrará los técnicos guardados como favoritos por el usuario y el "Inbox" se podrá ver notificaciones de aceptación de reparación de los técnicos además de brindar al usuario el contacto con el técnico.
 
 ![3](../assets/img/chapter-IV/InterfazHomeClienteWireframe.png)
 ![3](../assets/img/chapter-IV/InterfazTechnicalClienteWireframe.png)
@@ -275,7 +271,6 @@ En esta sección se mostrará el desarrollo final de los Wireframes de la Web Ap
 ![](../assets/img/chapter-IV/SeleccionarServicioTechnicalClienteWireframe.png)
 ![5](../assets/img/chapter-IV/CompletarServicioTechnicalClienteWireframe.png)
 ![](../assets/img/chapter-IV/RetornarHomeClienteWireframe.png)
-
 
 <br></br>
 
@@ -313,7 +308,7 @@ En esta sección se mostrará el desarrollo final de los Wireframes de la Web Ap
 
 * __Inventario__
 
-  En esta sección se muestra el menú del inventario donde se podrá agregar componentes para la reparación de los equipos además de poder mostrar los costos a los clientes de una formas más rápida.
+  En esta sección se muestra el menú del inventario donde se podrá agregar componentes para la reparación de los equipos además de poder mostrar los costos a los clientes de una forma más rápida.
   ![14](../assets/img/chapter-IV/CrearNuevoInventoryTecnicoWireFrame.png)
   ![14](../assets/img/chapter-IV/AgregarComponentesTecnicoWireframe.png)
   ![14](../assets/img/chapter-IV/VisualizarInventoryTecnicoWireframe.png)
@@ -325,7 +320,7 @@ En esta sección se mostrará el desarrollo final de los Wireframes de la Web Ap
 
 ![img](../assets/img/chapter-IV/DigramaRegistroUsurio.png)
 
-El usuario comienza su interacción con la aplicación rellenando los siguientes datos para la creación de su cuenta: Nombre completo, email, contraseña, confirme su contraseña y fecha de nacimiento, seleccionando qué es  un usuario que desea un servicio.
+El usuario comienza su interacción con la aplicación rellenando los siguientes datos para la creación de su cuenta: Nombre completo, email, contraseña, confirme su contraseña y fecha de nacimiento, seleccionando qué es un usuario que desea un servicio.
 
 * __User Goal:__ Como usuario deseo iniciar mi sesión para acceder al contenido de la aplicación web
 
@@ -435,7 +430,6 @@ En esta sección se mostrara el desarrollo final de los Mock-ups de la Web Appli
   En estos wireframes se muestra el inicio de sesión y registro que fueron desarrollados con la tipografía y tamaño establecido en la documentación.
 
 
-
 ![1](../assets/img/chapter-IV/LoginUsuarioMockup.png)
 
 ![1](../assets/img/chapter-IV/RegistroUsuarioMockup.png)
@@ -444,7 +438,7 @@ En esta sección se mostrara el desarrollo final de los Mock-ups de la Web Appli
 
 * __Interfaz de Personas__
 
-  En esta sección se muestra las páginas de "Home" para el cliente donde se puede ver el progreso, técnicos y se verá algunas reparaciones que se están llevando a cabo o ya finalizaron. La siguiente página "técnicos "mostrara a los técnicos cercanos, donde además podemos filtrarlos y buscar por nombre. En la página "Progreso" se mostrará el estado de la reparación que será representada por un gráfico. La página "Favorita" mostrara los técnicos guardados como favoritos por el usuario y el "Inbox" se podrá ver notificaciones de aceptación de reparación de los técnicos además de brindar al usuario el contacto con el técnico.
+  En esta sección se muestra las páginas de "Home" para el cliente donde se puede ver el progreso, técnicos y se verá algunas reparaciones que se están llevando a cabo o ya finalizaron. La siguiente página "técnicos "mostrara a los técnicos cercanos, donde además podemos filtrarlos y buscar por nombre. En la página "Progreso" se mostrará el estado de la reparación que será representada por un gráfico. La página "Favorita" mostrará los técnicos guardados como favoritos por el usuario y el "Inbox" se podrá ver notificaciones de aceptación de reparación de los técnicos además de brindar al usuario el contacto con el técnico.
 
 ![3](../assets/img/chapter-IV/InterfazHomeClienteMockup.png)
 ![3](../assets/img/chapter-IV/InterfazTechnicalClienteMockup.png)
@@ -498,7 +492,7 @@ En esta sección se mostrara el desarrollo final de los Mock-ups de la Web Appli
 
 * __Inventario__
 
-  En esta sección se muestra el menú del inventario donde se podrá agregar componentes para la reparación de los equipos además de poder mostrar los costos a los clientes de una formas más rápida.
+  En esta sección se muestra el menú del inventario donde se podrá agregar componentes para la reparación de los equipos además de poder mostrar los costos a los clientes de una forma más rápida.
   ![14](../assets/img/chapter-IV/CrearNuevoInventoryTecnicoMockup.png)
   ![14](../assets/img/chapter-IV/VisualizarInventoryTecnicoMockup.png)
   ![14](../assets/img/chapter-IV/AgregarComponentesTecnicoMockup.png)
@@ -623,7 +617,7 @@ En esta sección se mostrará el diccionario de las clases usado para el desarro
 
 * __BuilderRepair:__ Clase hija de Builder que especifica la construcción de una reparacion.
 
-* __Builder:__ Clase padre de BuildeRepair que tiene métodos virtuales que permite cambiarlos en la clase hija. Esto es esencial para la construcción de diferente tipos de reparaciones
+* __Builder:__ Clase padre de BuildeRepair que tiene métodos virtuales que permite cambiarlos en la clase hija. Esto es esencial para la construcción de diferentes tipos de reparaciones
 
 * __DashBoar:__ Clase que pertenece al técnico, donde se puede realizar la petición de mostrar ingresos, visitas y mayor servicio realizado (por mes ,año y día). Además de permitirnos acceder al inventario de componentes asociado al técnico.
 
@@ -641,4 +635,5 @@ En este punto se presentará nuestro Physical data modelo desarrollado en vertab
 ![Diagrama Base de datos](../assets/img/chapter-IV/DataBaseTecHelp.png)
 
 [Link para visualizar el diagrama de base de datos](https://my.vertabelo.com/doc/fO4P0j8AMrEflYiQRGERtsJAMCOcbVjB)
+
 
