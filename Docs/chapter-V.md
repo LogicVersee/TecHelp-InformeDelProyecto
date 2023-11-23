@@ -627,7 +627,7 @@ lading page.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.1. Sprint 1
+### 5.2.1. Sprint 2
 
 En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implementación del diseño de nuestra Landing Page utilizando WebStorm como entorno de desarrollo. Esto implica que al concluir el Sprint, todas las secciones, ya sea Home, Services, Pricing, Testimonials o About Us, deben estar completadas. A continuación, adjuntamos imágenes que ilustran cómo gestionamos las tareas en Pivotal Tracker.
 
@@ -2801,5 +2801,7 @@ En el siguiente se presentara el video de nuestra aplicacion web se presentara a
 ![video](../assets/img/chapter-v/videoaboutproduct.png)
 
 link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsB64hw12GZ_dwjKxZoLHb1zw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=f2AcMS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsB64hw12GZ_dwjKxZoLHb1zw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=f2AcMS)
+
+
 
 
