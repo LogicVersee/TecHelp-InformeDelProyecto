@@ -2578,6 +2578,454 @@ En esta imagen se muestra las ramas realizadas para el desarrollo del frontend d
 
 
 
+## 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+En este punto se busca perfeccionar la arquitectura del back-end, corrigiendo y optimizando aspectos identificados durante el Sprint 3. Este sprint no solo se centra en la rectificación de fallos y la mejora de la eficiencia, sino que también se propone implementar una capa adicional de seguridad vital para el funcionamiento robusto de nuestro sistema y ademas se implementa la capa de membresias. 
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>05/11/2023</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Brayan Morales</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Gonzalo Saldaña, Giovanni Ramos, Luis Lagos, Sebastián Ramirez 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Review Summary</td>
+            <td>
+                La opinion del product owner y las partes interesadas con respecto al avance realizado al concluir el sprint 3  fue el esperado.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Retrospective Summary</td>
+            <td>
+                En el sprint 3 se pudo mejorar aspectos de eficiencia en algunos componentes y la organización de la arquitectura del Back-End. Para el sprint 4 se plantee levantar estas observaciones para el correcto funcionamiento de la aplicación. 
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td>
+                Concluir y mejorar las intefaces de la aplicación web, levantado las observaciones del sprint 3. Implementar las tablas para membreship y la capa de seguridad. 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>
+                Porfinir
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                Por definir
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+### 5.2.4.2. Sprint Backlog 4
+
+En el tercer sprint backlog, el equipo completó en un 80% el front end y un 70% del back end de la aplicación web. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio al equipo de desarrollo dividir las user stories que corresponden al sprint 4 en tareas y asignar al responsables.
+
+![Trello Sprint 4]()
+
+
+Link de Trello: 
+
+<table>
+    <thead>
+  <thead>
+    <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 4</th>
+    </tr>
+    <tr>
+      <th colspan="2">Technical User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status(To-do/In-Process/To-Review/Done)</th>
+    </tr>
+    <tr>
+            <td rowspan="3">UH01</td>
+            <td rowspan="3">Titulo de la User Storie</td>
+            <td>TA01</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA02</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA03</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">UH03</td>
+            <td rowspan="2">Titulo de la User Storie</td>
+            <td>TA04</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA17</td>
+           <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="15">TA04</td>
+            <td rowspan="15">Crear registro</td>
+            <td>TA18</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA05</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA06</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA07</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA08</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA09</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA10</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA11</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA12</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA13</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA14</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA15</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA16</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>A17</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA18</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">UH06</td>
+            <td rowspan="2">Obtener datos de empleado</td>
+            <td>TA19</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA20</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">UH07</td>
+            <td rowspan="2">Obtener datos del cultivo</td>
+            <td>TA21</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA22</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="17">UH08</td>
+            <td rowspan="17">Obtener datos de cada fase del cultivo</td>
+            <td>TA23</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA24</td>
+            <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+          <td>TA25</td>
+          <td>Nombre de la task</td>
+          <td>descripción de la yask</td>
+          <td> estimación en horas</td>
+          <td> Responsable </td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TA25</td>
+          <td>Nombre de la task</td>
+            <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+          <td>TA26</td>
+          <td>Nombre de la task</td>
+          <td>descripción de la yask</td>
+          <td> estimación en horas</td>
+          <td> Responsable </td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TA27</td>
+          <td>Nombre de la task</td>
+          <td>descripción de la yask</td>
+          <td> estimación en horas</td>
+          <td> Responsable </td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TA28</td>
+          <td>Nombre de la task</td>
+          <td>descripción de la yask</td>
+          <td> estimación en horas</td>
+          <td> Responsable </td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TA28</td>
+          <td>Nombre de la task</td>
+          <td>descripción de la yask</td>
+          <td> estimación en horas</td>
+          <td> Responsable </td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td>TA29</td>
+          <td>Nombre de la task</td>
+          <td>descripción de la yask</td>
+            <td> estimación en horas</td>
+            <td> Responsable </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+          <td>TA30</td>
+          <td>Nombre de la task</td>
+          <td>descripción de la yask</td>
+          <td> estimación en horas</td>
+          <td> Responsable </td>
+          <td>Done</td>
+        </tr>
+
+  </thead>
+    </thead>
+</table>
+
+
+### 5.2.4.3. Development Evidence for Sprint Review.
+
+
+
+
+### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+
+
+
+### 5.2.4.5. Execution Evidence for Sprint Review.
+
+
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+
+
+
+### 5.2.4.7. .Software Deployment Evidence for Sprint Review.
+
+
+
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 5.3. Validation Interviews.
 
