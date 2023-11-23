@@ -3228,19 +3228,41 @@ __Web Application - Técnico__
 Entrevista Usuario 1
 </center>
 
-[![Ver entrevista](https://i.ibb.co/qdkNSZK/Screenshot-15.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/ERYKiNZU5cBGuz00fmGFYFYB9m8lpKKb2KAxUmPgYScrFg?e=R89AoR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+[![Ver entrevista](https://i.ibb.co/qdkNSZK/Screenshot-15.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/ESHR2VOzVCtHrduLNpCeIV8Bd0f0jyQHYqef3oJIgiQuUA?e=23DHbk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 * Nombre: Sandro Alarcon Rondón  
 * Edad: 20  
 * Distrito: San Juan de Lurigancho  
-* Ocupación: Estudiante
+* Ocupación: Estudiante  
 
 
-Duración: [00:00:00 - 00:05:35]  
-Descripción:  Sandro es un estudiante de 20 años que reside en el distrito de San Juan de Lurigancho. Él es uno de los entrevistados que aceptó a participar en esta validación, ya que también le interesa saber sobre un proyecto que solucione muchos de sus problemas en la vida cotidiana, tal como lo es la reparación de su celular. En la entrevista Sandro nos menciona que las funcionalidades implementadas dentro del proyecto, son muy completas ya que satisfacen las necesidades que pueda necesitar al momento de requerir un técnico especializado. También nos menciona, que el diseño de las vistas puede mejorar, ya que no resulta tan atractivo a la vista del usuario, y más aún si la aplicación depende de la interacción del usuario que del mismo técnico.  
+Duración: [00:00:00 - 00:05:35]    
 
 <br>
 --------------------------------------  
+<center>
+Entrevista Usuario 2
+</center>
+
+[![Ver entrevista](https://i.ibb.co/Pg7mdVR/Screenshot-7.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/ESHR2VOzVCtHrduLNpCeIV8Bd0f0jyQHYqef3oJIgiQuUA?e=23DHbk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+* Nombre: Fiorella Chiara  
+* Edad: 22  
+* Distrito: Chorrillos  
+* Ocupación: Estudiante de Comunicación Audio Visual  
+
+
+Duración: [00:10:26 - 00:16:36]    
+
+<br>
+ 
+  Análisis segmento usuario:  
+  Fiorella, estudiante de comunicación audiovisual en Chorrillos, enfrenta problemas con el cuidado de su celular y se interesa en aplicar el proyecto en su vida cotidiana. Observa que las direcciones de los técnicos la llevan a un mapa en Google y critica el diseño de la aplicación, proponiendo utilizar más colores para atraer al público. Además, destaca la importancia de verificar el flujo de registro de técnicos. Por otro lado, Sandro, un estudiante de 20 años en San Juan de Lurigancho, participa en la validación y elogia las completas funcionalidades del proyecto para solucionar problemas cotidianos, aunque sugiere mejorar el diseño de las vistas para hacerlo más atractivo al usuario. Ambos entrevistados resaltan aspectos clave sobre la usabilidad y diseño del proyecto.    
+
+Fiorella: Preocupa por el diseño de la aplicación (50%), sugiere mejorar con más colores (30%), y cuestiona el proceso de registro y verificación de técnicos (20%).  
+Sandro: Aprecia las funcionalidades completas (40%), critica el diseño de las vistas (40%), y destaca la dependencia de la aplicación en la interacción del usuario más que en la del técnico (20%).  
+
+-------------------------------------- 
 
 <center>
 Entrevista Técnico 1  
@@ -3252,10 +3274,13 @@ Entrevista Técnico 1
 * Ocupación: Técnico en reparación de celulares.  
 
 
-[![Ver entrevista](https://i.ibb.co/QpQhs85/Screenshot-16.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/ERYKiNZU5cBGuz00fmGFYFYB9m8lpKKb2KAxUmPgYScrFg?e=gcczGy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+[![Ver entrevista](https://i.ibb.co/QpQhs85/Screenshot-16.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/ESHR2VOzVCtHrduLNpCeIV8Bd0f0jyQHYqef3oJIgiQuUA?e=23DHbk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Duración:  [00:05:35 - 00:10:26]  
-Descripción:  Gino es un técnico de 22 que reside en el distrito de La Victoria, es un especialista en reparación de celulares y él le interesa la plataforma ya que es parte de su trabajo del día a día. A él le motiva que existan este tipo de plataformas para promover la forma de promocionar su trabajo. Nos comenta que las funcionalidades le parece muy buenas para la vista del usuario, ya que todas cumplen en base a lo que sus clientes piden. Nos comenta también que le gustaría que mejoren la experiencia del usuario con el diseño de la aplicación. 
+
+Análisis segmento técnico:   
+  
+ Gino es un técnico de 22 que reside en el distrito de La Victoria, es un especialista en reparación de celulares y él le interesa la plataforma ya que es parte de su trabajo del día a día. A él le motiva que existan este tipo de plataformas para promover la forma de promocionar su trabajo. Nos comenta que las funcionalidades le parece muy buenas para la vista del usuario, ya que todas cumplen en base a lo que sus clientes piden. Nos comenta también que le gustaría que mejoren la experiencia del usuario con el diseño de la aplicación. 
 
 --------------------------------------  
 
