@@ -2731,7 +2731,7 @@ Link de Trello:
         </tr>
         <tr>
             <td rowspan="15">TA04</td>
-            <td rowspan="15">Crear registro</td>
+            <td rowspan="15">Titulo de la User Storie</td>
             <td>TA18</td>
             <td>Nombre de la task</td>
             <td>descripción de la yask</td>
@@ -2853,7 +2853,7 @@ Link de Trello:
         </tr>
         <tr>
             <td rowspan="2">UH06</td>
-            <td rowspan="2">Obtener datos de empleado</td>
+            <td rowspan="2">Titulo de la User Storie</td>
             <td>TA19</td>
             <td>Nombre de la task</td>
             <td>descripción de la yask</td>
@@ -2871,7 +2871,7 @@ Link de Trello:
         </tr>
         <tr>
             <td rowspan="2">UH07</td>
-            <td rowspan="2">Obtener datos del cultivo</td>
+            <td rowspan="2">Titulo de la User Storie</td>
             <td>TA21</td>
             <td>Nombre de la task</td>
             <td>descripción de la yask</td>
@@ -2889,7 +2889,7 @@ Link de Trello:
         </tr>
         <tr>
             <td rowspan="17">UH08</td>
-            <td rowspan="17">Obtener datos de cada fase del cultivo</td>
+            <td rowspan="17">Titulo de la User Storie</td>
             <td>TA23</td>
             <td>Nombre de la task</td>
             <td>descripción de la yask</td>
