@@ -2677,10 +2677,10 @@ Generamos el dominio para nuestra solución adecuado al nombre de nuestro proyec
 ![DeployAPI](https://i.ibb.co/S3yF1MD/Screenshot-13.jpg)       
 
 
-Una vez asignado el dominio, podremos visualizar nuestra API y la asignación que le hemos brindado a los Endpoints de la solución.    
+Una vez asignado el dominio, podremos visualizar nuestra API y la asignación que le hemos brindado a los Endpoints de la solución.      
 ![DeployAPI](https://i.ibb.co/nmGbGZT/Screenshot-14.jpg)  
 
-Link del Api desplegada: [https://techelp-api.zeabur.app/swagger-ui/index.html#/](https://techelp-api.zeabur.app/swagger-ui/index.html#/)
+Link del Api desplegada: [https://techelp-center-platform.zeabur.app/swagger-ui/index.html#/](https://techelp-center-platform.zeabur.app/swagger-ui/index.html#/)
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
