@@ -2780,13 +2780,13 @@ En este punto se busca perfeccionar la arquitectura del back-end, corrigiendo y 
         <tr>
             <td>Sprint 4 Velocity</td>
             <td>
-                Porfinir
+                30
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                Por definir
+                30
             </td>
         </tr>
     </tbody>
@@ -2804,7 +2804,7 @@ Link de Trello:
 
 <table>
     <thead>
-  <thead>
+  <>
     <tr>
         <th>Sprint #</th>
         <th colspan="7">Sprint 4</th>
@@ -2825,669 +2825,376 @@ Link de Trello:
     </tr>
     <tr>
             <td rowspan="3">UH01</td>
-            <td rowspan="3">Titulo de la User Storie</td>
+            <td rowspan="3">Administrar inventario</td>
             <td>TA01</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
+            <td>Implementación del backend</td>
+            <td>Se implementara en el backend el bounded context Inventory </td>
+            <td> 5</td>
+            <td> Giovanni Ramos </td>
             <td>Done</td>
         </tr>
         <tr>
             <td>TA02</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
+            <td>Implementcion del Frontend</td>
+            <td>Se implementara en el frontend el bounded context inventory</td>
+            <td> 5h</td>
+            <td> Luis Lagos </td>
             <td>Done</td>
         </tr>
         <tr>
             <td>TA03</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
+            <td>Uso de Api externar</td>
+            <td>Integraciaon de la backend con el frontend</td>
+            <td>2h</td>
+            <td> Sebastian </td>
             <td>Done</td>
         </tr>
         <tr>
             <td rowspan="2">UH03</td>
-            <td rowspan="2">Titulo de la User Storie</td>
+            <td rowspan="2">Registro de la aplicación</td>
             <td>TA04</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TA17</td>
-           <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td rowspan="15">TA04</td>
-            <td rowspan="15">Titulo de la User Storie</td>
-            <td>TA18</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
+            <td>Implementación del backend</td>
+            <td>Se implementara en el backend el bounded context Inventory</td>
+            <td> 5h</td>
+            <td> Brayan Morales </td>
             <td>Done</td>
         </tr>
         <tr>
             <td>TA05</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
+           <td>Implementacion del Frotnend</td>
+            <td>Se implementara el bounded context en el backend</td>
+            <td> 4h</td>
+            <td> Gonzalo Janover </td>
             <td>Done</td>
         </tr>
-        <tr>
-            <td>TA06</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TA07</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TA08</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TA09</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TA10</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TA11</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TA12</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TA13</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TA14</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TA15</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TA16</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>A17</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TA18</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td rowspan="2">UH06</td>
-            <td rowspan="2">Titulo de la User Storie</td>
-            <td>TA19</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TA20</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td rowspan="2">UH07</td>
-            <td rowspan="2">Titulo de la User Storie</td>
-            <td>TA21</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TA22</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td rowspan="17">UH08</td>
-            <td rowspan="17">Titulo de la User Storie</td>
-            <td>TA23</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>TA24</td>
-            <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-          <td>TA25</td>
-          <td>Nombre de la task</td>
-          <td>descripción de la yask</td>
-          <td> estimación en horas</td>
-          <td> Responsable </td>
-          <td>Done</td>
-        </tr>
-        <tr>
-          <td>TA25</td>
-          <td>Nombre de la task</td>
-            <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-          <td>TA26</td>
-          <td>Nombre de la task</td>
-          <td>descripción de la yask</td>
-          <td> estimación en horas</td>
-          <td> Responsable </td>
-          <td>Done</td>
-        </tr>
-        <tr>
-          <td>TA27</td>
-          <td>Nombre de la task</td>
-          <td>descripción de la yask</td>
-          <td> estimación en horas</td>
-          <td> Responsable </td>
-          <td>Done</td>
-        </tr>
-        <tr>
-          <td>TA28</td>
-          <td>Nombre de la task</td>
-          <td>descripción de la yask</td>
-          <td> estimación en horas</td>
-          <td> Responsable </td>
-          <td>Done</td>
-        </tr>
-        <tr>
-          <td>TA28</td>
-          <td>Nombre de la task</td>
-          <td>descripción de la yask</td>
-          <td> estimación en horas</td>
-          <td> Responsable </td>
-          <td>Done</td>
-        </tr>
-        <tr>
-          <td>TA29</td>
-          <td>Nombre de la task</td>
-          <td>descripción de la yask</td>
-            <td> estimación en horas</td>
-            <td> Responsable </td>
-            <td>Done</td>
-        </tr>
-        <tr>
-          <td>TA30</td>
-          <td>Nombre de la task</td>
-          <td>descripción de la yask</td>
-          <td> estimación en horas</td>
-          <td> Responsable </td>
-          <td>Done</td>
-        </tr>
-
-  </thead>
-    </thead>
-</table>
-
 
 ### 5.2.4.3. Development Evidence for Sprint Review.
 
-En esta sección se presenta la evidencia del sprint review mediante una tabla donde se muestra los commits correspondientes a la entrega del Sprint 4, los cuales corresponde a correcciones e implemnetaciones de componentes que corresponden al BackEnd y FrontEnd.
+Para este cuarto sprint logramos desplegar y desarrollar las siguientes secciones de nuestra aplicación web:Login, Register,Progress, Technical, ViewProgress,Memberchip,Task,CreateTask,UpdateTask,ViewTask,TechnicalProfile,EditTechnicalProfile.
+
+Evidencias del BackEnd:
+
+<br>
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="33" align="center"> https://github.com/LogicVersee/techelp-center-platform-backend </td>
+    <td align="center"> master</td>
+    <td align="center"> bc3df0401d1b07fc4d74d41eaa4e000e388a0c9e</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> master</td>
+    <td align="center" > 4b801f00a6a332cdbeefc124158228036b76be27</td>
+    <td align="center"> chore: added dependencies.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/register</td>
+    <td align="center"> 56fca751ebf0aa88beb50a8ad3875d5ea876465c</td>
+    <td align="center"> feat(technical): technical, dashboard, component and incomes entities implemented</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/register</td>
+    <td align="center"> 6db06a22c15ec56e7ede07d353eda1c153b3cad7</td>
+    <td align="center"> feat(technical): technical controller created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/register</td>
+    <td align="center"> cb5e517aa6505a77f03221872d78e12b11ff73d0</td>
+    <td align="center"> feat(inventory): inventory controller created</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/register </td>
+    <td align="center"> 9338e88d83169e4d7b9eb70befef63dd74e509a5</td>
+    <td align="center"> feat(dash-board): implemented dashboard context facade </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/register </td>
+    <td align="center"> e63bc3022f2253d762509f0ceb5e811abb46c049</td>
+    <td align="center"> feat(task): task command created</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/register </td>
+    <td align="center"> 3080bfc3d56b0c1262f30cd16b88719e72435ea1 </td>
+    <td align="center"> feat(task): client name's value object created</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/register </td>
+    <td align="center"> af28c9ab9cb54f0223160c0e83a0ca42df46eae2 </td>
+    <td align="center"> feat(task): client phone name's value object created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center"> feature/register </td>
+    <td align="center"> 2469e86a7045e480af1d04ac0b0eca2e68f1f72f </td>
+    <td align="center"> feat(task): client problem's value object created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/register </td>
+    <td align="center"> 6cc2bd4ab00ce32798ee41c6578f71bb15dfebd0 </td>
+    <td align="center"> feat(task): client delivery day's value object created. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> 749fb2af8589fa694db41b6fac1680cd3f16de0d</td>
+    <td align="center"> fix(task): task command created fixed. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> c3bfc367367eb794b8193f1919d0ea8ebd4d3369</td>
+    <td align="center"> feat(task): task entity created. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> 73f2f9d39bcb5e3e602f618516c04fa0696156e2</td>
+    <td align="center"> feat(task): get task by technicalid created. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> 4ea62f50c5d8c40ac137c9f2a03e14aa28447a53</td>
+    <td align="center"> feat(task): task services created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> a210a72d51d4c7e39c8994c08a6fe467ac2e0344</td>
+    <td align="center"> feat(task): task repository created</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> d929347a7840b6db553b156ddf7992c1edc87122</td>
+    <td align="center"> feat(task): task context facade created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> a1f19abb6490ac11049e1aea8a7415b09c9acad2</td>
+    <td align="center"> feat(task): task service implementation created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 4a8dd81a699f53beb81fe2b1c9eb25e8a067e921</td>
+    <td align="center"> feat(task): task controller created</td>
+    <td align="center"> ---</td>
+    <td align="center">23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 18298a9831ff3d3362fdd56875735e2d7c653ece</td>
+    <td align="center"> feat(task): task by id query created.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 81d67e09fa54490a72e06f9a2538fffbfe0789cb</td>
+    <td align="center"> fix(DeliveryDay): public string getdeliveryday fixed </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 430655d64b4c6866a2d9f23328253101a0c61cf6</td>
+    <td align="center"> feat(task): task resource added</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> a6d59a4b95dec69455a1e1632aeef4ebba989942</td>
+    <td align="center"> feat(task): create task resource added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 4550c3c4dfe0aa68fb1c09673fcd1b56cce73e31</td>
+    <td align="center"> feat(task): create task from resource assembler transform added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
 
 
-|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
-|-|-|-|-|-|-|
-| Enlace del repositorio | Nombre de la rama | ID de los commits |Mensaje del commit | No se agregó message body |Fecha del commit |
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> a036a754794f4062aba1837cef37f1685e231b21</td>
+    <td align="center"> feat(task): task from entity assembler transform added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> c21233ed8bf057a3512d1e0d82b359e9c30ff61c</td>
+    <td align="center"> feat(task): task command service implementation created.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> b2c45b715a653a7886320fa050109ed7409784f6</td>
+    <td align="center"> feat(task): task query service implementation created.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+ <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> d2b279205081e497cee79221d9458d37ebe0c60d</td>
+    <td align="center"> feat(task): task controller added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 1412700dabd3377c8bc7f2cc391abe18725eb229</td>
+    <td align="center"> feat(task): edited dependencies.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> ad269d55c2d5f8cada22e412767aebdcb349b26a</td>
+    <td align="center"> feat(task): added query to get tasks by technical id.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> test</td>
+    <td align="center"> ca2b5d9bdd22e1144d9a88f3893d69faff3ecdce</td>
+    <td align="center"> feat(test): technicals feature added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> test</td>
+    <td align="center"> 8734d23116b1e7d9502e82e82eb0eaa2cf3a75bb</td>
+    <td align="center"> feat(test): item feature added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center">test </td>
+    <td align="center"> 38ee3231dcbfed24f7d2797973ddb5aba612e16f</td>
+    <td align="center"> feat(test): tasks feature added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
 
 
+</table>
 
-### 5.2.3.4.Testing Suite Evidence for Sprint Review.
-
-
-|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
-|-|-|-|-|-|-|
-| Enlace del repositorio | Nombre de la rama | ID deñ commit | cmensaje del commit | Vacio | Fecha de commit |
- 
+### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
 ### 5.2.4.5. Execution Evidence for Sprint Review.
+Para este cuarto  sprint se ha desplegado la siguientes secciones en nuestra aplicacion web.
 
-Se concluyó con las vistas restastantes de la aplicación web, se implementó la capa de seguridad y membership en el back-end.
+La implementacion de ambas vistas tanto para el usuario como del tecnico.
 
-**Peguen imagenes del despliegue que corresponde solo al sprint 4**
+![commits.png](../assets/img/chapter-v/dashboard.jpg)
+
+![commits.png](../assets/img/chapter-v/dashboardTh.jpg)
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
+### 5.2.4.7.  Software Deployment Evidence for Sprint Review.
 
+### 5.2.4.8. Team Collaboration Insights during Sprint.
 
-* **Web Aplication**
-
-| Endpoint | Details |
-| - | - | 
-| name endpoint | Detalle- explicación del endponit | 
-
-
-* **Web Service**
-
-| Endpoint | Details |
-| - | - | 
-| name endpoint | Detalle- explicación del endponit | 
-
-
-
-
-**Pegar imagenes**
-
-Link del repositorio: 
-
-* **Web Service commit details**
-
-
-<table>
-    <thead>
-        <tr>
-            <th>Endpoint</th>
-            <th>Operaciones</th>
-            <th>Parametros</th>
-            <th>URL</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan="14">Nombre del endpoint</td>
-        </tr>
-        <tr>
-            <td>POST/GET/ETC</td>
-            <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-        <tr>
-            <td>POST/GET/ETC</td>
-            <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-        <tr>
-            <td>POST/GET/ETC</td>
-            <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-        <tr>
-            <td>POST/GET/ETC</td>
-             <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-        <tr>
-            <td>POST/GET/ETC</td>
-            <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-        <tr>
-            <td>POST/GET/ETC</td>
-            <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-        <tr>
-            <td>POST/GET/ETC</td>
-            <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-        <tr>
-            <td>POST/GET/ETC</td>
-            <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-        <tr>
-            <td>POST/GET/ETC</td>
-            <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-        <tr>
-            <td>POST/GET/ETC</td>
-            <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-        <tr>
-            <td>POST/GET/ETC</td>
-            <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-        <tr>
-            <td>POST/GET/ETC</td>
-            <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-        <tr>
-            <td>GPOST/GET/ETC</td>
-            <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-        <tr>
-            <td rowspan="3">Nombre del endpoint</td>
-        </tr>
-        <tr>
-            <td>POST/GET/ETC</td>
-            <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-        <tr>
-            <td>POST/GET/ETC</td>
-            <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-        <tr>
-            <td rowspan="4">Nombre del endpoint</td>
-        </tr>
-        <tr>
-            <td>POST/GET/ETC</td>
-            <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-        <tr>
-            <td>POST/GET/ETC</td>
-            <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-        <tr>
-            <td>POST/GET/ETC</td>
-            <td>Escribir</td>
-            <td>ruta</td>
-        </tr>
-    </tbody>
-</table>
+__Backend__
+En esta entrega, nuestra meta principal fue la implementación parcial del backend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, intellij y java. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
 
+![commits-colaboration.png](../assets/img/chapter-v/barras.png)
 
-### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo.
 
-Para la entrega del sprint 4 se desplegó la landing page totalmente funcional, se desplegó la aplicación web y el back-end. 
+![commits.png](../assets/img/chapter-v/contributors.png)
 
-* **Imagenes de la landing page desplegada**
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra Landing Page, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
 
 
+![network.png](../assets/img/chapter-v/newtworkbd.PNG)
+En esta imagen se muestra las ramas realizadas para el desarrollo del backend de nuestra app web.Siendo una muestra del desarrollo de esta.
 
-* **Imagenes de la aplicación web desplegada**
+__Frontend__
 
+En esta entrega, nuestra segunda meta fue la implementación total del fontend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub y Webstrom. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
 
+![commits-colaboration.png](../assets/img/chapter-v/barras_ft.PNG)
 
-* **Imagenes del BackEnd desplegado**
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo.
 
+![commits.png](../assets/img/chapter-v/contri_ft.PNG)
 
-### 5.2.4.8. Team Collaboration Insights during Sprint
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra Landing Page, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
 
 
+![network.png](../assets/img/chapter-v/netft.PNG)
+En esta imagen se muestra las ramas realizadas para el desarrollo del frontend de nuestra app web.Siendo una muestra del desarrollo de esta.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 5.3. Validation Interviews.
-
-### 5.3.1. Diseño de Entrevistas.
-
-El propósito de las entrevistas es analizar el rendimiento del prototipo del Landing Page y la Web Application entre los usuarios y técnicos que utilizarán TecHelp. A partir de sus opiniones, evaluaremos posibles mejoras en nuestra aplicación y página de inicio, con el objetivo de adaptarlas a las necesidades de nuestros clientes.
-
-Los userflow que presentaremos a los usuarios son los siguientes:  
-
-__Landing Page - Usuario__  
-
-* Ingresa a la sección "Home".  
-* Ingresa a la sección "Service".  
-* Ingresa a la sección "Membership".  
-* Ingresa a la sección "Contact us".  
-* Ingresa a la sección "About us".  
-* Ingresa a la sección "Spanish".  
-* Ingresa a la sección "English".  
-* Ingresa a la sección "Dark Mode".  
-
-
-__Web Application - Usuario__  
-
-* Ingresa a la sección "Home".
-* Ingresa a la sección "Technical".
-* Ingresa a la sección "Progress".
-
-Los userflow que presentaremos a los técnicos son los siguientes:  
-
-__Landing Page - Técnico__  
-
-* Ingresa a la sección "Home".  
-* Ingresa a la sección "Service".  
-* Ingresa a la sección "Membership".  
-* Ingresa a la sección "Contact us".  
-* Ingresa a la sección "About us".  
-* Ingresa a la sección "Spanish".  
-* Ingresa a la sección "English".  
-* Ingresa a la sección "Dark Mode".  
-
-
-__Web Application - Técnico__  
-
-* Ingresa a la sección "Home".
-* Ingresa a la sección "Profile".
-* Ingresa a la sección "Task".
-* Ingresa a la sección "Dashboard".
-* Ingresa a la sección "Petition".
-
-
-### 5.3.2. Registro de Entrevistas.
-
-<center>
-Entrevista Usuario 1
-</center>
-
-[![Ver entrevista](https://i.ibb.co/qdkNSZK/Screenshot-15.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/ESHR2VOzVCtHrduLNpCeIV8Bd0f0jyQHYqef3oJIgiQuUA?e=23DHbk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-* Nombre: Sandro Alarcon Rondón  
-* Edad: 20  
-* Distrito: San Juan de Lurigancho  
-* Ocupación: Estudiante  
-
-
-Duración: [00:00:00 - 00:05:35]    
-
-<br>
---------------------------------------  
-<center>
-Entrevista Usuario 2
-</center>
-
-[![Ver entrevista](https://i.ibb.co/Pg7mdVR/Screenshot-7.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/ESHR2VOzVCtHrduLNpCeIV8Bd0f0jyQHYqef3oJIgiQuUA?e=23DHbk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-* Nombre: Fiorella Chiara  
-* Edad: 22  
-* Distrito: Chorrillos  
-* Ocupación: Estudiante de Comunicación Audio Visual  
-
-
-Duración: [00:10:26 - 00:16:36]    
-
-<br>
- 
-  Análisis segmento usuario:  
-  Fiorella, estudiante de comunicación audiovisual en Chorrillos, enfrenta problemas con el cuidado de su celular y se interesa en aplicar el proyecto en su vida cotidiana. Observa que las direcciones de los técnicos la llevan a un mapa en Google y critica el diseño de la aplicación, proponiendo utilizar más colores para atraer al público. Además, destaca la importancia de verificar el flujo de registro de técnicos. Por otro lado, Sandro, un estudiante de 20 años en San Juan de Lurigancho, participa en la validación y elogia las completas funcionalidades del proyecto para solucionar problemas cotidianos, aunque sugiere mejorar el diseño de las vistas para hacerlo más atractivo al usuario. Ambos entrevistados resaltan aspectos clave sobre la usabilidad y diseño del proyecto.    
-
-Fiorella: Preocupa por el diseño de la aplicación (50%), sugiere mejorar con más colores (30%), y cuestiona el proceso de registro y verificación de técnicos (20%).  
-Sandro: Aprecia las funcionalidades completas (40%), critica el diseño de las vistas (40%), y destaca la dependencia de la aplicación en la interacción del usuario más que en la del técnico (20%).  
-
--------------------------------------- 
-
-<center>
-Entrevista Técnico 1  
-</center>  
-
-* Nombre: Gino Aro  
-* Edad: 22  
-* Distrito: La Victoria  
-* Ocupación: Técnico en reparación de celulares.  
-
-
-[![Ver entrevista](https://i.ibb.co/QpQhs85/Screenshot-16.jpg)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191e575_upc_edu_pe/ESHR2VOzVCtHrduLNpCeIV8Bd0f0jyQHYqef3oJIgiQuUA?e=23DHbk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-Duración:  [00:05:35 - 00:10:26]  
-
-Análisis segmento técnico:   
-  
- Gino es un técnico de 22 que reside en el distrito de La Victoria, es un especialista en reparación de celulares y él le interesa la plataforma ya que es parte de su trabajo del día a día. A él le motiva que existan este tipo de plataformas para promover la forma de promocionar su trabajo. Nos comenta que las funcionalidades le parece muy buenas para la vista del usuario, ya que todas cumplen en base a lo que sus clientes piden. Nos comenta también que le gustaría que mejoren la experiencia del usuario con el diseño de la aplicación. 
-
---------------------------------------  
-
-
-
-
-
-### 5.3.3. Evaluaciones según heurísticas.
-
-<Table>
-  <tr>
-    <td><b>#</b></td>
-    <td><b>Problema</b></td>
-    <td><b>Escala de Severidad</b></td>
-    <td><b>Heurística/Principio violada(o)</b></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td>Se repite constantemente algunas opciones</td>
-    <td>2</td>
-    <td>Usability: Consistencia y estandares</td>
-  </tr>
-
-  <tr>
-    <td>2</td>
-    <td>No hay mensajes que confirmen al eliminar un Componente</td>
-    <td>3</td>
-    <td>Usability:Libertad y Control</td>
-  </tr>
+      
     
-  <tr>
-    <td>3</td>
-    <td>El Dashboard no muestra informacion concreata</td>
-    <td>2</td>
-    <td>Information Architecture: Is it usable?</td>
-  </tr>
-
-  <tr>
-    <td>4</td>
-    <td>Se repite constantemente algunas paginas</td>
-    <td>1</td>
-    <td>Usability:Consistencia y estandares</td>
-  </tr>
-
-   <tr>
-    <td>5</td>
-    <td>No hay peronalizacion mas propia del usuario respecto a los colores</td>
-    <td>1</td>
-    <td>Usability:Libertad y Control</td>
-  </tr>
-
- 
-</Table>
-
-## 5.4. Video About-the-Product.
-En el siguiente se presentara el video de nuestra aplicacion web se presentara a nuestros publicos objetivos 
-![video](../assets/img/chapter-v/videoaboutproduct.png)
-
-link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsB64hw12GZ_dwjKxZoLHb1zw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=f2AcMS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsB64hw12GZ_dwjKxZoLHb1zw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=f2AcMS)
-
-
