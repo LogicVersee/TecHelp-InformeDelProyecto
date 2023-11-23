@@ -3160,8 +3160,65 @@ La implementacion de ambas vistas tanto para el usuario como del tecnico.
 ![commits.png](../assets/img/chapter-v/dashboardTh.jpg)
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+En este Sprint se tomó importancia la parte de la seguridad, es por ello que se implementaron los siguientes Endpoints para la lógica de autentificación.
+
+![DeployAPI](https://images-ext-1.discordapp.net/external/xkyY_67lLFW-_MpNXHDKVZ6VpkEweCE-DQjRmPlP-gg/https/i.ibb.co/QcYN8jB/Screenshot-12.jpg?format=webp)
+
 
 ### 5.2.4.7.  Software Deployment Evidence for Sprint Review.
+
+En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
+Llevamos a cabo la implementación en un dos plataformas de confianza. Empleamos Railway para la implementación de la base de datos MySQL. Utilizamso la plataforma Zeabur para configurar el Service API aprovechando su facilidad en el uso.
+
+La plataforma Railway nos ofrece una serie de alternativas para integrar nuestro proyecto a su base de datos MySQL.  
+![RailwayMySQL](https://i.ibb.co/2vgwnzC/Screenshot-1.jpg)
+
+Ingresamos con nuestra cuenta de GitHub y nos ofrece la opción de crear nuestro contenedor por MySQL.  
+![MySQL](https://i.ibb.co/K7J0DKb/Screenshot-2.jpg)
+
+
+Creamos nuestra base de datos en el apartado que visualizamos en la derecha que dice "New".  
+![MySQL](https://i.ibb.co/pvKnfgp/Screenshot-3.jpg)
+
+
+Seleccionamos la opción de "Add MySQL" para agregar un contenedor para nuestra solución.    
+![MySQL](https://i.ibb.co/g6qK5c4/Screenshot-4.jpg)
+
+Una vez seleccionada la opción, automaticamente nos mostrará el contenedor creado con nuestra base de datos en MySQL.   
+![MySQL](https://i.ibb.co/6vHwBH5/Screenshot-5.jpg)
+
+Dentro de las opciones, en la pestaña "Variables" tendremos toda la información para realizar la cadena de conexión entre la API y la base de datos.  
+![MySQL](https://i.ibb.co/xFD8N5F/Screenshot-6.jpg)
+
+Para realizar el despliegue de nuestra API, integramos el uso de Zeabur, ya que es una solución que nos brinda HTTPS y es muchísimo más fácil deplegarla por esta plataforma que otras.
+![DeployAPI](https://i.ibb.co/r7wc4cV/Screenshot-7.jpg)
+
+Nuevamente ingresamos a la plataforma por nuestra cuenta de GitHub, en esta plataforma sí es importante, ya que lograremos usar el repositorio por esta forma y será más fácil para su implementación. Le damos a la opción de "Create Project".    
+![DeployAPI](https://i.ibb.co/pj97yTK/Screenshot-8.jpg)
+
+
+Elegimos el servidor que más cerca se encuentra de nosotros, en este caso "California, United States".  
+![DeployAPI](https://i.ibb.co/XWPgjfP/Screenshot-9.jpg)
+
+
+En la opción de implementar servicios, escogemos la forma de subir el proyecto por medio de nuestro Git.  
+![DeployAPI](https://i.ibb.co/z8DNfjX/Screenshot-10.jpg)
+
+Seleccionamos el repositorio donde estamos realizando toda la solución de nuestra API.   
+![DeployAPI](https://i.ibb.co/SdjRSQH/Screenshot-11.jpg)
+
+Una vez seleccionado el repositorio, automaticamente comenzará a desplegarse y nos mostrará el detalle de la implementación.  
+![DeployAPI](https://i.ibb.co/mtLQNdR/Screenshot-12.jpg)
+
+
+Generamos el dominio para nuestra solución adecuado al nombre de nuestro proyecto, en nuestro caso, Techelp-api, que luego emplearemos el Swagger UI para mostrarlo.      
+![DeployAPI](https://i.ibb.co/S3yF1MD/Screenshot-13.jpg)
+
+
+Una vez asignado el dominio, podremos visualizar nuestra API y la asignación que le hemos brindado a los Endpoints de la solución.      
+![DeployAPI](https://images-ext-1.discordapp.net/external/xkyY_67lLFW-_MpNXHDKVZ6VpkEweCE-DQjRmPlP-gg/https/i.ibb.co/QcYN8jB/Screenshot-12.jpg?format=webp)
+
+Link del Api desplegada: [https://techelp-center-platform.zeabur.app/swagger-ui/index.html#/](https://techelp-center-platform.zeabur.app/swagger-ui/index.html#/)
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint.
 
