@@ -67,15 +67,102 @@
 
 ## Project Report Collaboration Insights 
 
-Link del repositorio:[https://github.com/orgs/LogicVersee/repositories](https://github.com/orgs/LogicVersee/repositories)
-
 Link del repositorio-Informe:[https://github.com/LogicVersee/TecHelp-InformeDelProyecto](https://github.com/LogicVersee/TecHelp-InformeDelProyecto)
+
+Link de los repositorios de la oraganización :[https://github.com/orgs/LogicVersee/repositories](https://github.com/orgs/LogicVersee/repositories)
+
+
+* **Reporte de colaboración de la entrega del TB1:**
+
+En este punto el equipo identificó una problemática que necesita ser resuelto. En base a problemática el equipo se propuso una idea de solución, se hicieron las investigaciones correspondientes y se implementó una primera versión de la landing page. 
+
+
+![commits-colaboration.png](../assets/img/chapter-v/commits-colaboration.png)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo en el presentable del TB1. 
+
+![commits.png](../assets/img/chapter-v/commits.png)
+
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra Landing Page, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
+
+![git-clones.png](../assets/img/chapter-v/git-clones.png)
+
+Estos gráficos ofrecen una representación visual de las clonaciones registradas en nuestro repositorio, junto con la fecha en que cada una de estas acciones se llevó a cabo. Además, se presenta información sobre la cantidad de visitantes que ha tenido el repositorio de nuestro equipo a lo largo del tiempo.
+
+![network.png](../assets/img/chapter-v/network.png)
+
+
+* **Reporte de colaboración de la entrega del TP:**
+
+
+
+![commits-colaborationsprint2.png](../assets/img/chapter-v/commits-colaborationsprint2.PNG)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo. 
+
+![commits.png](../assets/img/chapter-v/commitssprint.PNG)
+
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra segundo sprint, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
+
+![git-clones.png](../assets/img/chapter-v/git-clonessprint2.PNG)
+
+Estos gráficos ofrecen una representación visual de las clonaciones registradas en nuestro repositorio, junto con la fecha en que cada una de estas acciones se llevó a cabo. Además, se presenta información sobre la cantidad de visitantes que ha tenido el repositorio de nuestro equipo a lo largo del tiempo.
+
+![network.png](../assets/img/chapter-v/networksprint2.PNG)
+
+
+
+* **Reporte de colaboración de la entrega del TB2:**
+
+![Colaboraciónn TB2]()
+
+En esta entrega, nuestra meta principal fue la implementación parcial del backend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, intellij y java. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
+
+![commits-colaboration.png](../assets/img/chapter-v/barras.png)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo. 
+
+![commits.png](../assets/img/chapter-v/contribuciones.png)
+
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra Landing Page, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
+
+
+![network.png](../assets/img/chapter-v/Networkgraph.png)
+En esta imagen se muestra las ramas realizadas para el desarrollo del backend de nuestra app web.Siendo una muestra del desarrollo de esta.
+
+__Frontend__
+
+En esta entrega, nuestra segunda meta fue la implementación total del fontend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub y Webstrom. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
+
+![commits-colaboration.png](../assets/img/chapter-v/barras_front.png)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo. 
+
+![commits.png](../assets/img/chapter-v/contribuidores_frontend.png)
+
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra Landing Page, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
+
+
+![network.png](../assets/img/chapter-v/network_frontend.png)
+En esta imagen se muestra las ramas realizadas para el desarrollo del frontend de nuestra app web.Siendo una muestra del desarrollo de esta.
+
+
+
+* **Reporte de colaboración de la entrega del TF:**
+
+![Colaboraciónn TF]()
+
+
+----------------------------------------------------------------------------
+
+
+
+
 
 ![](assets/img/colaboracion/colaboration-commit1.png)
 ![](assets/img/colaboracion/git-clone-tp.PNG)
 ![](assets/img/colaboracion/ramas-tp.PNG)
 ![](assets/img/colaboracion/pulse.PNG)
-
 
 
 
