@@ -72,9 +72,9 @@
 **Link de los repositorios de la oraganización:** [https://github.com/orgs/LogicVersee/repositories](https://github.com/orgs/LogicVersee/repositories)
 
 
-* **Reporte de colaboración de la entrega del TB1:**
+### **Reporte de colaboración de la entrega del TB1:**
 
-En este punto el equipo identificó una problemática que necesita ser resuelto. En base a problemática el equipo se propuso una idea de solución, se hicieron las investigaciones correspondientes y se implementó una primera versión de la landing page. 
+En esta entrega, nuestra meta principal fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
 
 ![commits-colaboration.png](assets/img/chapter-v/commits-colaboration.png)
 
@@ -91,8 +91,9 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 ![network.png](assets/img/chapter-v/network.png)
 
 
-* **Reporte de colaboración de la entrega del TP:**
+### **Reporte de colaboración de la entrega del TP:**
 
+En esta entrega, nuestra meta principal fue la implementación de las funciones de request y visualizacion de tecnicos. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
 
 
 ![commits-colaborationsprint2.png](assets/img/chapter-v/commits-colaborationsprint2.PNG)
@@ -111,9 +112,9 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 
 
 
-* **Reporte de colaboración de la entrega del TB2:**
+### **Reporte de colaboración de la entrega del TB2:**
 
-![Colaboraciónn TB2]()
+Backend En esta entrega, nuestra meta principal fue la implementación parcial del backend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, intellij y java. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
 
 En esta entrega, nuestra meta principal fue la implementación parcial del backend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, intellij y java. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
 
@@ -147,21 +148,8 @@ En esta imagen se muestra las ramas realizadas para el desarrollo del frontend d
 
 
 
-* **Reporte de colaboración de la entrega del TF:**
+### **Reporte de colaboración de la entrega del TF:**
 
-![Colaboraciónn TF]()
-
-
-----------------------------------------------------------------------------
-
-
-
-
-
-![](assets/img/colaboracion/colaboration-commit1.png)
-![](assets/img/colaboracion/git-clone-tp.PNG)
-![](assets/img/colaboracion/ramas-tp.PNG)
-![](assets/img/colaboracion/pulse.PNG)
 
 
 
