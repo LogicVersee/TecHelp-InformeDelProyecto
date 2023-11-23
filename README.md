@@ -79,7 +79,7 @@ Link del repositorio:[https://github.com/orgs/LogicVersee/repositories](https://
 # Contenido 
 ## Capitulo I: Introducción
 ### [1.1. Startup Profile](/docs/chapter-I.md/#11-startup-profile)
-* #### [1.1.1. Descripcion de la Startup](/Docs/Chapter-I.md/#111-descripción-de-la-startup)
+* #### [1.1.1. Descripcion de la Startup](/docs/chapter-I.md/#111-descripción-de-la-startup)
 * #### [1.1.2. Perfiles de Integrantes del equipo](/Docs/Chapter-I.md/#112-perfiles-de-integrantes-del-equipo)
 ### [1.2. Solution Profile](/Docs/Chapter-I.md/#12-solution-profile)
 * #### [1.2.1. Antecedentes y problematica](/Docs/Chapter-I.md/#121-antecedentes-y-problematica)
