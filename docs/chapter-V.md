@@ -640,6 +640,78 @@ En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implemen
 Para el desarrollo de este sprint el equipo ha considerado en total 29 horas :
 
 ![sprint1.png](../assets/img/chapter-v/sprint1.jpg)
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>yy/mm/dd</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Brayan Morales</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Gonzalo Saldaña, Giovanni Ramos, Luis Lagos, Sebastián Ramirez 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Review Summary</td>
+            <td>
+                La opinion del product owner y las partes interesadas con respecto al avance realizado al concluir el sprint 3  fue el esperado.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Retrospective Summary</td>
+            <td>
+                Implementación de la primera version delanding page con algunas deficiencias en cuanto a diseño y usuablidad 
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Goal</td>
+            <td>
+                Concluir y mejorar las intefaces y secciones de la landing page
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>
+                30
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                29
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
 #### 5.2.1.2. Sprint Backlog 1.
 
 A continuación, compartimos imágenes que demuestran cómo gestionamos las tareas en Pivotal Tracker. Posteriormente, presentamos la tabla de control de estado del Sprint.
@@ -1053,6 +1125,78 @@ En el segundo sprint, comenzamos a desarrollar nuestra aplicación web avanzando
 Para el desarrollo de este sprint el equipo ha considerado en total 29 horas:
 
 ![sprint1.png](../assets/img/chapter-v/sprint2.jpg)
+
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2023/11/11</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Brayan Morales</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Gonzalo Saldaña, Giovanni Ramos, Luis Lagos, Sebastián Ramirez 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>
+                La opinion del product owner y las partes interesadas con respecto al avance realizado al concluir el sprint 3  fue el esperado.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Retrospective Summary</td>
+            <td>
+                En el sprint 2 se pudo mejorar aspectos de eficiencia en algunos componentes y la organización de la arquitectura del front-end de la aplicación web 
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Goal</td>
+            <td>
+                Concluir y mejorar las intefaces de la aplicación web, levantado las observaciones del sprint 3. Implementar las tablas para membreship y la capa de seguridad. 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>
+                30
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                29
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 
 #### 5.2.2.2. Sprint Backlog 2.
@@ -1491,9 +1635,9 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 
 ### 5.2.3. Sprint 3
 
-
-
 #### 5.2.3.1. Sprint Planning 3.
+
+En este punto el equipo tiene como objetivo levantar observaciones proporcionadas por el product owner y las partes interesadas. Tambien se plantea un avance del 40% del backend de la palicación web. 
 
 <table>
   <tr>
@@ -1564,14 +1708,9 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 
   <tr>
     <td><strong>Sprint 3 Velocity</strong></td>
-    <td>El tiempo de desarrollo para este sprint es de 29 horas. Considerando los siguientes User Stories con sus Story Points escogidos para el desarrollo son:
-      <ol type="A">
-        <li>US10 Busqueda de Tecnicos SP: 8</li>
-        <li>US12 Visualizar Tecnico SP: 5</li>
-        <li>US11 Progreso del dispositivo SP: 8</li>
-        <li>US05 Administrar Tareas SP: 8</li>
-      </ol>
-    </td>
+    <td>30</td>
+    
+    
   </tr>
 
   <tr>
@@ -2584,7 +2723,6 @@ En esta imagen se muestra las ramas realizadas para el desarrollo del frontend d
 
 En este punto se busca perfeccionar la arquitectura del back-end, corrigiendo y optimizando aspectos identificados durante el Sprint 3. Este sprint no solo se centra en la rectificación de fallos y la mejora de la eficiencia, sino que también se propone implementar una capa adicional de seguridad vital para el funcionamiento robusto de nuestro sistema y ademas se implementa la capa de membresias. 
 
-
 <table>
     <thead>
         <tr>
@@ -2598,7 +2736,7 @@ En este punto se busca perfeccionar la arquitectura del back-end, corrigiendo y 
         </tr>
         <tr>
             <td>Date</td>
-            <td>05/11/2023</td>
+            <td>2023/11/11</td>
         </tr>
         <tr>
             <td>Time</td>
@@ -3140,9 +3278,19 @@ Link del repositorio:
 </table>
 
 
-### 5.2.4.7. .Software Deployment Evidence for Sprint Review.
+### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+Para la entrega del sprint 4 se desplegó la landing page totalmente funcional, se desplegó la aplicación web y el back-end. 
+
+* **Imagenes de la landing page desplegada**
 
 
+
+* **Imagenes de la aplicación web desplegada**
+
+
+
+* **Imagenes del BackEnd desplegado**
 
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
