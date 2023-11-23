@@ -3280,15 +3280,22 @@ Link del repositorio:
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
-Para la entrega del sprint 4 se desplegó la landing page totalmente funcional, se desplegó la aplicación web y el back-end. 
+Para la entrega del sprint 4 se desplegó la landing page totalmente funcional, se desplegó la aplicación web y el back-end.  
 
 * **Imagenes de la landing page desplegada**
+Se desplegó el landing page por Git Hub Pages.    
+
+Link de la Landing Page desplegada: TecHelp - https://logicversee.github.io/LandingPageTecHelp/
 
 
+![Landing page despliegue](https://i.ibb.co/q53CWVZ/Screenshot-9.jpg)  
 
 * **Imagenes de la aplicación web desplegada**
 
+Se desplegó la aplicación web en este enlace.  
+https://techhelp-webapp-v1.web.app/login  
 
+![Web Application](https://i.ibb.co/0J3CWwv/Screenshot-10.jpg)  
 
 * **Imagenes del BackEnd desplegado**
 
