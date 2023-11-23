@@ -3292,6 +3292,10 @@ Para la entrega del sprint 4 se desplegó la landing page totalmente funcional, 
 
 * **Imagenes del BackEnd desplegado**
 
+El Backend ya desplegado en la plataforma Zeabur tal cómo se presentó en el Sprint 3.        
+![DeployAPI](https://i.ibb.co/nmGbGZT/Screenshot-14.jpg)  
+
+Link del Api desplegada: [https://techelp-api.zeabur.app/swagger-ui/index.html#/](https://techelp-api.zeabur.app/swagger-ui/index.html#/)  
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 
