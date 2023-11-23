@@ -114,8 +114,6 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 
 ### **Reporte de colaboración de la entrega del TB2:**
 
-Backend En esta entrega, nuestra meta principal fue la implementación parcial del backend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, intellij y java. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
-
 En esta entrega, nuestra meta principal fue la implementación parcial del backend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, intellij y java. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
 
 ![commits-colaboration.png](assets/img/chapter-v/barras.png)
