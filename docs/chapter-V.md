@@ -2677,10 +2677,10 @@ Generamos el dominio para nuestra solución adecuado al nombre de nuestro proyec
 ![DeployAPI](https://i.ibb.co/S3yF1MD/Screenshot-13.jpg)       
 
 
-Una vez asignado el dominio, podremos visualizar nuestra API y la asignación que le hemos brindado a los Endpoints de la solución.    
+Una vez asignado el dominio, podremos visualizar nuestra API y la asignación que le hemos brindado a los Endpoints de la solución.      
 ![DeployAPI](https://i.ibb.co/nmGbGZT/Screenshot-14.jpg)  
 
-Link del Api desplegada: [https://techelp-api.zeabur.app/swagger-ui/index.html#/](https://techelp-api.zeabur.app/swagger-ui/index.html#/)
+Link del Api desplegada: [https://techelp-center-platform.zeabur.app/swagger-ui/index.html#/](https://techelp-center-platform.zeabur.app/swagger-ui/index.html#/)
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
@@ -3142,23 +3142,6 @@ Se concluyó con las vistas restastantes de la aplicación web, se implementó l
 
 
 
-* **Web Aplication**
-
-| Endpoint | Details |
-| - | - | 
-| name endpoint | Detalle- explicación del endponit | 
-
-
-* **Web Service**
-
-| Endpoint | Details |
-| - | - | 
-| name endpoint | Detalle- explicación del endponit | 
-
-
-
-
-**Pegar imagenes**
 
 Link del repositorio: 
 
@@ -3176,22 +3159,25 @@ Link del repositorio:
     </thead>
     <tbody>
         <tr>
-            <td rowspan="14">Nombre del endpoint</td>
+            <td rowspan="3">Task-controller</td>
         </tr>
         <tr>
-            <td>POST/GET/ETC</td>
+            <td>POST/GET</td>
             <td>Escribir</td>
-            <td>ruta</td>
+            <td>https://techelp-api.zeabur.app/api/v1/task</td>
         </tr>
         <tr>
-            <td>POST/GET/ETC</td>
+            <td>GET</td>
             <td>Escribir</td>
-            <td>ruta</td>
+            <td>https://techelp-api.zeabur.app/api/v1/task/{id}</td>
         </tr>
         <tr>
-            <td>POST/GET/ETC</td>
+            <td rowspan="3">Technical-Controller</td>
+        </tr>
+        <tr>
+            <td>POST/GET</td>
             <td>Escribir</td>
-            <td>ruta</td>
+            <td>https://techelp-api.zeabur.app/api/v1/technicals</td>
         </tr>
         <tr>
             <td>POST/GET/ETC</td>
@@ -3202,6 +3188,9 @@ Link del repositorio:
             <td>POST/GET/ETC</td>
             <td>Escribir</td>
             <td>ruta</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Technical-Controller</td>
         </tr>
         <tr>
             <td>POST/GET/ETC</td>
