@@ -67,14 +67,16 @@
 
 ## Project Report Collaboration Insights 
 
+Link del repositorio:[https://github.com/orgs/LogicVersee/repositories](https://github.com/orgs/LogicVersee/repositories)
+
+Link del repositorio-Informe:[https://github.com/LogicVersee/TecHelp-InformeDelProyecto](https://github.com/LogicVersee/TecHelp-InformeDelProyecto)
 
 ![](assets/img/colaboracion/colaboration-commit1.png)
 ![](assets/img/colaboracion/git-clone-tp.PNG)
 ![](assets/img/colaboracion/ramas-tp.PNG)
 ![](assets/img/colaboracion/pulse.PNG)
 
-Link del repositorio:[https://github.com/orgs/LogicVersee/repositories](https://github.com/orgs/LogicVersee/repositories)
-<br>Link del repositorio-Informe:[https://github.com/LogicVersee/TecHelp-InformeDelProyecto](https://github.com/LogicVersee/TecHelp-InformeDelProyecto)
+
 
 
 ------
@@ -166,7 +168,7 @@ Link del repositorio:[https://github.com/orgs/LogicVersee/repositories](https://
     * ##### [5.2.1.8. Team Collaboration Insights during Sprint](/Docs/chapter-V.md#5218-team-collaboration-insights-during-sprint)
 
 
-* #### [5.2.1. Sprint 2](/Docs/chapter-V.md#521-sprint-1)
+* #### [5.2.1. Sprint 2](/Docs/chapter-V.md#521-sprint-2)
     * ##### [5.2.2.1. Sprint Planning 2](/Docs/chapter-V.md#5221-sprint-planning-2)
     * ##### [5.2.2.2. Sprint Backlog 2](/Docs/chapter-V.md#5222-sprint-backlog-2)
     * ##### [5.2.2.3. Development Evidence for Sprint Review](/Docs/chapter-V.md#5223-development-evidence-for-sprint-review)
