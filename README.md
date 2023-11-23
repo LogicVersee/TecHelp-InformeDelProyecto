@@ -78,17 +78,19 @@ Link del repositorio:[https://github.com/orgs/LogicVersee/repositories](https://
 ------
 # Contenido 
 ## Capitulo I: Introducción
-### [1.1. Startup Profile](/docs/chapter-I.md/#11-startup-profile)
-* #### [1.1.1. Descripcion de la Startup](/docs/chapter-I.md/#111-descripción-de-la-startup)
-* #### [1.1.2. Perfiles de Integrantes del equipo](/Docs/Chapter-I.md/#112-perfiles-de-integrantes-del-equipo)
-### [1.2. Solution Profile](/Docs/Chapter-I.md/#12-solution-profile)
-* #### [1.2.1. Antecedentes y problematica](/Docs/Chapter-I.md/#121-antecedentes-y-problematica)
-* #### [1.2.2. Lean UX Process](/Docs/Chapter-I.md/#122-lean-ux-process) 
-    * ##### [1.2.2.1. Lean UX Problem Statements](/Docs/Chapter-I.md/#1221-lean-ux-problem-statements)
-    * ##### [1.2.2.2. Lean UX Assumptions](/Docs/Chapter-I.md/#1222-lean-ux-assumptions)
-    * ##### [1.2.2.3. Lean UX Hypothesis Statements](/Docs/Chapter-I.md/#1223-lean-ux-hypothesis-statements)
-    * ##### [1.2.2.4. Lean UX Canvas](/Docs/Chapter-I.md/#1224-lean-ux-canvas)
-### [1.3. Segmentos Objetivos](/Docs/Chapter-I.md/#13-segmentos-objetivos)
+### [1.1. Startup Profile](/Docs/chapter-I.md#11-startup-profile)
+* #### [1.1.1. Descripcion de la Startup](/Docs/chapter-I.md#111-descripción-de-la-startup)
+* #### [1.1.2. Perfiles de Integrantes del equipo](/Docs/chapter-I.md#112-perfiles-de-integrantes-del-equipo)
+### [1.2. Solution Profile](/Docs/chapter-I#12-solution-profile)
+* #### [1.2.1. Antecedentes y problematica](/Docs/chapter-I.md/#121-antecedentes-y-problemática)
+* #### [1.2.2. Lean UX Process](/Docs/chapter-I#122-lean-ux-process) 
+    * ##### [1.2.2.1. Lean UX Problem Statements](/Docs/chapter-I#1221-lean-ux-problem-statements)
+    * ##### [1.2.2.2. Lean UX Assumptions](/Docs/chapter-I#1222-lean-ux-assumptions)
+    * ##### [1.2.2.3. Lean UX Hypothesis Statements](/Docs/chapter-I#1223-lean-ux-hypothesis-statements)
+    * ##### [1.2.2.4. Lean UX Canvas](/Docs/chapter-I#1224-lean-ux-canvas)
+### [1.3. Segmentos Objetivos](/Docs/chapter-I#13-segmentos-objetivos)
+
+
 ## Capitulo II: Requirements Elicitation & Analysis
 ### [2.1. Competidores](/Docs/Chapter-II.md/#21-competidores)
 * #### [2.1.1. Analisis Competitivo](/Docs/Chapter-II.md/#211-analisis-competitivo)
