@@ -627,7 +627,7 @@ lading page.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.1. Sprint 2
+### 5.2.1. Sprint 1
 
 En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implementación del diseño de nuestra Landing Page utilizando WebStorm como entorno de desarrollo. Esto implica que al concluir el Sprint, todas las secciones, ya sea Home, Services, Pricing, Testimonials o About Us, deben estar completadas. A continuación, adjuntamos imágenes que ilustran cómo gestionamos las tareas en Pivotal Tracker.
 
@@ -640,6 +640,78 @@ En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implemen
 Para el desarrollo de este sprint el equipo ha considerado en total 29 horas :
 
 ![sprint1.png](../assets/img/chapter-v/sprint1.jpg)
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>yy/mm/dd</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Brayan Morales</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Gonzalo Saldaña, Giovanni Ramos, Luis Lagos, Sebastián Ramirez 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Review Summary</td>
+            <td>
+                La opinion del product owner y las partes interesadas con respecto al avance realizado al concluir el sprint 3  fue el esperado.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Retrospective Summary</td>
+            <td>
+                Implementación de la primera version delanding page con algunas deficiencias en cuanto a diseño y usuablidad 
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Goal</td>
+            <td>
+                Concluir y mejorar las intefaces y secciones de la landing page
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>
+                30
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                29
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
 #### 5.2.1.2. Sprint Backlog 1.
 
 A continuación, compartimos imágenes que demuestran cómo gestionamos las tareas en Pivotal Tracker. Posteriormente, presentamos la tabla de control de estado del Sprint.
@@ -1050,89 +1122,82 @@ En el segundo sprint, comenzamos a desarrollar nuestra aplicación web avanzando
 
 #### 5.2.2.1. Sprint Planning 2.
 
+Para el desarrollo de este sprint el equipo ha considerado en total 29 horas:
+
+![sprint1.png](../assets/img/chapter-v/sprint2.jpg)
+
+
+
 <table>
-  <tr>
-    <td><strong>Sprint #</strong></td>
-    <td>Sprint 2</td>
-  </tr>
-
-  <tr>
-    <td colspan="2"><strong>Sprint Planning Background</strong></td>
-  </tr>
-
-  <tr>
-    <td><strong>Date</strong></td>
-    <td>2023-09-12</td>
-  </tr>
-
-  <tr>
-    <td><strong>Time</strong></td>
-    <td>11:15 AM</td>
-  </tr>
-
-  <tr>
-    <td><strong>Location</strong></td>
-    <td>Reunion realizada en el grupo de discord del equipo de trabajo</td>
-  </tr>
-  
-  <tr>
-    <td><strong>Prepared By</strong></td>
-    <td>Brayan Smith Morales Quispe <b>(Lider de grupo)</b></td>
-  </tr>
-
-  <tr>
-    <td><strong>Attendees (to planning meeting)</strong></td>
-    <td>
-      <ol type="A">
-        <li>Ramirez Mendez Sebastián André</li>
-        <li>Lagos Aguilar Luis Eduardo</li>
-        <li>Ramos Calderon Giovanni Andres</li>
-        <li>Saldaña Vela, Janover Gonzalo</li>
-      </ol>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Sprint 1 Review Summary</strong></td>
-    <td>El anterior sprint desarrollado de xx al xx que tuvo como meta el  desarrollo del landing page.Se obtuvo como resultado el completo desarrollo de landig page y su despliege en su totalidad con las caracteristicas planteadas por el equipo de trabajo.La opinion de los miembros del equipo fue que tuvimos una mala coordinacion al momento de realizar la documentacion y falta de comunicacion. El feeback dado al sprint fue la mejora de los user stories,product backlog,mejoramiento en la coordinacion y completar las entrevistas faltantes.  </td>
-  </tr>
-
-  <tr>
-    <td><strong>Sprint 1 Retrospective Summary</strong></td>
-    <td>Las opiniones del equipo de trabajo son las siguientes:
-      <ol type="A">
-        <li>Se debe mejorar nuestra coordinacion como equipo de trabajo en el desarrollo de los sprints</li>
-        <li>Debemos se mas responsables cumpliendo las fechas establecidas para la entrega de cada parte desarrollado por un mienbro.</li>
-        <li>Debemos ser mas minuciosos al momento de revisar las fallas de nuestro trabajo</li>
-      </ol>
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
-  </tr>
-
-  <tr>
-    <td><strong>Sprint 2 Goal</strong></td>
-    <td>El objetivo del sprint es el desarrollo de la front end superior al 40%</td>
-  </tr>
-
-  <tr>
-    <td><strong>Sprint 2 Velocity</strong></td>
-    <td>El tiempo de desarrollo para este sprint es de 29 horas. Considerando los siguientes User Stories con sus Story Points escogidos para el desarrollo son:
-      <ol type="A">
-        <li>US10 Busqueda de Tecnicos SP: 8</li>
-        <li>US12 Visualizar Tecnico SP: 5</li>
-        <li>US02 Solicitud Reparacion Celular SP: 8</li>
-      </ol>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Sum of Story Points</strong></td>
-    <td>21</td>
-  </tr>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2023/11/11</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Brayan Morales</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Gonzalo Saldaña, Giovanni Ramos, Luis Lagos, Sebastián Ramirez 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>
+                La opinion del product owner y las partes interesadas con respecto al avance realizado al concluir el sprint 3  fue el esperado.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Retrospective Summary</td>
+            <td>
+                En el sprint 2 se pudo mejorar aspectos de eficiencia en algunos componentes y la organización de la arquitectura del front-end de la aplicación web 
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Goal</td>
+            <td>
+                Concluir y mejorar las intefaces de la aplicación web, levantado las observaciones del sprint 3. Implementar las tablas para membreship y la capa de seguridad. 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>
+                30
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                29
+            </td>
+        </tr>
+    </tbody>
 </table>
+
+
 
 #### 5.2.2.2. Sprint Backlog 2.
 
@@ -1570,9 +1635,9 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 
 ### 5.2.3. Sprint 3
 
-
-
 #### 5.2.3.1. Sprint Planning 3.
+
+En este punto el equipo tiene como objetivo levantar observaciones proporcionadas por el product owner y las partes interesadas. Tambien se plantea un avance del 40% del backend de la palicación web. 
 
 <table>
   <tr>
@@ -1643,14 +1708,9 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 
   <tr>
     <td><strong>Sprint 3 Velocity</strong></td>
-    <td>El tiempo de desarrollo para este sprint es de 29 horas. Considerando los siguientes User Stories con sus Story Points escogidos para el desarrollo son:
-      <ol type="A">
-        <li>US10 Busqueda de Tecnicos SP: 8</li>
-        <li>US12 Visualizar Tecnico SP: 5</li>
-        <li>US11 Progreso del dispositivo SP: 8</li>
-        <li>US05 Administrar Tareas SP: 8</li>
-      </ol>
-    </td>
+    <td>30</td>
+    
+    
   </tr>
 
   <tr>
@@ -2617,10 +2677,10 @@ Generamos el dominio para nuestra solución adecuado al nombre de nuestro proyec
 ![DeployAPI](https://i.ibb.co/S3yF1MD/Screenshot-13.jpg)       
 
 
-Una vez asignado el dominio, podremos visualizar nuestra API y la asignación que le hemos brindado a los Endpoints de la solución.    
+Una vez asignado el dominio, podremos visualizar nuestra API y la asignación que le hemos brindado a los Endpoints de la solución.      
 ![DeployAPI](https://i.ibb.co/nmGbGZT/Screenshot-14.jpg)  
 
-Link del Api desplegada: [https://techelp-api.zeabur.app/swagger-ui/index.html#/](https://techelp-api.zeabur.app/swagger-ui/index.html#/)
+Link del Api desplegada: [https://techelp-center-platform.zeabur.app/swagger-ui/index.html#/](https://techelp-center-platform.zeabur.app/swagger-ui/index.html#/)
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
@@ -2802,6 +2862,538 @@ En el siguiente se presentara el video de nuestra aplicacion web se presentara a
 
 link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsB64hw12GZ_dwjKxZoLHb1zw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=f2AcMS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211f984_upc_edu_pe/Efgyenk14YJJhHOpUMNUqbsB64hw12GZ_dwjKxZoLHb1zw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=f2AcMS)
 
+## 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+En este punto se busca perfeccionar la arquitectura del back-end, corrigiendo y optimizando aspectos identificados durante el Sprint 3. Este sprint no solo se centra en la rectificación de fallos y la mejora de la eficiencia, sino que también se propone implementar una capa adicional de seguridad vital para el funcionamiento robusto de nuestro sistema y ademas se implementa la capa de membresias.
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2023/11/11</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Brayan Morales</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Gonzalo Saldaña, Giovanni Ramos, Luis Lagos, Sebastián Ramirez 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Review Summary</td>
+            <td>
+                La opinion del product owner y las partes interesadas con respecto al avance realizado al concluir el sprint 3  fue el esperado.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Retrospective Summary</td>
+            <td>
+                En el sprint 3 se pudo mejorar aspectos de eficiencia en algunos componentes y la organización de la arquitectura del Back-End. Para el sprint 4 se plantee levantar estas observaciones para el correcto funcionamiento de la aplicación. 
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td>
+                Concluir y mejorar las intefaces de la aplicación web, levantado las observaciones del sprint 3. Implementar las tablas para membreship y la capa de seguridad. 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>
+                30
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                30
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
+### 5.2.4.2. Sprint Backlog 4
 
+En el tercer sprint backlog, el equipo completó en un 80% el front end y un 70% del back end de la aplicación web. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio al equipo de desarrollo dividir las user stories que corresponden al sprint 4 en tareas y asignar al responsables.
+
+![Trello Sprint 4]()
+
+
+Link de Trello:
+
+<table>
+    <thead>
+  <>
+    <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 4</th>
+    </tr>
+    <tr>
+      <th colspan="2">Technical User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status(To-do/In-Process/To-Review/Done)</th>
+    </tr>
+    <tr>
+            <td rowspan="3">UH01</td>
+            <td rowspan="3">Administrar inventario</td>
+            <td>TA01</td>
+            <td>Implementación del backend</td>
+            <td>Se implementara en el backend el bounded context Inventory </td>
+            <td> 5</td>
+            <td> Giovanni Ramos </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA02</td>
+            <td>Implementcion del Frontend</td>
+            <td>Se implementara en el frontend el bounded context inventory</td>
+            <td> 5h</td>
+            <td> Luis Lagos </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA03</td>
+            <td>Uso de Api externar</td>
+            <td>Integraciaon de la backend con el frontend</td>
+            <td>2h</td>
+            <td> Sebastian </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">UH03</td>
+            <td rowspan="2">Registro de la aplicación</td>
+            <td>TA04</td>
+            <td>Implementación del backend</td>
+            <td>Se implementara en el backend el bounded context Inventory</td>
+            <td> 5h</td>
+            <td> Brayan Morales </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA05</td>
+           <td>Implementacion del Frotnend</td>
+            <td>Se implementara el bounded context en el backend</td>
+            <td> 4h</td>
+            <td> Gonzalo Janover </td>
+            <td>Done</td>
+        </tr>
+
+### 5.2.4.3. Development Evidence for Sprint Review.
+
+Para este cuarto sprint logramos desplegar y desarrollar las siguientes secciones de nuestra aplicación web:Login, Register,Progress, Technical, ViewProgress,Memberchip,Task,CreateTask,UpdateTask,ViewTask,TechnicalProfile,EditTechnicalProfile.
+
+Evidencias del BackEnd:
+
+<br>
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="33" align="center"> https://github.com/LogicVersee/techelp-center-platform-backend </td>
+    <td align="center"> master</td>
+    <td align="center"> bc3df0401d1b07fc4d74d41eaa4e000e388a0c9e</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> master</td>
+    <td align="center" > 4b801f00a6a332cdbeefc124158228036b76be27</td>
+    <td align="center"> chore: added dependencies.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/register</td>
+    <td align="center"> 56fca751ebf0aa88beb50a8ad3875d5ea876465c</td>
+    <td align="center"> feat(technical): technical, dashboard, component and incomes entities implemented</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/register</td>
+    <td align="center"> 6db06a22c15ec56e7ede07d353eda1c153b3cad7</td>
+    <td align="center"> feat(technical): technical controller created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/register</td>
+    <td align="center"> cb5e517aa6505a77f03221872d78e12b11ff73d0</td>
+    <td align="center"> feat(inventory): inventory controller created</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/register </td>
+    <td align="center"> 9338e88d83169e4d7b9eb70befef63dd74e509a5</td>
+    <td align="center"> feat(dash-board): implemented dashboard context facade </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/register </td>
+    <td align="center"> e63bc3022f2253d762509f0ceb5e811abb46c049</td>
+    <td align="center"> feat(task): task command created</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/register </td>
+    <td align="center"> 3080bfc3d56b0c1262f30cd16b88719e72435ea1 </td>
+    <td align="center"> feat(task): client name's value object created</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/register </td>
+    <td align="center"> af28c9ab9cb54f0223160c0e83a0ca42df46eae2 </td>
+    <td align="center"> feat(task): client phone name's value object created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center"> feature/register </td>
+    <td align="center"> 2469e86a7045e480af1d04ac0b0eca2e68f1f72f </td>
+    <td align="center"> feat(task): client problem's value object created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/register </td>
+    <td align="center"> 6cc2bd4ab00ce32798ee41c6578f71bb15dfebd0 </td>
+    <td align="center"> feat(task): client delivery day's value object created. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> 749fb2af8589fa694db41b6fac1680cd3f16de0d</td>
+    <td align="center"> fix(task): task command created fixed. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> c3bfc367367eb794b8193f1919d0ea8ebd4d3369</td>
+    <td align="center"> feat(task): task entity created. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> 73f2f9d39bcb5e3e602f618516c04fa0696156e2</td>
+    <td align="center"> feat(task): get task by technicalid created. </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> 4ea62f50c5d8c40ac137c9f2a03e14aa28447a53</td>
+    <td align="center"> feat(task): task services created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> a210a72d51d4c7e39c8994c08a6fe467ac2e0344</td>
+    <td align="center"> feat(task): task repository created</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> d929347a7840b6db553b156ddf7992c1edc87122</td>
+    <td align="center"> feat(task): task context facade created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> a1f19abb6490ac11049e1aea8a7415b09c9acad2</td>
+    <td align="center"> feat(task): task service implementation created </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 4a8dd81a699f53beb81fe2b1c9eb25e8a067e921</td>
+    <td align="center"> feat(task): task controller created</td>
+    <td align="center"> ---</td>
+    <td align="center">23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 18298a9831ff3d3362fdd56875735e2d7c653ece</td>
+    <td align="center"> feat(task): task by id query created.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 81d67e09fa54490a72e06f9a2538fffbfe0789cb</td>
+    <td align="center"> fix(DeliveryDay): public string getdeliveryday fixed </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 430655d64b4c6866a2d9f23328253101a0c61cf6</td>
+    <td align="center"> feat(task): task resource added</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> a6d59a4b95dec69455a1e1632aeef4ebba989942</td>
+    <td align="center"> feat(task): create task resource added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 4550c3c4dfe0aa68fb1c09673fcd1b56cce73e31</td>
+    <td align="center"> feat(task): create task from resource assembler transform added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> a036a754794f4062aba1837cef37f1685e231b21</td>
+    <td align="center"> feat(task): task from entity assembler transform added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task </td>
+    <td align="center"> c21233ed8bf057a3512d1e0d82b359e9c30ff61c</td>
+    <td align="center"> feat(task): task command service implementation created.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> b2c45b715a653a7886320fa050109ed7409784f6</td>
+    <td align="center"> feat(task): task query service implementation created.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+ <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> d2b279205081e497cee79221d9458d37ebe0c60d</td>
+    <td align="center"> feat(task): task controller added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> 1412700dabd3377c8bc7f2cc391abe18725eb229</td>
+    <td align="center"> feat(task): edited dependencies.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> feature/task</td>
+    <td align="center"> ad269d55c2d5f8cada22e412767aebdcb349b26a</td>
+    <td align="center"> feat(task): added query to get tasks by technical id.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> test</td>
+    <td align="center"> ca2b5d9bdd22e1144d9a88f3893d69faff3ecdce</td>
+    <td align="center"> feat(test): technicals feature added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center"> test</td>
+    <td align="center"> 8734d23116b1e7d9502e82e82eb0eaa2cf3a75bb</td>
+    <td align="center"> feat(test): item feature added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+ <tr>
+    <td align="center">test </td>
+    <td align="center"> 38ee3231dcbfed24f7d2797973ddb5aba612e16f</td>
+    <td align="center"> feat(test): tasks feature added.</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/11/2023</td>
+  </tr>
+
+
+</table>
+
+### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+### 5.2.4.5. Execution Evidence for Sprint Review.
+Para este cuarto  sprint se ha desplegado la siguientes secciones en nuestra aplicacion web.
+
+La implementacion de ambas vistas tanto para el usuario como del tecnico.
+
+![commits.png](../assets/img/chapter-v/dashboard.jpg)
+
+![commits.png](../assets/img/chapter-v/dashboardTh.jpg)
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+En este Sprint se tomó importancia la parte de la seguridad, es por ello que se implementaron los siguientes Endpoints para la lógica de autentificación.
+
+![DeployAPI](https://images-ext-1.discordapp.net/external/xkyY_67lLFW-_MpNXHDKVZ6VpkEweCE-DQjRmPlP-gg/https/i.ibb.co/QcYN8jB/Screenshot-12.jpg?format=webp)
+
+
+### 5.2.4.7.  Software Deployment Evidence for Sprint Review.
+
+En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
+Llevamos a cabo la implementación en un dos plataformas de confianza. Empleamos Railway para la implementación de la base de datos MySQL. Utilizamso la plataforma Zeabur para configurar el Service API aprovechando su facilidad en el uso.
+
+La plataforma Railway nos ofrece una serie de alternativas para integrar nuestro proyecto a su base de datos MySQL.  
+![RailwayMySQL](https://i.ibb.co/2vgwnzC/Screenshot-1.jpg)
+
+Ingresamos con nuestra cuenta de GitHub y nos ofrece la opción de crear nuestro contenedor por MySQL.  
+![MySQL](https://i.ibb.co/K7J0DKb/Screenshot-2.jpg)
+
+
+Creamos nuestra base de datos en el apartado que visualizamos en la derecha que dice "New".  
+![MySQL](https://i.ibb.co/pvKnfgp/Screenshot-3.jpg)
+
+
+Seleccionamos la opción de "Add MySQL" para agregar un contenedor para nuestra solución.    
+![MySQL](https://i.ibb.co/g6qK5c4/Screenshot-4.jpg)
+
+Una vez seleccionada la opción, automaticamente nos mostrará el contenedor creado con nuestra base de datos en MySQL.   
+![MySQL](https://i.ibb.co/6vHwBH5/Screenshot-5.jpg)
+
+Dentro de las opciones, en la pestaña "Variables" tendremos toda la información para realizar la cadena de conexión entre la API y la base de datos.  
+![MySQL](https://i.ibb.co/xFD8N5F/Screenshot-6.jpg)
+
+Para realizar el despliegue de nuestra API, integramos el uso de Zeabur, ya que es una solución que nos brinda HTTPS y es muchísimo más fácil deplegarla por esta plataforma que otras.
+![DeployAPI](https://i.ibb.co/r7wc4cV/Screenshot-7.jpg)
+
+Nuevamente ingresamos a la plataforma por nuestra cuenta de GitHub, en esta plataforma sí es importante, ya que lograremos usar el repositorio por esta forma y será más fácil para su implementación. Le damos a la opción de "Create Project".    
+![DeployAPI](https://i.ibb.co/pj97yTK/Screenshot-8.jpg)
+
+
+Elegimos el servidor que más cerca se encuentra de nosotros, en este caso "California, United States".  
+![DeployAPI](https://i.ibb.co/XWPgjfP/Screenshot-9.jpg)
+
+
+En la opción de implementar servicios, escogemos la forma de subir el proyecto por medio de nuestro Git.  
+![DeployAPI](https://i.ibb.co/z8DNfjX/Screenshot-10.jpg)
+
+Seleccionamos el repositorio donde estamos realizando toda la solución de nuestra API.   
+![DeployAPI](https://i.ibb.co/SdjRSQH/Screenshot-11.jpg)
+
+Una vez seleccionado el repositorio, automaticamente comenzará a desplegarse y nos mostrará el detalle de la implementación.  
+![DeployAPI](https://i.ibb.co/mtLQNdR/Screenshot-12.jpg)
+
+
+Generamos el dominio para nuestra solución adecuado al nombre de nuestro proyecto, en nuestro caso, Techelp-api, que luego emplearemos el Swagger UI para mostrarlo.      
+![DeployAPI](https://i.ibb.co/S3yF1MD/Screenshot-13.jpg)
+
+
+Una vez asignado el dominio, podremos visualizar nuestra API y la asignación que le hemos brindado a los Endpoints de la solución.      
+![DeployAPI](https://images-ext-1.discordapp.net/external/xkyY_67lLFW-_MpNXHDKVZ6VpkEweCE-DQjRmPlP-gg/https/i.ibb.co/QcYN8jB/Screenshot-12.jpg?format=webp)
+
+Link del Api desplegada: [https://techelp-center-platform.zeabur.app/swagger-ui/index.html#/](https://techelp-center-platform.zeabur.app/swagger-ui/index.html#/)
+
+### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+__Backend__
+En esta entrega, nuestra meta principal fue la implementación parcial del backend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, intellij y java. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
+
+![commits-colaboration.png](../assets/img/chapter-v/barras.png)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo.
+
+![commits.png](../assets/img/chapter-v/contributors.png)
+
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra Landing Page, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
+
+
+![network.png](../assets/img/chapter-v/newtworkbd.PNG)
+En esta imagen se muestra las ramas realizadas para el desarrollo del backend de nuestra app web.Siendo una muestra del desarrollo de esta.
+
+__Frontend__
+
+En esta entrega, nuestra segunda meta fue la implementación total del fontend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub y Webstrom. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo LogicVerse:
+
+![commits-colaboration.png](../assets/img/chapter-v/barras_ft.PNG)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo.
+
+![commits.png](../assets/img/chapter-v/contri_ft.PNG)
+
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra Landing Page, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
+
+
+![network.png](../assets/img/chapter-v/netft.PNG)
+En esta imagen se muestra las ramas realizadas para el desarrollo del frontend de nuestra app web.Siendo una muestra del desarrollo de esta.
